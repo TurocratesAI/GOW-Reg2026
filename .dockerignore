@@ -1,0 +1,25 @@
+# Keep the Grand Challenge build context lean + private. Only gow/container/{requirements.txt,core.py,gowcfg.py,
+# inference.py,src,gowsrc} are needed by the root Dockerfile; everything else is excluded.
+.git
+data
+paper
+*.tar.gz
+*.tar
+*.svs
+*.tiff
+*.tif
+*.png
+*.pdf
+gow/eval
+gow/artifacts
+gow/container/model
+gow/container/_old_tarballs
+gow/container/test
+gow/container/diag
+gow/container/*.tar.gz
+gow/container/build_v2s2.sh
+gow/container/val_interf1.sh
+**/__pycache__
+**/*.pyc
+s3_transfer
+qc

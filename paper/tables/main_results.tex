@@ -1,0 +1,25 @@
+% GOW on the blind Test Phase 1 evaluation (full challenge metric set).
+\begin{table}[t]
+\centering
+\caption{GOW on the blind Test Phase 1 evaluation. Visual grounding and its three robustness components are
+perfect. Binary path validity is all-or-nothing and low by design, since the successor-set walker emits a
+superset of any single reference path.}
+\label{tab:main}
+\begin{tabular}{lc}
+\toprule
+Metric & Test Phase 1 \\
+\midrule
+Overall score                         & 0.791 \\
+\midrule
+Visual grounding                      & \textbf{1.000} \\
+\quad Background rejection             & \textbf{1.000} \\
+\quad Input sensitivity               & \textbf{1.000} \\
+\quad Cross-region consistency         & \textbf{1.000} \\
+\midrule
+Reasoning-edge F1                     & 0.852 \\
+Matched-edge answer similarity (MESS) & 0.772 \\
+Report score                          & 0.572 \\
+Binary path validity                  & 0.483 \\
+\bottomrule
+\end{tabular}
+\end{table}

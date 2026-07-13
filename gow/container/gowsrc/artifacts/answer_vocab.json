@@ -1,0 +1,1790 @@
+{
+ "bladder": {
+  "is there any abnormality present": {
+   "No, there is no abnormality.": 69,
+   "Yes, there is an abnormality.": 1010
+  },
+  "is there any additional finding present": {
+   "No, there is no additional finding.": 962,
+   "Yes, there is an additional finding.": 169
+  },
+  "is there any associated epithelial lesion present": {
+   "No, there is no associated epithelial lesion.": 36,
+   "Yes, there is an associated epithelial lesion.": 133
+  },
+  "is there any inflammation present": {
+   "Yes, there is an inflammation.": 48
+  },
+  "is there any invasion present": {
+   "No, there is no invasion.": 676,
+   "Yes, there is a invasion.": 455
+  },
+  "is there any muscularis propria present": {
+   "No, there is no muscularis propria.": 248,
+   "Yes, there is a muscularis propria.": 831
+  },
+  "is there any neoplasm present": {
+   "No, there is no neoplasm.": 12,
+   "Yes, there is a neoplasm.": 1996
+  },
+  "is there any papillary lesion present": {
+   "No, there is no papillary lesion.": 225,
+   "Yes, there is a papillary lesion.": 451
+  },
+  "what is the #1 diagnosis": {
+   "Invasive urothelial carcinoma with glandular differentiation": 1,
+   "Invasive urothelial carcinoma with involvement of muscle proper": 134,
+   "Invasive urothelial carcinoma with involvement of subepithelial connective tissue": 294,
+   "Invasive urothelial carcinoma with squamous differentiation": 26,
+   "No tumor present": 81,
+   "Non-invasive papillary urothelial carcinoma, high grade": 285,
+   "Non-invasive papillary urothelial carcinoma, high grade, with squamous differentiation": 8,
+   "Non-invasive papillary urothelial carcinoma, low grade": 158,
+   "Urothelial carcinoma in situ": 92
+  },
+  "what is the #2 diagnosis": {
+   "Chronic granulomatous inflammation with foreign body reaction": 43,
+   "Urothelial carcinoma in situ": 133
+  },
+  "what is the #3 diagnosis": {
+   "Chronic granulomatous inflammation with foreign body reaction": 5
+  },
+  "what is the behavior of neoplasm": {
+   "Malignant": 998
+  },
+  "what is the extent of invasion": {
+   "Invades muscularis propria": 153,
+   "Invades subepithelial connective tissue": 302
+  },
+  "what is the final pathology report": {
+   "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma, with\\n    1) involvement of muscle proper\\n    2) squamous differentiation\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.": 1,
+   "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma, with\\n    1) involvement of subepithelial connective tissue\\n    2) squamous differentiation\\n  2. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.": 1,
+   "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma, with\\n    1). involvement of subepithelial connective tissue\\n    2) squamous differentiation\\n  2. Urothelial carcinoma in situ\\n  3. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.": 1,
+   "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma,\\n     with involvement of muscle proper\\n  2. Chronic granulomatous inflammation with foreign body reaction\\nNote) The specimen includes muscle proper.": 1,
+   "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma,\\n     with involvement of muscle proper\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.": 21,
+   "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma,\\n     with involvement of subepithelial connective tissue\\n  2. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.": 6,
+   "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma,\\n     with involvement of subepithelial connective tissue\\n  2. Urothelial carcinoma in situ\\n  3. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.": 2,
+   "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma,\\n     with involvement of subepithelial connective tissue\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen does not include muscle proper.": 10,
+   "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma,\\n     with involvement of subepithelial connective tissue\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.": 53,
+   "Urinary bladder, transurethral resection;\\n  1. No tumor present\\n  2. Chronic granulomatous inflammation with foreign body reaction\\nNote) The specimen does not include muscle proper.": 5,
+   "Urinary bladder, transurethral resection;\\n  1. No tumor present\\n  2. Chronic granulomatous inflammation with foreign body reaction\\nNote) The specimen includes muscle proper.": 7,
+   "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, high grade, with squamous differentiation\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.": 1,
+   "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, high grade\\n  2. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen does not include muscle proper.": 1,
+   "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, high grade\\n  2. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.": 9,
+   "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, high grade\\n  2. Urothelial carcinoma in situ\\n  3. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.": 2,
+   "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, high grade\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen does not include muscle proper.": 1,
+   "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, high grade\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.": 39,
+   "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, low grade\\n  2. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.": 2,
+   "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, low grade\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.": 2,
+   "Urinary bladder, transurethral resection;\\n  1. Urothelial carcinoma in situ\\n  2. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen does not include muscle proper.": 1,
+   "Urinary bladder, transurethral resection;\\n  1. Urothelial carcinoma in situ\\n  2. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.": 10,
+   "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with 1) involvement of muscle proper\\n      2) glandular differentiation\\n\\nNote) The specimen includes muscle proper.": 1,
+   "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with 1) involvement of muscle proper\\n      2) squamous differentiation\\n\\nNote) The specimen includes muscle proper.": 18,
+   "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with 1) involvement of subepithelial connective tissue\\n      2) squamous differentiation\\n\\nNote) The specimen does not include muscle proper.": 3,
+   "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with 1) involvement of subepithelial connective tissue\\n      2) squamous differentiation\\n\\nNote) The specimen includes muscle proper.": 3,
+   "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with involvement of muscle proper\\n\\nNote) The specimen includes muscle proper.": 111,
+   "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with involvement of subepithelial connective tissue\\n\\nNote) The specimen does not include muscle proper.": 74,
+   "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with involvement of subepithelial connective tissue\\n\\nNote) The specimen includes muscle proper.": 149,
+   "Urinary bladder, transurethral resection;\\n  No tumor present\\n\\nNote) The specimen does not include muscle proper.": 17,
+   "Urinary bladder, transurethral resection;\\n  No tumor present\\n\\nNote) The specimen includes muscle proper.": 52,
+   "Urinary bladder, transurethral resection;\\n  Non-invasive papillary urothelial carcinoma, high grade, with squamous differentiation\\n\\nNote) The specimen does not include muscle proper.": 2,
+   "Urinary bladder, transurethral resection;\\n  Non-invasive papillary urothelial carcinoma, high grade, with squamous differentiation\\n\\nNote) The specimen includes muscle proper.": 5,
+   "Urinary bladder, transurethral resection;\\n  Non-invasive papillary urothelial carcinoma, high grade\\n\\nNote) The specimen does not include muscle proper.": 64,
+   "Urinary bladder, transurethral resection;\\n  Non-invasive papillary urothelial carcinoma, high grade\\n\\nNote) The specimen includes muscle proper.": 169,
+   "Urinary bladder, transurethral resection;\\n  Non-invasive papillary urothelial carcinoma, low grade\\n\\nNote) The specimen does not include muscle proper.": 50,
+   "Urinary bladder, transurethral resection;\\n  Non-invasive papillary urothelial carcinoma, low grade\\n\\nNote) The specimen includes muscle proper.": 104,
+   "Urinary bladder, transurethral resection;\\n  Urothelial carcinoma in situ\\n\\nNote) The specimen does not include muscle proper.": 20,
+   "Urinary bladder, transurethral resection;\\n  Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.": 61
+  },
+  "what is the grade of dysplasia": {
+   "High grade": 293,
+   "Low grade": 158
+  },
+  "what is the grading system of dysplasia": {
+   "2-tier grading system": 451
+  },
+  "what is the histologic subtype of neoplasm": {
+   "Conventional urothelial carcinoma": 427,
+   "Urothelial carcinoma with glandular differentiation,": 1,
+   "Urothelial carcinoma with squamous differentiation,": 27
+  },
+  "what is the histologic type of inflammation": {
+   "Chronic granulomatous inflammation with foreign body reaction": 48
+  },
+  "what is the histologic type of neoplasm": {
+   "Invasive urothelial carcinoma": 455,
+   "Non-invasive papillary urothelial carcinoma": 443,
+   "Non-invasive papillary urothelial carcinoma with squamous differentiation": 8,
+   "Urothelial carcinoma in situ": 225
+  },
+  "what is the number of diagnoses to include": {
+   "1": 903,
+   "2": 171,
+   "3": 5
+  },
+  "what is the organ": {
+   "Urinary bladder": 2158
+  },
+  "what is the primary of neoplasm": {
+   "Urothelial": 998
+  },
+  "what is the procedure": {
+   "Transurethral resection": 2158
+  }
+ },
+ "breast": {
+  "is there any abnormality present": {
+   "No, there is no abnormality.": 67,
+   "Yes, there is an abnormality.": 4292
+  },
+  "is there any additional finding present": {
+   "No, there is no additional finding.": 2146,
+   "Yes, there is an additional finding.": 290
+  },
+  "is there any focus measuring more than 2 mm in contiguous extent present": {
+   "No, there is no focus measuring more than 2 mm in contiguous extent.": 34,
+   "Yes, there is a focus measuring more than 2 mm in contiguous extent.": 527
+  },
+  "is there any focus measuring more than 3 mm in contiguous extent present": {
+   "No, there is no focus measuring more than 3 mm in contiguous extent.": 5,
+   "Yes, there is a focus measuring more than 3 mm in contiguous extent.": 10
+  },
+  "is there any inflammation present": {
+   "No, there is no inflammation.": 44,
+   "Yes, there is an inflammation.": 30
+  },
+  "is there any invasion present": {
+   "No, there is no invasion.": 1097,
+   "Yes, there is an invasion.": 1265
+  },
+  "is there any metaplasia present": {
+   "No, there is no metaplasia.": 48,
+   "Yes, there is a metaplasia.": 26
+  },
+  "is there any microcalcification present": {
+   "No, there is no microcalcification.": 1963,
+   "Yes, there is a microcalcification.": 183
+  },
+  "is there any monotonous cell population present": {
+   "No, there is no monotonous cell population.": 317,
+   "Yes, there is a monotonous cell population.": 576
+  },
+  "is there any myoepithelial cell in fibrovascular core present": {
+   "Yes, there is a myoepithelial cell in fibrovascular core.": 15
+  },
+  "is there any necrosis present": {
+   "No, there is no necrosis.": 173,
+   "Yes, there is a necrosis.": 166
+  },
+  "is there any proliferative lesion present": {
+   "No, there is no proliferative lesion.": 222,
+   "Yes, there is a proliferative lesion.": 2362
+  },
+  "is there any stromal change present": {
+   "No, there is no stromal change.": 62,
+   "Yes, there is a stromal change.": 12
+  },
+  "is there any tdlu involving more than half of acini present": {
+   "No, there is no TDLU involving more than half of acini.": 1,
+   "Yes, there is a TDLU involving more than half of acini.": 23
+  },
+  "what is histologic type of lesion": {
+   "Apocrine metaplasia": 26,
+   "Duct ectasia": 18,
+   "Fat necrosis": 3,
+   "Fibrocystic change": 3,
+   "Foreign body reaction": 6,
+   "Granulomatous lobular mastitis": 3,
+   "Mucocele-like lesion": 1,
+   "No evidence of tumor": 1,
+   "Pseudoangiomatous stromal hyperplasia": 11,
+   "Radiation-related atypia": 2,
+   "Usual ductal hyperplasia": 9
+  },
+  "what is the #1 diagnosis": {
+   "3": 1,
+   "Apocrine adenosis": 4,
+   "Apocrine metaplasia": 4,
+   "Atypical ductal hyperplasia": 32,
+   "Carcinoma with apocrine differentiation": 3,
+   "Columnar cell change": 1,
+   "Columnar cell hyperplasia": 1,
+   "Columnar cell lesion": 39,
+   "Desmoid fibromatosis": 2,
+   "Duct ectasia": 15,
+   "Ductal carcinoma in situ": 339,
+   "Ductal carcinoma in situ in intraductal papilloma": 2,
+   "Fat necrosis": 3,
+   "Fibroadenoma": 21,
+   "Fibroadenomatoid change": 10,
+   "Fibrocystic change": 37,
+   "Fibroepithelial tumor": 59,
+   "Fibroepithelial tumor, favor fibroadenoma": 36,
+   "Fibroepithelial tumor, favor phyllodes tumor": 7,
+   "Flat epithelial atypia": 4,
+   "Foreign body reaction": 6,
+   "Granulomatous lobular mastitis": 3,
+   "Intraductal papilloma": 17,
+   "Intraductal papilloma with apocrine metaplasia": 1,
+   "Intraductal papilloma with atypical ductal hyperplasia": 3,
+   "Intraductal papilloma with usual ductal hyperplasia": 18,
+   "Invasive carcinoma of no special type, grade I": 213,
+   "Invasive carcinoma of no special type, grade II": 730,
+   "Invasive carcinoma of no special type, grade III": 133,
+   "Invasive carcinoma with features of mucinous carcinoma": 10,
+   "Invasive carcinoma with mixed ductal and lobular features": 2,
+   "Invasive cribriform carcinoma": 2,
+   "Invasive lobular carcinoma": 91,
+   "Invasive lobular carcinoma, pleomorphic type": 1,
+   "Invasive micropapillary carcinoma": 10,
+   "Lobular carcinoma in situ": 6,
+   "Malignant lymphoma": 9,
+   "Metaplastic carcinoma": 3,
+   "Micro-invasive carcinoma": 7,
+   "Mucinous carcinoma": 48,
+   "No evidence of tumor": 38,
+   "Papillary neoplasm": 172,
+   "Papillary neoplasm with apocrine metaplasia": 1,
+   "Papillary neoplasm with atypical ductal hyperplasia": 2,
+   "Papillary neoplasm with usual ductal hyperplasia": 1,
+   "Phyllodes tumor": 5,
+   "Pseudoangiomatous stromal hyperplasia": 9,
+   "Sclerosing adenosis": 18,
+   "Solid papillary carcinoma": 1,
+   "Solid papillary carcinoma in situ": 3,
+   "Tubular carcinoma": 2,
+   "Usual ductal hyperplasia": 28
+  },
+  "what is the #2 diagnosis": {
+   "Apocrine metaplasia": 17,
+   "Atypical ductal hyperplasia": 2,
+   "Atypical lobular hyperplasia": 1,
+   "Columnar cell change": 2,
+   "Columnar cell lesion": 9,
+   "Duct ectasia": 3,
+   "Ductal carcinoma in situ": 193,
+   "Fibroadenoma": 4,
+   "Fibroadenomatoid change": 7,
+   "Fibroepithelial tumor, favor fibroadenoma": 1,
+   "Flat epithelial atypia": 1,
+   "Intraductal papilloma": 4,
+   "Intraductal papilloma with usual ductal hyperplasia": 2,
+   "Lobular carcinoma in situ": 17,
+   "Microcalcification": 129,
+   "Mucocele-like lesion": 1,
+   "Radiation-related atypia": 2,
+   "Sclerosing adenosis": 5,
+   "Usual ductal hyperplasia": 13
+  },
+  "what is the #3 diagnosis": {
+   "Apocrine metaplasia": 4,
+   "Columnar cell lesion": 1,
+   "Fibrocystic change": 1,
+   "Microcalcification": 51,
+   "Pseudoangiomatous stromal hyperplasia": 2,
+   "Sclerosing adenosis": 1,
+   "Usual ductal hyperplasia": 1
+  },
+  "what is the #4 diagnosis": {
+   "Apocrine metaplasia": 1,
+   "Microcalcification": 1
+  },
+  "what is the architectural pattern of lesion": {
+   "Cribriform": 107,
+   "Cribriform and micropapillary": 2,
+   "Cribriform and papillary": 6,
+   "Cribriform and solid": 8,
+   "Flat": 1,
+   "Micropapillary": 13,
+   "Papillary": 5,
+   "Solid": 186,
+   "Solid and cribriform": 6,
+   "Solid and micropapillary": 3,
+   "Solid and papillary": 2
+  },
+  "what is the final pathology report": {
+   "Breast, aspiration biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: Low\\n  - Necrosis: Absent": 1,
+   "Breast, core needle biopsy;\\n  1. Apocrine metaplasia\\n  2. Usual ductal hyperplasia\\n  3. Fibrocystic change": 1,
+   "Breast, core needle biopsy;\\n  1. Atypical ductal hyperplasia\\n  2. Apocrine metaplasia": 1,
+   "Breast, core needle biopsy;\\n  1. Atypical ductal hyperplasia\\n  2. Columnar cell change": 1,
+   "Breast, core needle biopsy;\\n  1. Atypical ductal hyperplasia\\n  2. Columnar cell lesion": 3,
+   "Breast, core needle biopsy;\\n  1. Atypical ductal hyperplasia\\n  2. Flat epithelial atypia": 1,
+   "Breast, core needle biopsy;\\n  1. Atypical ductal hyperplasia\\n  2. Intraductal papilloma": 1,
+   "Breast, core needle biopsy;\\n  1. Atypical ductal hyperplasia\\n  2. Microcalcification": 3,
+   "Breast, core needle biopsy;\\n  1. Atypical ductal hyperplasia\\n  2. Mucocele-like lesion": 1,
+   "Breast, core needle biopsy;\\n  1. Atypical ductal hyperplasia\\n  2. Sclerosing adenosis": 1,
+   "Breast, core needle biopsy;\\n  1. Columnar cell change\\n  2. Sclerosing adeosis\\n  3. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Columnar cell lesion\\n  2. Apocrine metaplasia": 6,
+   "Breast, core needle biopsy;\\n  1. Columnar cell lesion\\n  2. Duct ectasia": 1,
+   "Breast, core needle biopsy;\\n  1. Columnar cell lesion\\n  2. Intraductal papilloma": 1,
+   "Breast, core needle biopsy;\\n  1. Columnar cell lesion\\n  2. Microcalcification": 5,
+   "Breast, core needle biopsy;\\n  1. Columnar cell lesion\\n  2. Usual ductal hyperplasia\\n  3. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Duct ectasia\\n  2. Apocrine metaplasia": 1,
+   "Breast, core needle biopsy;\\n  1. Duct ectasia\\n  2. Columnar cell lesion\\n  3. Pseudoangiomatous stromal hyperplasia": 1,
+   "Breast, core needle biopsy;\\n  1. Duct ectasia\\n  2. Columnar cell lesion\\n  3. Pseudoangiomatous stromal hyperplasia\\n  4. Apocrine metaplasia": 1,
+   "Breast, core needle biopsy;\\n  1. Duct ectasia\\n  2. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ in intraductal papilloma\\n  2. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Cribriform and solid\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Present (Comedo-type)\\n  2. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Cribriform\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Absent\\n  2. Microcalcification": 7,
+   "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Cribriform\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Present (Comedo-type)\\n  2. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Cribriform\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Present (Focal)\\n  2. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Cribriform\\n     - Nuclear grade: Low\\n     - Necrosis: Absent\\n  2. Microcalcification": 3,
+   "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Micropapillary\\n     - Nuclear grade: High\\n     - Necrosis: Present (Focal)\\n  2. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Solid and micropapillary\\n     - Nuclear grade: High\\n     - Necrosis: Present (Focal)\\n  2. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Solid\\n     - Nuclear grade: High\\n     - Necrosis: Present (Comedo-type)\\n  2. Microcalcification": 5,
+   "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Solid\\n     - Nuclear grade: High\\n     - Necrosis: Present (Focal)\\n  2. Microcalcification": 7,
+   "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Solid\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Absent\\n  2. Fibroadenoma": 2,
+   "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Solid\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Absent\\n  2. Microcalcification": 4,
+   "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Solid\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Absent\\n  2. Sclerosing adenosis\\n  3. Microcalcification": 2,
+   "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Solid\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Present (Comedo-type)\\n  2. Microcalcification": 4,
+   "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Solid\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Present (Focal)\\n  2. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Fibroadenoma\\n  2. Usual ductal hyperplasia": 3,
+   "Breast, core needle biopsy;\\n  1. Fibroadenomatoid change\\n  2. Intraductal papilloma": 1,
+   "Breast, core needle biopsy;\\n  1. Fibrocystic change\\n  2. Apocrine metaplasia": 2,
+   "Breast, core needle biopsy;\\n  1. Fibrocystic change\\n  2. Microcalcification": 2,
+   "Breast, core needle biopsy;\\n  1. Fibroepithelial tumor\\n  2. Usual ductal hyperplasia": 4,
+   "Breast, core needle biopsy;\\n  1. Intraductal papilloma\\n  2. Apocrine metaplasia": 2,
+   "Breast, core needle biopsy;\\n  1. Intraductal papilloma\\n  2. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 1, Nuclear grade: 2, Mitoses: 1)\\n  2. Ductal carcinoma in situ": 3,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 1, Nuclear grade: 2, Mitoses: 1)\\n  2. Ductal carcinoma in situ\\n  3. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 1, Nuclear grade: 2, Mitoses: 1)\\n  2. Microcalcification": 2,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 1, Mitoses: 1)\\n  2. Atypical lobular hyperplasia": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 1, Mitoses: 1)\\n  2. Ductal carcinoma in situ": 2,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 1, Mitoses: 1)\\n  2. Ductal carcinoma in situ\\n  3. Microcalcification": 9,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)\\n  2. Ductal carcinoma in situ": 22,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)\\n  2. Microcalcification": 15,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 3, Nuclear grade: 1, Mitoses: 1)\\n  2. Ductal carcinoma in situ": 7,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 3, Nuclear grade: 1, Mitoses: 1)\\n  2. Fibroadenoma\\n  3. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 3, Nuclear grade: 1, Mitoses: 1)\\n  2. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 2, Mitoses: 2)\\n  2. Ductal carcinoma in situ": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 3, Mitoses: 1)\\n  2. Ductal carcinoma in situ": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 3, Mitoses: 1)\\n  2. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 3, Mitoses: 2)\\n  2. Ductal carcinoma in situ": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 3, Mitoses: 2)\\n  2. Ductal carcinoma in situ\\n  3. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)\\n  2. Ductal carcinoma in situ": 80,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)\\n  2. Ductal carcinoma in situ\\n  3. Microcalcification": 7,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)\\n  2. Fibroadenomatoid change\\n  3. Microcalcification": 2,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)\\n  2. Intraductal papilloma": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)\\n  2. Microcalcification": 32,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)\\n  2. Ductal carcinoma in situ": 11,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)\\n  2. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)\\n  2. Ductal carcinoma in situ": 8,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)\\n  2. Ductal carcinoma in situ\\n  3. Microcalcification": 6,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)\\n  2. Fibroadenomatoid change\\n  3. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)\\n  2. Microcalcification": 4,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)\\n  2. Ductal carcinoma in situ": 6,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 3)\\n  2. Ductal carcinoma in situ": 2,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 3)\\n  2. Ductal carcinoma in situ\\n  3. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma with features of mucinous carcinoma\\n  2. Ductal carcinoma in situ": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive carcinoma with features of mucinous carcinoma\\n  2. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive cribriform carcinoma\\n  2. Ductal carcinoma in situ": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive lobular carcinoma\\n  2. Ductal carcinoma in situ": 3,
+   "Breast, core needle biopsy;\\n  1. Invasive lobular carcinoma\\n  2. Lobular carcinoma in situ": 9,
+   "Breast, core needle biopsy;\\n  1. Invasive lobular carcinoma\\n  2. Lobular carcinoma in situ\\n  3. Microcalcification": 8,
+   "Breast, core needle biopsy;\\n  1. Invasive lobular carcinoma\\n  2. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Invasive micropapillary carcinoma\\n  2. Ductal carcinoma in situ": 2,
+   "Breast, core needle biopsy;\\n  1. Invasive micropapillary carcinoma\\n  2. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Microinvasive carcinoma\\n  2. Ductal carcinoma in situ": 6,
+   "Breast, core needle biopsy;\\n  1. Microinvasive carcinoma\\n  2. Ductal carcinoma in situ\\n  3. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Mucinous carcinoma\\n  2. Ductal carcinoma in situ": 3,
+   "Breast, core needle biopsy;\\n  1. Mucinous carcinoma\\n  2. Ductal carcinoma in situ\\n  3. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. No evidence of tumor\\n  2. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. No evidence of tumor\\n  2. Radiation-related atypia": 2,
+   "Breast, core needle biopsy;\\n  1. Papillary neoplasm\\n  2. Atypical ductal hyperplasia": 2,
+   "Breast, core needle biopsy;\\n  1. Papillary neoplasm\\n  2. Columnar cell lesion": 3,
+   "Breast, core needle biopsy;\\n  1. Papillary neoplasm\\n  2. Fibroepithelial tumor, favor fibroadenoma": 1,
+   "Breast, core needle biopsy;\\n  1. Papillary neoplasm\\n  2. Microcalcification": 5,
+   "Breast, core needle biopsy;\\n  1. Papillary neoplasm\\n  2. Sclerosing adenosis": 1,
+   "Breast, core needle biopsy;\\n  1. Papillary neoplasm\\n  2. Usual ductal hyperplasia": 1,
+   "Breast, core needle biopsy;\\n  1. Papillary neoplasm\\n  2. Usual ductal hyperplasia\\n  3. Columnar cell lesion": 1,
+   "Breast, core needle biopsy;\\n  1. Papillary neoplasm\\n  2. Usual ductal hyperplasia\\n  3. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Sclerosing adenosis\\n  2. Columnar cell change\\n  3. Apocrine metaplasia\\n  4. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Sclerosing adenosis\\n  2. Columnar cell lesion": 1,
+   "Breast, core needle biopsy;\\n  1. Sclerosing adenosis\\n  2. Fibroadenoma\\n  3. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Sclerosing adenosis\\n  2. Microcalcification": 2,
+   "Breast, core needle biopsy;\\n  1. Sclerosing adenosis\\n  2. Microcalcification\\n  3. Apocrine metaplasia": 1,
+   "Breast, core needle biopsy;\\n  1. Sclerosing adenosis\\n  2. Usual ductal hyperplasia\\n  3. Microcalcification": 1,
+   "Breast, core needle biopsy;\\n  1. Usual ductal hyperplasia\\n  2. Apocrine metaplasia": 3,
+   "Breast, core needle biopsy;\\n  1. Usual ductal hyperplasia\\n  2. Apocrine metaplasia\\n  3. Sclerosing adenosis": 1,
+   "Breast, core needle biopsy;\\n  1. Usual ductal hyperplasia\\n  2. Duct ectasia\\n  3. Microcalcification": 2,
+   "Breast, core needle biopsy;\\n  1. Usual ductal hyperplasia\\n  2. Fibroadenomatoid change": 3,
+   "Breast, core needle biopsy;\\n  1. Usual ductal hyperplasia\\n  2. Microcalcification\\n  3. Apocrine metaplasia": 2,
+   "Breast, core needle biopsy;\\n  Apocrine adenosis": 4,
+   "Breast, core needle biopsy;\\n  Apocrine metaplasia": 3,
+   "Breast, core needle biopsy;\\n  Atypical ductal hyperplasia": 20,
+   "Breast, core needle biopsy;\\n  Carcinoma with apocrine differentiation": 3,
+   "Breast, core needle biopsy;\\n  Columnar cell hyperplasia": 1,
+   "Breast, core needle biopsy;\\n  Columnar cell lesion": 21,
+   "Breast, core needle biopsy;\\n  Desmoid fibromatosis": 2,
+   "Breast, core needle biopsy;\\n  Duct ectasia": 11,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ in intraductal papilloma": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform and micropapillary\\n  - Nuclear grade: High\\n  - Necrosis: Present (Comedo-type)": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform and micropapillary\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform and papillary\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent": 4,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform and papillary\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Comedo-type)": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform and papillary\\n  - Nuclear grade: Low\\n  - Necrosis: Absent": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform and solid\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent": 4,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform and solid\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Comedo-type)": 2,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform and solid\\n  - Nuclear grade: Low\\n  - Necrosis: Present (Comedo-type)": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform\\n  - Nuclear grade: High\\n  - Necrosis: Absent": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform\\n  - Nuclear grade: High\\n  - Necrosis: Present (Comedo-type)": 9,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform\\n  - Nuclear grade: High\\n  - Necrosis: Present (Focal)": 4,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent": 25,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Comedo-type)": 11,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Focal)": 11,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform\\n  - Nuclear grade: Low\\n  - Necrosis: Absent": 31,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform\\n  - Nuclear grade: Low\\n  - Necrosis: Present": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform\\n  - Nuclear grade: Low\\n  - Necrosis: Present (Comedo-type)": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Flat\\n  - Nuclear grade: High\\n  - Necrosis: Absent": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Micropapillary\\n  - Nuclear grade: High\\n  - Necrosis: Absent": 2,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Micropapillary\\n  - Nuclear grade: High\\n  - Necrosis: Present (Comedo-type)": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Micropapillary\\n  - Nuclear grade: High\\n  - Necrosis: Present (Focal)": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Micropapillary\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent": 3,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Micropapillary\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Comedo-type)": 3,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Micropapillary\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Focal)": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Micropapillary\\n  - Nuclear grade: Low\\n  - Necrosis: Absent": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Papillary\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Papillary\\n  - Nuclear grade: Low\\n  - Necrosis: Absent": 4,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid and cribriform\\n  - Nuclear grade: High\\n  - Necrosis: Present (Comedo-type)": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid and cribriform\\n  - Nuclear grade: High\\n  - Necrosis: Present (Focal)": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid and cribriform\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent": 2,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid and cribriform\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Comedo-type)": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid and cribriform\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Focal)": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid and micropapillary\\n  - Nuclear grade: High\\n  - Necrosis: Present (Comedo-type)": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid and micropapillary\\n  - Nuclear grade: High\\n  - Necrosis: Present (Focal)": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid and papillary\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent": 2,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: High\\n  - Necrosis: Absent": 25,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: High\\n  - Necrosis: Present (Comedo-type)": 35,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: High\\n  - Necrosis: Present (Focal)": 31,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent": 42,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present": 1,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Comedo-type)": 10,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Focal)": 11,
+   "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: Low\\n  - Necrosis: Absent": 1,
+   "Breast, core needle biopsy;\\n  Fat necrosis": 3,
+   "Breast, core needle biopsy;\\n  Fibroadenoma": 18,
+   "Breast, core needle biopsy;\\n  Fibroadenomatoid change": 9,
+   "Breast, core needle biopsy;\\n  Fibrocystic change": 31,
+   "Breast, core needle biopsy;\\n  Fibroepithelial tumor": 55,
+   "Breast, core needle biopsy;\\n  Fibroepithelial tumor, favor fibroadenoma": 36,
+   "Breast, core needle biopsy;\\n  Fibroepithelial tumor, favor phyllodes tumor": 7,
+   "Breast, core needle biopsy;\\n  Flat epithelial atypia": 4,
+   "Breast, core needle biopsy;\\n  Foreign body reaction": 6,
+   "Breast, core needle biopsy;\\n  Granulomatous lobular mastitis": 3,
+   "Breast, core needle biopsy;\\n  Intraductal papilloma": 14,
+   "Breast, core needle biopsy;\\n  Intraductal papilloma with apocrine metaplasia": 1,
+   "Breast, core needle biopsy;\\n  Intraductal papilloma with atypical ductal hyperplasia": 3,
+   "Breast, core needle biopsy;\\n  Intraductal papilloma with usual ductal hyperplasia": 13,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade I (Tubule formation: 1, Nuclear grade: 1, Mitoses: 1)": 5,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade I (Tubule formation: 1, Nuclear grade: 2, Mitoses: 1)": 15,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade I (Tubule formation: 1, Nuclear grade: 2, Mitoses: 2)": 1,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 1, Mitoses: 1)": 6,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)": 84,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade I (Tubule formation: 3, Nuclear grade: 1, Mitoses: 1)": 38,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 2, Mitoses: 2)": 4,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 3, Mitoses: 1)": 8,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 3, Mitoses: 2)": 3,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)": 387,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)": 67,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)": 95,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 2, Mitoses: 3)": 8,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)": 94,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)\\n  2. Microcalcification": 3,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 3)": 17,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma with features of mucinous carcinoma": 8,
+   "Breast, core needle biopsy;\\n  Invasive carcinoma with mixed ductal and lobular features": 2,
+   "Breast, core needle biopsy;\\n  Invasive cribriform carcinoma": 1,
+   "Breast, core needle biopsy;\\n  Invasive lobular carcinoma": 70,
+   "Breast, core needle biopsy;\\n  Invasive lobular carcinoma, pleomorphic type": 1,
+   "Breast, core needle biopsy;\\n  Invasive micropapillary carcinoma": 7,
+   "Breast, core needle biopsy;\\n  Lobular carcinoma in situ": 4,
+   "Breast, core needle biopsy;\\n  Malignant lymphoma": 9,
+   "Breast, core needle biopsy;\\n  Metaplastic carcinoma": 3,
+   "Breast, core needle biopsy;\\n  Mucinous carcinoma": 44,
+   "Breast, core needle biopsy;\\n  No evidence of tumor": 34,
+   "Breast, core needle biopsy;\\n  Papillary neoplasm": 157,
+   "Breast, core needle biopsy;\\n  Papillary neoplasm with apocrine metaplasia": 1,
+   "Breast, core needle biopsy;\\n  Papillary neoplasm with atypical ductal hyperplasia": 2,
+   "Breast, core needle biopsy;\\n  Papillary neoplasm with usual ductal hyperplasia": 1,
+   "Breast, core needle biopsy;\\n  Phyllodes tumor": 5,
+   "Breast, core needle biopsy;\\n  Pseudoangiomatous stromal hyperplasia": 9,
+   "Breast, core needle biopsy;\\n  Sclerosing adenosis": 9,
+   "Breast, core needle biopsy;\\n  Solid papillary carcinoma": 1,
+   "Breast, core needle biopsy;\\n  Solid papillary carcinoma in situ": 3,
+   "Breast, core needle biopsy;\\n  Tubular carcinoma": 2,
+   "Breast, core needle biopsy;\\n  Usual ductal hyperplasia": 16,
+   "Breast, mammotome biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Cribriform\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Absent\\n  2. Microcalcification": 1,
+   "Breast, mammotome biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Solid\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Absent\\n  2. Microcalcification": 1,
+   "Breast, mammotome biopsy;\\n  1. Fibrocystic change\\n  2. Microcalcification": 1,
+   "Breast, mammotome biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)\\n  2. Ductal carcinoma in situ": 1,
+   "Breast, mammotome biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)\\n  2. Ductal carcinoma in situ\\n  3. Microcalcification": 3,
+   "Breast, mammotome biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)\\n  2. Ductal carcinoma in situ": 1,
+   "Breast, mammotome biopsy;\\n  1. Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)\\n  2. Ductal carcinoma in situ": 1,
+   "Breast, mammotome biopsy;\\n  1. Lobular carcinoma in situ\\n  2. Intraductal papilloma with usual ductal hyperplasia": 2,
+   "Breast, mammotome biopsy;\\n  1. Usual ductal hyperplasia\\n  2. Fibroadenomatoid change": 1,
+   "Breast, mammotome biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: High\\n  - Necrosis: Present (Comedo-type)": 2,
+   "Breast, mammotome biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent": 1,
+   "Breast, mammotome biopsy;\\n  Fibrocystic change": 1,
+   "Breast, mammotome biopsy;\\n  Intraductal papilloma with usual ductal hyperplasia": 5,
+   "Breast, mammotome biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)": 1,
+   "Breast, mammotome biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)": 1,
+   "Breast, mammotome biopsy;\\n  Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)": 2,
+   "Breast, stereotactic biopsy;\\n  1. Columnar cell lesion\\n  2. Apocrine metaplasia\\n  3. Usual ductal hyperplasia": 1,
+   "Breast, stereotactic biopsy;\\n  1. Columnar cell lesion\\n  2. Microcalcification": 1,
+   "Breast, stereotactic biopsy;\\n  1. Sclerosing adenosis\\n  2. Microcalcification": 2,
+   "Breast, stereotactic biopsy;\\n  Columnar cell lesion": 2,
+   "Breast, stereotactic biopsy;\\n  No evidence of tumor": 1,
+   "Nipple, punch biopsy;\\n  1. Papillary neoplasm\\n  2. Microcalcification": 1
+  },
+  "what is the grade of neoplasm": {
+   "Grade I": 213,
+   "Grade II": 729,
+   "Grade III": 134
+  },
+  "what is the grading system": {
+   "Nottingham combined histologic grade": 3228
+  },
+  "what is the histologic group of lesion": {
+   "Adenosis": 28,
+   "Fibroepithelial tumor": 150,
+   "Intraductal proliferative lesion": 661,
+   "Mesenchymal tumor": 2,
+   "Non-invasive lobular neoplasia": 24,
+   "Papillary neoplasm": 232
+  },
+  "what is the histologic type of lesion": {
+   "Apocrine adenosis": 4,
+   "Atypical ductal hyperplasia": 34,
+   "Atypical lobular hyperplasia": 1,
+   "Columnar cell change": 3,
+   "Columnar cell hyperplasia": 1,
+   "Columnar cell lesion": 49,
+   "Desmoid fibromatosis": 2,
+   "Ductal carcinoma in situ": 1195,
+   "Ductal carcinoma in situ in intraductal papilloma": 2,
+   "Fibroadenoma": 25,
+   "Fibroadenomatoid change": 17,
+   "Fibroepithelial tumor": 59,
+   "Fibroepithelial tumor, favor fibroadenoma": 37,
+   "Fibroepithelial tumor, favor phyllodes tumor": 7,
+   "Flat cell atypia": 1,
+   "Flat epithelial atypia": 4,
+   "Intraductal papilloma": 17,
+   "Intraductal papilloma with apocrine metaplasia": 5,
+   "Intraductal papilloma with atypical ductal hyperplasia": 3,
+   "Intraductal papilloma with usual ductal hyperplasia": 20,
+   "Lobular carcinoma in situ": 23,
+   "Papillary ductal carcinoma in situ": 15,
+   "Papillary neoplasm": 173,
+   "Papillary neoplasm with apocrine metaplasia": 1,
+   "Papillary neoplasm with atypical ductal hyperplasia": 2,
+   "Papillary neoplasm with usual ductal hyperplasia": 1,
+   "Phyllodes tumor": 5,
+   "Sclerosing adenosis": 24,
+   "Solid papillary carcinoma in situ": 3,
+   "Usual ductal hyperplasia": 33
+  },
+  "what is the histologic type of neoplasm": {
+   "Carcinoma with apocrine differentiation": 3,
+   "Invasive breast carcinoma of no special type": 1076,
+   "Invasive carcinoma with features of mucinous carcinoma": 10,
+   "Invasive carcinoma with mixed ductal and lobular features": 2,
+   "Invasive cribriform carcinoma": 2,
+   "Invasive lobular carcinoma": 91,
+   "Invasive micropapillary carcinoma": 10,
+   "Malignant lymphoma": 9,
+   "Metaplastic carcinoma": 3,
+   "Micro-invasive carcinoma": 7,
+   "Mucinous carcinoma": 48,
+   "Pleomorphic lobular carcinoma": 1,
+   "Solid papillary carcinoma": 1,
+   "Tubular carcinoma": 2
+  },
+  "what is the nuclear grade of lesion": {
+   "High": 131,
+   "Intermediate": 163,
+   "Low": 45
+  },
+  "what is the number of diagnoses to include": {
+   "1": 1796,
+   "2": 354,
+   "3": 58,
+   "4": 4,
+   "Papillary neoplasm": 1
+  },
+  "what is the organ": {
+   "Breast": 2212,
+   "Nipple": 1
+  },
+  "what is the overall score": {
+   "3": 5,
+   "4": 39,
+   "5": 169,
+   "6": 526,
+   "7": 203,
+   "8": 114,
+   "9": 20
+  },
+  "what is the primary of neoplasm": {
+   "Hematolymphoid": 9,
+   "Mammary": 1256
+  },
+  "what is the procedure": {
+   "Aspiration biopsy": 1,
+   "Core needle biopsy": 2172,
+   "Mammotome biopsy": 32,
+   "Punch biopsy": 1,
+   "Stereotactic biopsy": 7
+  },
+  "what is the score for mitotic rate": {
+   "1": 849,
+   "2": 199,
+   "3": 28
+  },
+  "what is the score for nuclear pleomorphism": {
+   "1": 70,
+   "2": 749,
+   "3": 257
+  },
+  "what is the score for tubular differentiation": {
+   "1": 27,
+   "2": 159,
+   "3": 890
+  },
+  "what is the type of necrosis": {
+   "Comedo-type necrosis": 91,
+   "Focal necrosis": 73,
+   "Necrosis": 2
+  }
+ },
+ "cervix": {
+  "is there any abnormality present": {
+   "No, there is no abnormality.": 28,
+   "Yes, there is an abnormality.": 784
+  },
+  "is there any active inflammation present": {
+   "No, there is no active inflammation.": 3,
+   "Yes, there is an active inflammation.": 6
+  },
+  "is there any additional finding present": {
+   "No, there is no additional finding.": 784,
+   "Yes, there is an additional finding.": 3
+  },
+  "is there any benign epithelial lesion present": {
+   "No, there is no benign epithelial lesion": 9,
+   "Yes, there is a benign epithelial lesion": 3
+  },
+  "is there any glandular involvement present": {
+   "No, there is no glandular involvement.": 635,
+   "Yes, there is a glandular involvement.": 51
+  },
+  "is there any inflammation present": {
+   "Yes, there is an inflammation.": 18
+  },
+  "is there any neoplasm present": {
+   "No, there is no neoplasm.": 12,
+   "Yes, there is a neoplasm.": 1550
+  },
+  "is there any squamous metaplasia present": {
+   "No, there is no squamous metaplasia": 6,
+   "Yes, there is a squamous metaplasia": 3
+  },
+  "what is the #1 diagnosis": {
+   "Adenocarcinoma, favor colorectal primary": 1,
+   "Chronic active cervicitis": 6,
+   "Chronic nonspecific cervicitis": 28,
+   "Chronic nonspecific cervicitis with squamous metaplasia": 3,
+   "Endocervical adenocarcinoma in situ (AIS), HPV-associated": 8,
+   "Endocervical adenocarcinoma, HPV-associated, usual type": 4,
+   "Endocervical adenocarcinoma, HPV-independent, clear cell type": 1,
+   "Endocervical adenocarcinoma, HPV-independent, gastric type": 2,
+   "Endocervical polyp": 1,
+   "Endocervical polyp with radiation change": 1,
+   "Endometrioid carcinoma": 2,
+   "High-grade serous carcinoma": 1,
+   "High-grade squamous intraepithelial lesion (HSIL; CIN 2)": 133,
+   "High-grade squamous intraepithelial lesion (HSIL; CIN 2) with glandular involvement": 15,
+   "High-grade squamous intraepithelial lesion (HSIL; CIN 3)": 144,
+   "High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement": 36,
+   "Invasive squamous cell carcinoma": 67,
+   "Low-grade squamous intraepithelial lesion (LSIL; CIN 1)": 357,
+   "Microglandular hyperplasia": 1,
+   "Serous carcinoma": 1
+  },
+  "what is the #2 diagnosis": {
+   "Endocervical adenocarcinoma in situ (AIS), HPV-associated": 2,
+   "High-grade squamous intraepithelial lesion (HSIL; CIN 2)": 1
+  },
+  "what is the behavior of neoplasm": {
+   "Benign": 357,
+   "In situ": 339,
+   "Malignant": 79
+  },
+  "what is the final pathology report": {
+   "Uterine cervix, colposcopic biopsy;\\n  Adenocarcinoma, favor colorectal primary": 1,
+   "Uterine cervix, colposcopic biopsy;\\n  Chronic active cervicitis": 6,
+   "Uterine cervix, colposcopic biopsy;\\n  Chronic nonspecific cervicitis": 23,
+   "Uterine cervix, colposcopic biopsy;\\n  Chronic nonspecific cervicitis with squamous metaplasia": 3,
+   "Uterine cervix, colposcopic biopsy;\\n  Endocervical adenocarcinoma in situ (AIS), HPV-associated": 4,
+   "Uterine cervix, colposcopic biopsy;\\n  Endocervical adenocarcinoma, HPV-associated, usual type": 1,
+   "Uterine cervix, colposcopic biopsy;\\n  Endocervical adenocarcinoma, HPV-independent, clear cell type": 1,
+   "Uterine cervix, colposcopic biopsy;\\n  Endocervical adenocarcinoma, HPV-independent, gastric type": 1,
+   "Uterine cervix, colposcopic biopsy;\\n  Endometrioid carcinoma": 2,
+   "Uterine cervix, colposcopic biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 2)": 65,
+   "Uterine cervix, colposcopic biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 2)\\n  with glandular involvement": 14,
+   "Uterine cervix, colposcopic biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 3)": 69,
+   "Uterine cervix, colposcopic biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 3)\\n  with glandular involvement": 34,
+   "Uterine cervix, colposcopic biopsy;\\n  Invasive squamous cell carcinoma": 52,
+   "Uterine cervix, colposcopic biopsy;\\n  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)": 227,
+   "Uterine cervix, colposcopic biopsy;\\n  Metastatic high-grade serous carcinoma": 1,
+   "Uterine cervix, colposcopic biopsy;\\n  Serous carcinoma": 1,
+   "Uterine cervix, curette biopsy;\\n  Endocervical adenocarcinoma in situ (AIS), HPV-associated": 1,
+   "Uterine cervix, frozen biopsy;\\n  Invasive squamous cell carcinoma": 1,
+   "Uterine cervix, loop electrosurgical excision procedure;\\n  1. Endocervical adenocarcinoma in situ (AIS), HPV-associated\\n  2. High-grade squamous intraepithelial lesion (HSIL; CIN 2)": 1,
+   "Uterine cervix, loop electrosurgical excision procedure;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 3)": 4,
+   "Uterine cervix, polypectomy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 3)": 1,
+   "Uterine cervix, polypectomy;\\n  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)": 1,
+   "Uterine cervix, punch biopsy;\\n  1. High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement\\n  2. Endocervical adenocarcinoma in situ (AIS), HPV-associated": 1,
+   "Uterine cervix, punch biopsy;\\n  1. High-grade squamous intraepithelial lesion (HSIL; CIN 3)\\n  2. Endocervical adenocarcinoma in situ (AIS), HPV-associated": 1,
+   "Uterine cervix, punch biopsy;\\n  Chronic nonspecific cervicitis": 5,
+   "Uterine cervix, punch biopsy;\\n  Endocervical adenocarcinoma in situ (AIS), HPV-associated": 2,
+   "Uterine cervix, punch biopsy;\\n  Endocervical adenocarcinoma, HPV-associated, usual type": 3,
+   "Uterine cervix, punch biopsy;\\n  Endocervical adenocarcinoma, HPV-independent, gastric type": 1,
+   "Uterine cervix, punch biopsy;\\n  Endocervical polyp": 1,
+   "Uterine cervix, punch biopsy;\\n  Endocervical polyp with radiation change": 1,
+   "Uterine cervix, punch biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 2)": 68,
+   "Uterine cervix, punch biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 2)\\n  with glandular involvement": 1,
+   "Uterine cervix, punch biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 3)": 69,
+   "Uterine cervix, punch biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 3)\\n  with glandular involvement": 1,
+   "Uterine cervix, punch biopsy;\\n  Invasive squamous cell carcinoma": 14,
+   "Uterine cervix, punch biopsy;\\n  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)": 129,
+   "Uterine cervix, punch biopsy;\\n  Microglandular hyperplasia": 1
+  },
+  "what is the grade of atypia": {
+   "Grade 1": 357,
+   "Grade 2": 149,
+   "Grade 3": 180
+  },
+  "what is the grading system of atypia": {
+   "3-tier grading system": 686
+  },
+  "what is the histologic subtype of neoplasm": {
+   "Endocervical adenocarcinoma in situ, HPV-associated": 10,
+   "Endocervical adenocarcinoma, HPV-associated, usual type": 4,
+   "Endocervical adenocarcinoma, HPV-independent, clear cell type": 1,
+   "Endocervical adenocarcinoma, HPV-independent, gastric type": 2
+  },
+  "what is the histologic type of benign epithelial lesion": {
+   "Endocervical polyp": 1,
+   "Endocervical polyp with radiation change": 1,
+   "Microglandular hyperplasia": 1
+  },
+  "what is the histologic type of neoplasm": {
+   "Adenocarcinoma, favor colorectal primary": 1,
+   "Endocervical adenocarcinoma": 7,
+   "Endocervical adenocarcinoma in situ": 10,
+   "Endometrioid carcinoma": 2,
+   "High-grade serous carcinoma": 1,
+   "Serous carcinoma": 1,
+   "Squamous cell carcinoma": 67,
+   "Squamous intraepithelial lesion": 1372
+  },
+  "what is the number of diagnoses to include": {
+   "1": 809,
+   "2": 3
+  },
+  "what is the organ": {
+   "Uterine cervix": 812
+  },
+  "what is the primary of neoplasm": {
+   "Cervical": 770,
+   "Colorectal": 1,
+   "Endometrial": 3,
+   "Tubo-ovarian": 1
+  },
+  "what is the procedure": {
+   "Colposcopic biopsy": 507,
+   "Curette biopsy": 1,
+   "Frozen biopsy": 1,
+   "Loop electrosurgical excision procedure": 5,
+   "Polypectomy": 2,
+   "Punch biopsy": 296
+  }
+ },
+ "colon": {
+  "is there any abnormality present": {
+   "No, there is no abnormality.": 269,
+   "Yes, there is an abnormality.": 1727
+  },
+  "is there any active inflammation present": {
+   "Yes, there is active inflammation.": 54
+  },
+  "is there any dysplasia present": {
+   "No, there is no dysplasia.": 66,
+   "Yes, there is a dysplasia.": 700
+  },
+  "is there any inflammation present": {
+   "Yes, there is inflammation.": 54
+  },
+  "is there any neoplasm present": {
+   "No, there is no neoplasm.": 108,
+   "Yes, there is a neoplasm.": 3346
+  },
+  "is there any polyp present": {
+   "No, there is no polyp.": 53,
+   "Yes, there is a polyp.": 1
+  },
+  "is there any serration present": {
+   "No, there is no serration.": 696,
+   "Yes, there is a serration.": 251
+  },
+  "is there any villous component present": {
+   "No, there no villous component.": 575,
+   "Yes, there is a villous component.": 121
+  },
+  "what is the #1 diagnosis": {
+   "Adenocarcinoma, moderately differentiated": 478,
+   "Adenocarcinoma, moderately differentiated with mucinous component": 4,
+   "Adenocarcinoma, poorly differentiated": 38,
+   "Adenocarcinoma, poorly differentiated with mucinous component": 1,
+   "Adenocarcinoma, well differentiated": 158,
+   "Adenocarcinoma, well differentiated with mucinous component": 3,
+   "Chronic active colitis": 53,
+   "Chronic nonspecific inflammation": 269,
+   "Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue (MALT lymphoma)": 4,
+   "Gastrointestinal stromal tumor": 2,
+   "Hyperplastic polyp": 181,
+   "Inflammatory polyp": 1,
+   "Malignant lymphoma": 7,
+   "Mucinous adenocarcinoma": 9,
+   "Neuroendocrine tumor, grade 1": 11,
+   "Sessile serrated lesion": 61,
+   "Sessile serrated lesion with low grade dysplasia": 3,
+   "Signet-ring cell carcinoma": 6,
+   "Small cell carcinoma": 2,
+   "Squamous cell carcinoma": 3,
+   "Traditional serrated adenoma": 5,
+   "Traditional serrated adenoma with low grade dysplasia": 1,
+   "Tubular adenoma": 575,
+   "Tubulovillous adenoma": 121
+  },
+  "what is the behavior of neoplasm": {
+   "Benign": 947,
+   "Malignant": 726
+  },
+  "what is the final pathology report": {
+   "Anus, incisional biopsy;\\n  Adenocarcinoma, moderately differentiated": 1,
+   "Colon, colonoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated": 348,
+   "Colon, colonoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated with mucinous component": 4,
+   "Colon, colonoscopic biopsy;\\n  Adenocarcinoma, poorly differentiated": 32,
+   "Colon, colonoscopic biopsy;\\n  Adenocarcinoma, poorly differentiated with mucinous component": 1,
+   "Colon, colonoscopic biopsy;\\n  Adenocarcinoma, well differentiated": 104,
+   "Colon, colonoscopic biopsy;\\n  Adenocarcinoma, well differentiated with mucinous component": 2,
+   "Colon, colonoscopic biopsy;\\n  Adenocarcinoma, well differentiated, arising from tubulovillous adenoma with high grade dysplasia": 1,
+   "Colon, colonoscopic biopsy;\\n  Chronic active colitis": 53,
+   "Colon, colonoscopic biopsy;\\n  Chronic nonspecific inflammation": 231,
+   "Colon, colonoscopic biopsy;\\n  Extranodal marginal zone lymphoma\\n  of mucosa-associated lymphoid tissue (MALT lymphoma)": 2,
+   "Colon, colonoscopic biopsy;\\n  Gastrointestinal stromal tumor": 1,
+   "Colon, colonoscopic biopsy;\\n  Hyperplastic polyp": 113,
+   "Colon, colonoscopic biopsy;\\n  Inflammatory polyp": 1,
+   "Colon, colonoscopic biopsy;\\n  Malignant lymphoma": 5,
+   "Colon, colonoscopic biopsy;\\n  Mucinous adenocarcinoma": 9,
+   "Colon, colonoscopic biopsy;\\n  Neuroendocrine tumor, grade 1": 1,
+   "Colon, colonoscopic biopsy;\\n  Sessile serrated lesion": 13,
+   "Colon, colonoscopic biopsy;\\n  Sessile serrated lesion with low grade dysplasia": 1,
+   "Colon, colonoscopic biopsy;\\n  Signet-ring cell carcinoma": 4,
+   "Colon, colonoscopic biopsy;\\n  Small cell carcinoma": 2,
+   "Colon, colonoscopic biopsy;\\n  Traditional serrated adenoma": 4,
+   "Colon, colonoscopic biopsy;\\n  Tubular adenoma with high grade dysplasia": 56,
+   "Colon, colonoscopic biopsy;\\n  Tubular adenoma with low grade dysplasia": 275,
+   "Colon, colonoscopic biopsy;\\n  Tubulovillous adenoma with high grade dysplasia": 20,
+   "Colon, colonoscopic biopsy;\\n  Tubulovillous adenoma with low grade dysplasia": 35,
+   "Colon, colonoscopic mucosal resection;\\n  Adenocarcinoma, moderately differentiated": 3,
+   "Colon, colonoscopic mucosal resection;\\n  Adenocarcinoma, well differentiated": 10,
+   "Colon, colonoscopic mucosal resection;\\n  Hyperplastic polyp": 4,
+   "Colon, colonoscopic mucosal resection;\\n  Sessile serrated lesion": 6,
+   "Colon, colonoscopic mucosal resection;\\n  Sessile serrated lesion with low grade dysplasia": 1,
+   "Colon, colonoscopic mucosal resection;\\n  Signet-ring cell carcinoma": 1,
+   "Colon, colonoscopic mucosal resection;\\n  Tubular adenoma with high grade dysplasia": 20,
+   "Colon, colonoscopic mucosal resection;\\n  Tubular adenoma with low grade dysplasia": 16,
+   "Colon, colonoscopic mucosal resection;\\n  Tubulovillous adenoma with high grade dysplasia": 11,
+   "Colon, colonoscopic mucosal resection;\\n  Tubulovillous adenoma with low grade dysplasia": 10,
+   "Colon, colonoscopic polypectomy;\\n  Adenocarcinoma, moderately differentiated": 4,
+   "Colon, colonoscopic polypectomy;\\n  Adenocarcinoma, poorly differentiated": 1,
+   "Colon, colonoscopic polypectomy;\\n  Adenocarcinoma, well differentiated": 6,
+   "Colon, colonoscopic polypectomy;\\n  Hyperplastic polyp": 61,
+   "Colon, colonoscopic polypectomy;\\n  Sessile serrated lesion": 41,
+   "Colon, colonoscopic polypectomy;\\n  Tubular adenoma with high grade dysplasia": 36,
+   "Colon, colonoscopic polypectomy;\\n  Tubular adenoma with low grade dysplasia": 149,
+   "Colon, colonoscopic polypectomy;\\n  Tubulovillous adenoma with high grade dysplasia": 11,
+   "Colon, colonoscopic polypectomy;\\n  Tubulovillous adenoma with low grade dysplasia": 21,
+   "Colon, colonoscopic submucosal dissection;\\n  Adenocarcinoma, moderately differentiated": 4,
+   "Colon, colonoscopic submucosal dissection;\\n  Adenocarcinoma, well differentiated": 3,
+   "Colon, colonoscopic submucosal dissection;\\n  Adenocarcinoma, well differentiated with mucinous component": 1,
+   "Colon, colonoscopic submucosal dissection;\\n  Hyperplastic polyp": 1,
+   "Colon, colonoscopic submucosal dissection;\\n  Neuroendocrine tumor, grade 1": 1,
+   "Colon, colonoscopic submucosal dissection;\\n  Tubular adenoma with high grade dysplasia": 2,
+   "Colon, colonoscopic submucosal dissection;\\n  Tubular adenoma with low grade dysplasia": 2,
+   "Colon, colonoscopic submucosal dissection;\\n  Tubulovillous adenoma with high grade dysplasia": 3,
+   "Colon, colonoscopic submucosal dissection;\\n  Tubulovillous adenoma with low grade dysplasia": 4,
+   "Rectum, colonoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated": 114,
+   "Rectum, colonoscopic biopsy;\\n  Adenocarcinoma, poorly differentiated": 5,
+   "Rectum, colonoscopic biopsy;\\n  Adenocarcinoma, well differentiated": 32,
+   "Rectum, colonoscopic biopsy;\\n  Chronic nonspecific inflammation": 38,
+   "Rectum, colonoscopic biopsy;\\n  Extranodal marginal zone lymphoma\\n  of mucosa-associated lymphoid tissue (MALT lymphoma)": 2,
+   "Rectum, colonoscopic biopsy;\\n  Gastrointestinal stromal tumor": 1,
+   "Rectum, colonoscopic biopsy;\\n  Hyperplastic polyp": 2,
+   "Rectum, colonoscopic biopsy;\\n  Malignant lymphoma": 2,
+   "Rectum, colonoscopic biopsy;\\n  Neuroendocrine tumor, grade 1": 7,
+   "Rectum, colonoscopic biopsy;\\n  Signet-ring cell carcinoma": 1,
+   "Rectum, colonoscopic biopsy;\\n  Squamous cell carcinoma": 3,
+   "Rectum, colonoscopic biopsy;\\n  Traditional serrated adenoma": 1,
+   "Rectum, colonoscopic biopsy;\\n  Traditional serrated adenoma with low grade dysplasia": 1,
+   "Rectum, colonoscopic biopsy;\\n  Tubular adenoma with high grade dysplasia": 11,
+   "Rectum, colonoscopic biopsy;\\n  Tubular adenoma with low grade dysplasia": 4,
+   "Rectum, colonoscopic biopsy;\\n  Tubulovillous adenoma with high grade dysplasia": 3,
+   "Rectum, colonoscopic mucosal resection;\\n  Sessile serrated lesion with low grade dysplasia": 1,
+   "Rectum, colonoscopic mucosal resection;\\n  Tubular adenoma with high grade dysplasia": 1,
+   "Rectum, colonoscopic mucosal resection;\\n  Tubulovillous adenoma with high grade dysplasia": 1,
+   "Rectum, colonoscopic polypectomy;\\n  Adenocarcinoma, moderately differentiated": 2,
+   "Rectum, colonoscopic polypectomy;\\n  Adenocarcinoma, well differentiated": 2,
+   "Rectum, colonoscopic polypectomy;\\n  Sessile serrated lesion": 1,
+   "Rectum, colonoscopic polypectomy;\\n  Tubular adenoma with high grade dysplasia": 2,
+   "Rectum, colonoscopic polypectomy;\\n  Tubular adenoma with low grade dysplasia": 1,
+   "Rectum, colonoscopic polypectomy;\\n  Tubulovillous adenoma with high grade dysplasia": 2,
+   "Rectum, colonoscopic submucosal dissection;\\n  Adenocarcinoma, moderately differentiated": 2,
+   "Rectum, colonoscopic submucosal dissection;\\n  Neuroendocrine tumor, grade 1": 2
+  },
+  "what is the grade of dysplasia": {
+   "High grade": 179,
+   "Low grade": 521
+  },
+  "what is the grade of neoplasm": {
+   "Grade 1": 11,
+   "Moderately differentiated": 482,
+   "Poorly differentiated": 39,
+   "Well differentiated": 161
+  },
+  "what is the grading system": {
+   "2-tier grading system": 121,
+   "3-tier grading system": 1
+  },
+  "what is the grading system of dysplasia": {
+   "2-tier grading system": 579
+  },
+  "what is the grading system of neoplasm": {
+   "3-tier grading system": 681,
+   "WHO grading system of neuroendocrine neoplasms": 11
+  },
+  "what is the histologic subtype of neoplasm": {
+   "Adenocarcinoma with mucinous component": 8,
+   "Adenocarcinoma, not otherwise specified": 674,
+   "Mucinous adenocarcinoma": 9,
+   "Signet-ring cell carcinoma": 6
+  },
+  "what is the histologic type": {
+   "Chronic active colitis": 53,
+   "Inflammatory polyp": 1
+  },
+  "what is the histologic type of neoplasm": {
+   "Adenocarcinoma": 697,
+   "Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue (MALT lymphoma)": 4,
+   "Gastrointestinal stromal tumor": 2,
+   "Hyperplastic polyp": 181,
+   "Malignant lymphoma": 7,
+   "Neuroendocrine tumor": 11,
+   "Sessile serrated lesion": 64,
+   "Small cell carcinoma": 2,
+   "Squamous cell carcinoma": 3,
+   "Traditional serrated adenoma": 6,
+   "Tubular adenoma": 575,
+   "Tubulovillous adenoma": 121
+  },
+  "what is the number of diagnoses to include": {
+   "1": 1996
+  },
+  "what is the organ": {
+   "Anus": 1,
+   "Colon": 1751,
+   "Rectum": 244
+  },
+  "what is the primary of neoplasm": {
+   "Anal": 4,
+   "Colorectal": 1643,
+   "Hematolymphoid": 11,
+   "Mesenchymal": 2,
+   "Neuroendocrine": 13
+  },
+  "what is the procedure": {
+   "Colonoscopic biopsy": 1537,
+   "Colonoscopic mucosal resection": 85,
+   "Colonoscopic polypectomy": 348,
+   "Colonoscopic submucosal dissection": 25,
+   "Incisional biopsy": 1
+  },
+  "what is the proportion of villous component": {
+   "25% to 75%": 121
+  }
+ },
+ "lung": {
+  "is there any abnormality present": {
+   "No, there is no abnormality.": 50,
+   "Yes, there is an abnormality.": 895
+  },
+  "is there any additional finding present": {
+   "No, there is no additional finding.": 895,
+   "Yes, there is an additional finding.": 4
+  },
+  "is there any fungal organism present": {
+   "No, there is no fungal organism.": 72,
+   "Yes, there is a fungal organism.": 8
+  },
+  "is there any granuloma present": {
+   "No, there is no granuloma.": 46,
+   "Yes, there is a granuloma.": 52
+  },
+  "is there any inflammation present": {
+   "Yes, there is an inflammation.": 75
+  },
+  "is there any morphological adenocarcinoma pattern present": {
+   "No, there is no morphological adenocarcinoma pattern.": 320,
+   "Yes, there is a morphological adenocarcinoma pattern.": 406
+  },
+  "is there any morphological squamous cell pattern present": {
+   "No, there is no morphological squamous cell pattern.": 547,
+   "Yes, there is a morphological squamous cell pattern.": 179
+  },
+  "is there any mucinous feature present": {
+   "No, there is no mucinous feature.": 388,
+   "Yes, there is a mucinous feature.": 18
+  },
+  "is there any necrosis present": {
+   "No, there is no necrosis.": 18,
+   "Yes, there is a necrosis.": 34
+  },
+  "is there any neoplasm present": {
+   "No, there is no neoplasm.": 79,
+   "Yes, there is a neoplasm.": 1632
+  },
+  "is there any neuroendocrine morphology present": {
+   "No, there is no neuroendocrine morphology.": 1452,
+   "Yes, there is a neuroendocrine morphology.": 78
+  },
+  "is there any organizing fibrosis present": {
+   "No, there is no organizing fibrosis.": 7,
+   "Yes, there is an organizing fibrosis.": 16
+  },
+  "is there any type ii pneumocyte hyperplasia present": {
+   "No, there is no type II pneumocyte hyperplasia.": 16,
+   "Yes, there is a type II pneumocyte hyperplasia.": 7
+  },
+  "what is the #1 diagnosis": {
+   "Adenocarcinoma": 388,
+   "Carcinoid/neuroendocrine tumor, NOS": 6,
+   "Chronic granulomatous inflammation with necrosis": 34,
+   "Chronic granulomatous inflammation without necrosis": 18,
+   "Fungal ball, morphologically consistent with Aspergillus spp.": 3,
+   "Fungal infection, morphologically consistent with Cryptococcus spp.": 1,
+   "Invasive mucinous adenocarcinoma": 18,
+   "Large cell neuroendocrine carcinoma": 1,
+   "Metastatic adenocarcinoma, from colorectal primary": 11,
+   "No evidence of malignancy or granuloma": 73,
+   "Non-small cell carcinoma, favor adenocarcinoma": 60,
+   "Non-small cell carcinoma, favor squamous cell carcinoma": 66,
+   "Non-small cell carcinoma, not otherwise specified": 15,
+   "Sclerosing pneumocytoma": 1,
+   "Small cell carcinoma": 71,
+   "Squamous cell carcinoma": 179
+  },
+  "what is the #2 diagnosis": {
+   "Chronic inflammation with organizing fibrosis": 16,
+   "Chronic inflammation with type II pneumocyte hyperplasia": 7,
+   "Fungal ball, morphologically consistent with Aspergillus spp.": 1,
+   "Fungal infection, morphologically consistent with Cryptococcus spp.": 3
+  },
+  "what is the behavior of neoplasm": {
+   "Benign": 1,
+   "Malignant": 815
+  },
+  "what is the final pathology report": {
+   "Lung, biopsy;\\n  1. Chronic granulomatous inflammation without necrosis\\n  2. Fungal infection, morphologically consistent with Cryptococcus spp.": 3,
+   "Lung, biopsy;\\n  1. No evidence of malignancy or granuloma\\n  2. Chronic inflammation with organizing fibrosis": 16,
+   "Lung, biopsy;\\n  1. No evidence of malignancy or granuloma\\n  2. Chronic inflammation with type II pneumocyte hyperplasia": 7,
+   "Lung, biopsy;\\n  1. Small cell carcinoma\\n  2. Fungal ball, morphologically consistent with Aspergillus spp.": 1,
+   "Lung, biopsy;\\n  Adenocarcinoma": 388,
+   "Lung, biopsy;\\n  Carcinoid/neuroendocrine tumor, NOS": 6,
+   "Lung, biopsy;\\n  Chronic granulomatous inflammation with necrosis": 34,
+   "Lung, biopsy;\\n  Chronic granulomatous inflammation without necrosis": 15,
+   "Lung, biopsy;\\n  Fungal ball, morphologically consistent with Aspergillus spp.": 3,
+   "Lung, biopsy;\\n  Fungal infection, morphologically consistent with Cryptococcus spp.": 1,
+   "Lung, biopsy;\\n  Invasive mucinous adenocarcinoma": 18,
+   "Lung, biopsy;\\n  Large cell neuroendocrine carcinoma": 1,
+   "Lung, biopsy;\\n  Metastatic adenocarcinoma, from colorectal primary": 11,
+   "Lung, biopsy;\\n  No evidence of malignancy or granuloma": 50,
+   "Lung, biopsy;\\n  Non-small cell carcinoma, favor adenocarcinoma": 60,
+   "Lung, biopsy;\\n  Non-small cell carcinoma, favor squamous cell carcinoma": 66,
+   "Lung, biopsy;\\n  Non-small cell carcinoma, not otherwise specified": 15,
+   "Lung, biopsy;\\n  Sclerosing pneumocytoma": 1,
+   "Lung, biopsy;\\n  Small cell carcinoma": 70,
+   "Lung, biopsy;\\n  Squamous cell carcinoma": 179
+  },
+  "what is the histologic type of neoplasm": {
+   "Adenocarcinoma": 388,
+   "Carcinoid/neuroendocrine tumor, NOS": 6,
+   "Invasive mucinous adenocarcinoma": 18,
+   "Large cell neuroendocrine carcinoma": 1,
+   "Metastatic adenocarcinoma, from colorectal primary": 11,
+   "Non-small cell carcinoma": 141,
+   "Sclerosing pneumocytoma": 1,
+   "Small cell carcinoma": 71,
+   "Squamous cell carcinoma": 179
+  },
+  "what is the morphologically consistent species": {
+   "Aspergillus spp.": 4,
+   "Cryptococcus spp.": 4
+  },
+  "what is the number of diagnoses to include": {
+   "1": 914,
+   "2": 26
+  },
+  "what is the organ": {
+   "Lung": 945
+  },
+  "what is the primary of neoplasm": {
+   "Colorectal": 11,
+   "Neuroendocrine": 78,
+   "Pulmonary": 727
+  },
+  "what is the procedure": {
+   "Biopsy": 945
+  }
+ },
+ "prostate": {
+  "is there any abnormality present": {
+   "No, there is no abnormality.": 811,
+   "Yes, there is an abnormality.": 1607
+  },
+  "is there any acute inflammation present": {
+   "No, there is no acute inflammation.": 11,
+   "Yes, there is an acute inflammation.": 1
+  },
+  "is there any additional finding present": {
+   "No, there is no additional finding.": 1595,
+   "Yes, there is an additional finding.": 3
+  },
+  "is there any gleason pattern 3 present": {
+   "No, there is no Gleason pattern 3.": 393,
+   "Yes, there is Gleason pattern 3.": 1202
+  },
+  "is there any gleason pattern 4 present": {
+   "No, there is no Gleason pattern 4.": 621,
+   "Yes, there is Gleason pattern 4.": 974
+  },
+  "is there any gleason pattern 5 present": {
+   "No, there is no Gleason pattern 5.": 1473,
+   "Yes, there is Gleason pattern 5.": 122
+  },
+  "is there any granuloma present": {
+   "Yes, there is granuloma.": 11
+  },
+  "is there any inflammation present": {
+   "Yes, there is inflammation.": 12
+  },
+  "is there any necrosis present": {
+   "No, there is no necrosis.": 8,
+   "Yes, there is a necrosis.": 3
+  },
+  "is there any neoplasm present": {
+   "No, there is no neoplasm.": 9,
+   "Yes, there is a neoplasm.": 3196
+  },
+  "what is the #1 diagnosis": {
+   "Acinar adenocarcinoma": 1595,
+   "Malignant lymphoma": 2,
+   "No tumor present": 820,
+   "Small cell carcinoma": 1
+  },
+  "what is the #2 diagnosis": {
+   "Acute prostatitis": 1,
+   "Chronic granulomatous inflammation with necrosis": 3,
+   "Chronic granulomatous inflammation without necrosis": 8
+  },
+  "what is the behavior of neoplasm": {
+   "Malignant": 1598
+  },
+  "what is the final pathology report": {
+   "Prostate, biopsy;\\n  1. Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 20%\\n  2. Chronic granulomatous inflammation without necrosis": 1,
+   "Prostate, biopsy;\\n  1. Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 25%\\n  2. Chronic granulomatous inflammation without necrosis": 1,
+   "Prostate, biopsy;\\n  1. Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 30%\\n  2. Chronic granulomatous inflammation without necrosis": 1,
+   "Prostate, biopsy;\\n  1. No tumor present\\n  2. Acute prostatitis": 1,
+   "Prostate, biopsy;\\n  1. No tumor present\\n  2. Chronic granulomatous inflammation with necrosis": 3,
+   "Prostate, biopsy;\\n  1. No tumor present\\n  2. Chronic granulomatous inflammation without necrosis": 5,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 10 (5+5), grade group 5, tumor volume: 10%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 10 (5+5), grade group 5, tumor volume: 100%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 10 (5+5), grade group 5, tumor volume: 20%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 10 (5+5), grade group 5, tumor volume: 30%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 10 (5+5), grade group 5, tumor volume: 50%": 5,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 10 (5+5), grade group 5, tumor volume: 70%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 10 (5+5), grade group 5, tumor volume: 80%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 10 (5+5), grade group 5, tumor volume: 95%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 1%": 4,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%": 86,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 100%": 25,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 14%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%": 24,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 20%": 66,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 22%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 25%": 15,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 3%": 16,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 30%": 52,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 33%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 35%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 40%": 41,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 45%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 5%": 76,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 50%": 47,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 55%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 57%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%": 33,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 62%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 65%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 66%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 7%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 70%": 27,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 75%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 80%": 30,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 83%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 85%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 88%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 90%": 29,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 95%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 10%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 100%": 13,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 15%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 20%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 25%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 30%": 4,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 40%": 7,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 50%": 14,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 55%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 60%": 10,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 65%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 70%": 12,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 80%": 13,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 85%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 90%": 21,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 95%": 5,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 15%), tumor volume: 100%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 15%), tumor volume: 33%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 15%), tumor volume: 70%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 10%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 100%": 6,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 15%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 20%": 8,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 30%": 4,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 35%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 40%": 5,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 5%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 50%": 6,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 60%": 5,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 70%": 4,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 75%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 80%": 9,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 90%": 11,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 25%), tumor volume: 70%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 25%), tumor volume: 80%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 3%), tumor volume: 95%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 10%": 5,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 100%": 9,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 15%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 20%": 6,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 25%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 30%": 6,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 40%": 7,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 50%": 8,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 60%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 70%": 6,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 80%": 5,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 90%": 5,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 35%), tumor volume: 20%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 10%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 100%": 10,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 20%": 5,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 30%": 5,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 40%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 5%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 50%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 60%": 9,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 70%": 7,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 78%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 80%": 6,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 90%": 11,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 95%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 45%), tumor volume: 90%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 5%), tumor volume: 100%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 5%), tumor volume: 20%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 5%), tumor volume: 50%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 5%), tumor volume: 65%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 5%), tumor volume: 70%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 5%), tumor volume: 75%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 5%), tumor volume: 80%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 5%), tumor volume: 90%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 5%), tumor volume: 95%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 50%), tumor volume: 30%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 50%), tumor volume: 5%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 55%), tumor volume: 70%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 55%), tumor volume: 90%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 60%), tumor volume: 10%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 60%), tumor volume: 100%": 5,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 60%), tumor volume: 20%": 7,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 60%), tumor volume: 25%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 60%), tumor volume: 30%": 5,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 60%), tumor volume: 40%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 60%), tumor volume: 50%": 6,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 60%), tumor volume: 60%": 12,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 60%), tumor volume: 65%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 60%), tumor volume: 70%": 5,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 60%), tumor volume: 75%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 60%), tumor volume: 80%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 60%), tumor volume: 90%": 11,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 60%), tumor volume: 96%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 65%), tumor volume: 100%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 65%), tumor volume: 80%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 70%), tumor volume: 100%": 6,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 70%), tumor volume: 20%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 70%), tumor volume: 25%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 70%), tumor volume: 30%": 9,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 70%), tumor volume: 40%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 70%), tumor volume: 50%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 70%), tumor volume: 60%": 6,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 70%), tumor volume: 70%": 4,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 70%), tumor volume: 80%": 6,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 70%), tumor volume: 90%": 13,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 70%), tumor volume: 95%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 75%), tumor volume: 10%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 75%), tumor volume: 30%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 75%), tumor volume: 50%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 75%), tumor volume: 90%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 10%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 100%": 5,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 15%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 20%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 25%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 30%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 40%": 5,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 50%": 8,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 60%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 70%": 4,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 80%": 6,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 90%": 16,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 95%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 85%), tumor volume: 100%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 85%), tumor volume: 50%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 85%), tumor volume: 70%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 85%), tumor volume: 80%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 85%), tumor volume: 95%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 90%), tumor volume: 10%": 4,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 90%), tumor volume: 100%": 14,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 90%), tumor volume: 20%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 90%), tumor volume: 30%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 90%), tumor volume: 40%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 90%), tumor volume: 50%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 90%), tumor volume: 60%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 90%), tumor volume: 70%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 90%), tumor volume: 75%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 90%), tumor volume: 80%": 10,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 90%), tumor volume: 90%": 10,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 90%), tumor volume: 95%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 95%), tumor volume: 100%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 95%), tumor volume: 30%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 95%), tumor volume: 85%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 95%), tumor volume: 90%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (3+5), grade group 4, tumor volume: 70%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (3+5), grade group 4, tumor volume: 90%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 10%": 11,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 100%": 42,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 15%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 20%": 13,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 25%": 6,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 30%": 17,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 35%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 40%": 12,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 45%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 5%": 18,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 50%": 22,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 55%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 60%": 26,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 65%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 66%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 7%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 70%": 33,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 75%": 3,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 80%": 28,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 85%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%": 38,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 95%": 11,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (5+3), grade group 4, tumor volume: 90%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 100%": 25,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 20%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 30%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 40%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 5%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 50%": 6,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 60%": 4,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 66%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 70%": 5,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 75%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 80%": 11,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 90%": 12,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 95%": 5,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (5+4), grade group 5, tumor volume: 100%": 12,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (5+4), grade group 5, tumor volume: 50%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (5+4), grade group 5, tumor volume: 65%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (5+4), grade group 5, tumor volume: 70%": 2,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (5+4), grade group 5, tumor volume: 80%": 1,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (5+4), grade group 5, tumor volume: 90%": 4,
+   "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (5+4), grade group 5, tumor volume: 95%": 1,
+   "Prostate, biopsy;\\n  No tumor present": 811,
+   "Prostate, biopsy;\\n Malignant lymphoma": 2,
+   "Prostate, biopsy;\\n Small cell carcinoma": 1
+  },
+  "what is the gleason score": {
+   "10 (5+5)": 19,
+   "6 (3+3)": 603,
+   "7 (3+4)": 650,
+   "7 (4+3)": 504,
+   "8 (3+5)": 2,
+   "8 (4+4)": 293,
+   "8 (5+3)": 1,
+   "9 (4+5)": 77,
+   "9 (5+4)": 23
+  },
+  "what is the grade group": {
+   "Grade group 1": 603,
+   "Grade group 2": 325,
+   "Grade group 3": 252,
+   "Grade group 4": 296,
+   "Grade group 5": 119
+  },
+  "what is the grading system": {
+   "Gleason grading system": 4785
+  },
+  "what is the histologic type of inflammation": {
+   "Acute prostatitis": 1,
+   "Chronic granulomatous inflammation with necrosis": 3,
+   "Chronic granulomatous inflammation without necrosis": 8
+  },
+  "what is the histologic type of neoplasm": {
+   "Acinar adenocarcinoma": 3190,
+   "Malignant lymphoma": 2,
+   "Small cell carcinoma": 1
+  },
+  "what is the number of diagnoses to include": {
+   "1": 2406,
+   "2": 12
+  },
+  "what is the organ": {
+   "Prostate": 2418
+  },
+  "what is the percentage of gleason pattern 4": {
+   "10%": 108,
+   "15%": 6,
+   "20%": 64,
+   "25%": 3,
+   "3%": 1,
+   "30%": 61,
+   "35%": 1,
+   "40%": 63,
+   "45%": 1,
+   "5%": 15,
+   "50%": 2,
+   "55%": 2,
+   "60%": 61,
+   "65%": 2,
+   "70%": 56,
+   "75%": 5,
+   "80%": 58,
+   "85%": 6,
+   "90%": 57,
+   "95%": 5
+  },
+  "what is the predominant pattern": {
+   "Gleason pattern 3": 930,
+   "Gleason pattern 4": 622,
+   "Gleason pattern 5": 43
+  },
+  "what is the primary of neoplasm": {
+   "Hematolymphoid": 2,
+   "Neuroendocrine": 1,
+   "Prostate": 1595
+  },
+  "what is the procedure": {
+   "Biopsy": 2418
+  },
+  "what is the secondary pattern constituting more than 5% of tumor": {
+   "Gleason pattern 3": 255,
+   "Gleason pattern 4": 348,
+   "Gleason pattern 5": 70,
+   "Not identified": 922
+  },
+  "what is the tumor volume": {
+   "1%": 4,
+   "10%": 119,
+   "100%": 183,
+   "14%": 1,
+   "15%": 30,
+   "20%": 120,
+   "22%": 1,
+   "25%": 28,
+   "3%": 15,
+   "30%": 114,
+   "33%": 4,
+   "35%": 7,
+   "4%": 1,
+   "40%": 89,
+   "45%": 3,
+   "5%": 98,
+   "50%": 136,
+   "55%": 6,
+   "57%": 1,
+   "60%": 112,
+   "62%": 1,
+   "65%": 8,
+   "66%": 4,
+   "7%": 4,
+   "70%": 124,
+   "75%": 12,
+   "78%": 1,
+   "80%": 136,
+   "83%": 1,
+   "85%": 5,
+   "88%": 1,
+   "90%": 190,
+   "95%": 35,
+   "96%": 1
+  },
+  "what is the worst grade pattern": {
+   "Gleason pattern 3": 603,
+   "Gleason pattern 4": 870,
+   "Gleason pattern 5": 122
+  }
+ },
+ "stomach": {
+  "is there any abnormality present": {
+   "No, there is no abnormality.": 118,
+   "Yes, there is an abnormality.": 1639
+  },
+  "is there any active inflammation present": {
+   "No, there is no active inflammation.": 488,
+   "Yes, there is an active inflammation.": 372
+  },
+  "is there any additional finding present": {
+   "No, there is no additional finding.": 211,
+   "Yes, there is an additional finding.": 4
+  },
+  "is there any dysplasia present": {
+   "No, there is no dysplasia.": 5,
+   "Yes, there is a dysplasia.": 483
+  },
+  "is there any foveolar epithelial hyperplasia present": {
+   "No, there is no foveolar epithelial hyperplasia.": 195,
+   "Yes, there is a foveolar epithelial hyperplasia.": 20
+  },
+  "is there any intestinal metaplasia present": {
+   "No, there is no intestinal metaplasia.": 77,
+   "Yes, there is an intestinal metaplasia.": 138
+  },
+  "is there any lymphoid aggregate present": {
+   "No, there is no lymphoid aggregate.": 173,
+   "Yes, there is a lymphoid aggregate.": 42
+  },
+  "is there any lymphoid follicle present": {
+   "No, there is no lymphoid follicle.": 41,
+   "Yes, there is a lymphoid follicle.": 1
+  },
+  "is there any neoplasm present": {
+   "No, there is no neoplasm.": 223,
+   "Yes, there is a neoplasm.": 2832
+  },
+  "is there any polyp present": {
+   "No, there is no polyp.": 215,
+   "Yes, there is a polyp.": 8
+  },
+  "is there any ulceration present": {
+   "No, there is no ulceration.": 184,
+   "Yes, there is an ulceration.": 31
+  },
+  "what is the #1 diagnosis": {
+   "Adenocarcinoma, moderately differentiated": 310,
+   "Adenocarcinoma, moderately differentiated with mucinous component": 1,
+   "Adenocarcinoma, moderately differentiated with poorly cohesive carcinoma component": 1,
+   "Adenocarcinoma, moderately differentiated with signet-ring cell component": 1,
+   "Adenocarcinoma, moderately differentiated with signet-ring cell component and mucinous component": 1,
+   "Adenocarcinoma, poorly differentiated": 153,
+   "Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component": 97,
+   "Adenocarcinoma, poorly differentiated with signet-ring cell component": 1,
+   "Adenocarcinoma, well differentiated": 177,
+   "Amyloidosis": 2,
+   "Chronic active gastritis": 93,
+   "Chronic gastritis": 238,
+   "Extranodal marginal zone B cell lymphoma of MALT type": 103,
+   "Foveolar-type adenoma": 6,
+   "Fundic gland polyp": 8,
+   "Gastrointestinal stromal tumor": 7,
+   "Malignant lymphoma": 26,
+   "Malignant melanoma": 4,
+   "Mucinous adenocarcinoma": 2,
+   "Neuroendocrine tumor, grade 1": 3,
+   "Poorly cohesive carcinoma, not otherwise specified": 10,
+   "Poorly cohesive carcinoma, signet-ring cell type": 19,
+   "Small cell carcinoma": 7,
+   "Squamous cell carcinoma": 5,
+   "Tubular adenoma": 482
+  },
+  "what is the additional finding": {
+   "Amyloid deposit": 2,
+   "CMV-infected cells": 1,
+   "Reactive atypia": 1
+  },
+  "what is the behavior of neoplasm": {
+   "Benign": 488,
+   "Malignant": 928
+  },
+  "what is the depth of ulceration": {
+   "Confined to the mucosa": 24,
+   "Extend through the muscularis mucosae": 7
+  },
+  "what is the final pathology report": {
+   "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated": 305,
+   "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated with mucinous component": 1,
+   "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated with poorly cohesive carcinoma component": 1,
+   "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated with signet-ring cell component": 1,
+   "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated with signet-ring cell component and mucinous component": 1,
+   "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, poorly differentiated": 153,
+   "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component": 97,
+   "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, poorly differentiated with signet-ring cell component": 1,
+   "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, well differentiated": 173,
+   "Stomach, endoscopic biopsy;\\n  Amyloidosis": 2,
+   "Stomach, endoscopic biopsy;\\n  Chronic active gastritis": 21,
+   "Stomach, endoscopic biopsy;\\n  Chronic active gastritis with erosion": 6,
+   "Stomach, endoscopic biopsy;\\n  Chronic active gastritis with foveolar epithelial hyperplasia": 8,
+   "Stomach, endoscopic biopsy;\\n  Chronic active gastritis with intestinal metaplasia": 20,
+   "Stomach, endoscopic biopsy;\\n  Chronic active gastritis with lymphoid aggregate": 15,
+   "Stomach, endoscopic biopsy;\\n  Chronic active gastritis with lymphoid follicle": 1,
+   "Stomach, endoscopic biopsy;\\n  Chronic active gastritis with ulcer": 2,
+   "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  1) erosion\\n       2) intestinal metaplasia\\n       3) lymphoid aggregate": 1,
+   "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  1) erosion\\n       2) intestinal metaplasia\\n       3) lymphoid aggregate\\n       4) CMV-infected cells": 1,
+   "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  1) erosion\\n       2) lymphoid aggregate": 2,
+   "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  1) ulcer\\n       2) intestinal metaplasia\\n       3) lymphoid aggregate": 2,
+   "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  with 1) erosion\\n       2) intestinal metaplasia": 6,
+   "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  with 1) erosion\\n       2) intestinal metaplasia\\n       3) reactive atypia": 1,
+   "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  with 1) intestinal metaplasia\\n       2) foveolar epithelial hyperplasia": 1,
+   "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  with 1) intestinal metaplasia\\n       2) lymphoid aggregate": 5,
+   "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  with 1) ulcer\\n       2) intestinal metaplasia": 1,
+   "Stomach, endoscopic biopsy;\\n  Chronic gastritis": 118,
+   "Stomach, endoscopic biopsy;\\n  Chronic gastritis with erosion": 4,
+   "Stomach, endoscopic biopsy;\\n  Chronic gastritis with foveolar epithelial hyperplasia": 6,
+   "Stomach, endoscopic biopsy;\\n  Chronic gastritis with intestinal metaplasia": 85,
+   "Stomach, endoscopic biopsy;\\n  Chronic gastritis with lymphoid aggregate": 9,
+   "Stomach, endoscopic biopsy;\\n  Chronic gastritis with ulcer": 1,
+   "Stomach, endoscopic biopsy;\\n  Chronic gastritis\\n  with 1) erosion\\n       2) intestinal metaplasia": 3,
+   "Stomach, endoscopic biopsy;\\n  Chronic gastritis\\n  with 1) intestinal metaplasia\\n       2) lymphoid aggregate": 6,
+   "Stomach, endoscopic biopsy;\\n  Chronic gastritis\\n  with 1) ulcer\\n       2) intestinal metaplasia": 1,
+   "Stomach, endoscopic biopsy;\\n  Chronic gastritis\\n with 1) intestinal metaplasia\\n       2) foveolar epithelial hyperplasia": 5,
+   "Stomach, endoscopic biopsy;\\n  Extranodal marginal zone B cell lymphoma of MALT type": 103,
+   "Stomach, endoscopic biopsy;\\n  Foveolar-type adenoma": 3,
+   "Stomach, endoscopic biopsy;\\n  Fundic gland polyp": 4,
+   "Stomach, endoscopic biopsy;\\n  Gastrointestinal stromal tumor": 3,
+   "Stomach, endoscopic biopsy;\\n  Hyperplastic polyp": 4,
+   "Stomach, endoscopic biopsy;\\n  Malignant lymphoma": 26,
+   "Stomach, endoscopic biopsy;\\n  Malignant melanoma": 4,
+   "Stomach, endoscopic biopsy;\\n  Mucinous adenocarcinoma": 2,
+   "Stomach, endoscopic biopsy;\\n  Neuroendocrine tumor, grade 1": 3,
+   "Stomach, endoscopic biopsy;\\n  Poorly cohesive carcinoma, not otherwise specified": 10,
+   "Stomach, endoscopic biopsy;\\n  Poorly cohesive carcinoma, signet-ring cell type": 19,
+   "Stomach, endoscopic biopsy;\\n  Small cell carcinoma": 7,
+   "Stomach, endoscopic biopsy;\\n  Squamous cell carcinoma": 5,
+   "Stomach, endoscopic biopsy;\\n  Tubular adenoma with high grade dysplasia": 28,
+   "Stomach, endoscopic biopsy;\\n  Tubular adenoma with low grade dysplasia": 449,
+   "Stomach, endoscopic mucosal resection;\\n  Gastrointestinal stromal tumor": 4,
+   "Stomach, endoscopic polypectomy;\\n  Foveolar-type adenoma with high grade dysplasia": 1,
+   "Stomach, endoscopic submucosal dissection;\\n  Adenocarcinoma, moderately differentiated": 5,
+   "Stomach, endoscopic submucosal dissection;\\n  Adenocarcinoma, well differentiated": 4,
+   "Stomach, endoscopic submucosal dissection;\\n  Tubular adenoma with low grade dysplasia": 7
+  },
+  "what is the grade of dysplasia": {
+   "High grade": 29,
+   "Low grade": 454
+  },
+  "what is the grade of neoplasm": {
+   "Grade 1": 3,
+   "Moderately differentiated": 314,
+   "Poorly differentiated": 251,
+   "Well differentiated": 177
+  },
+  "what is the grading system of dysplasia": {
+   "2-tier grading system": 483
+  },
+  "what is the grading system of neoplasm": {
+   "3-tier grading system": 742,
+   "WHO grading system of neuroendocrine neoplasms": 3
+  },
+  "what is the histologic subtype of neoplasm": {
+   "Mixed adenocarcinoma": 102,
+   "Mucinous adenocarcinoma": 2,
+   "Poorly cohesive carcinoma, not otherwise specified": 10,
+   "Poorly cohesive carcinoma, signet-ring cell type": 19,
+   "Tubular adenocarcinoma": 640
+  },
+  "what is the histologic type of neoplasm": {
+   "Adenocarcinoma": 773,
+   "Extranodal marginal zone B cell lymphoma of MALT type": 103,
+   "Foveolar-type adenoma": 6,
+   "Gastrointestinal stromal tumor": 7,
+   "Malignant lymphoma": 26,
+   "Malignant melanoma": 4,
+   "Neuroendocrine tumor": 3,
+   "Small cell carcinoma": 7,
+   "Squamous cell carcinoma": 5,
+   "Tubular adenoma": 482
+  },
+  "what is the histologic type of polyp": {
+   "Fundic gland polyp": 4,
+   "Hyperplastic polyp": 4
+  },
+  "what is the histological subtype of #1 component": {
+   "Tubular adenocarcinoma": 102
+  },
+  "what is the histological subtype of #2 component": {
+   "Mucinous adenocarcinoma": 1,
+   "Poorly cohesive carcinoma, not otherwise specified": 98,
+   "Poorly cohesive carcinoma, signet-ring cell type": 3
+  },
+  "what is the histological subtype of #3 component": {
+   "Mucinous adenocarcinoma": 1
+  },
+  "what is the number of diagnoses to include": {
+   "1": 1757
+  },
+  "what is the number of distinct histological components": {
+   "2": 101,
+   "3": 1
+  },
+  "what is the organ": {
+   "Stomach": 1757
+  },
+  "what is the primary of neoplasm": {
+   "Gastric": 1266,
+   "Hematolymphoid": 129,
+   "Melanocytic": 4,
+   "Mesenchymal": 7,
+   "Neuroendocrine": 10
+  },
+  "what is the procedure": {
+   "Endoscopic biopsy": 1736,
+   "Endoscopic mucosal resection": 4,
+   "Endoscopic polypectomy": 1,
+   "Endoscopic submucosal dissection": 16
+  }
+ }
+}

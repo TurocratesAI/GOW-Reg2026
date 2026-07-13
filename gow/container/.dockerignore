@@ -1,0 +1,7 @@
+# model/ is mounted at runtime (/opt/ml/model), never COPYed into the image: keep it out of the build context.
+model/
+# local test scaffolding + caches
+test/
+**/__pycache__/
+*.pyc
+*.log

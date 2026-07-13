@@ -1,0 +1,4627 @@
+{
+ "bladder": {
+  "is there any abnormality present": {
+   "no, there is no abnormality": [
+    "what is the number of diagnoses to include"
+   ],
+   "yes, there is an abnormality": [
+    "is there any neoplasm present"
+   ]
+  },
+  "is there any additional finding present": {
+   "no, there is no additional finding": [
+    "what is the number of diagnoses to include"
+   ],
+   "yes, there is an additional finding": [
+    "is there any associated epithelial lesion present"
+   ]
+  },
+  "is there any associated epithelial lesion present": {
+   "no, there is no associated epithelial lesion": [
+    "is there any inflammation present"
+   ],
+   "yes, there is an associated epithelial lesion": [
+    "is there any invasion present"
+   ]
+  },
+  "is there any inflammation present": {
+   "yes, there is an inflammation": [
+    "what is the histologic type of inflammation"
+   ]
+  },
+  "is there any invasion present": {
+   "no, there is no invasion": [
+    "is there any papillary lesion present"
+   ],
+   "yes, there is a invasion": [
+    "what is the extent of invasion"
+   ]
+  },
+  "is there any muscularis propria present": {
+   "no, there is no muscularis propria": [
+    "what is the number of diagnoses to include"
+   ],
+   "yes, there is a muscularis propria": [
+    "what is the number of diagnoses to include"
+   ]
+  },
+  "is there any neoplasm present": {
+   "no, there is no neoplasm": [
+    "is there any inflammation present"
+   ],
+   "yes, there is a neoplasm": [
+    "what is the behavior of neoplasm",
+    "what is the primary of neoplasm"
+   ]
+  },
+  "is there any papillary lesion present": {
+   "no, there is no papillary lesion": [
+    "what is the histologic type of neoplasm"
+   ],
+   "yes, there is a papillary lesion": [
+    "what is the grading system of dysplasia"
+   ]
+  },
+  "what is the #1 diagnosis": {
+   "invasive urothelial carcinoma with glandular differentiation": [
+    "what is the final pathology report"
+   ],
+   "invasive urothelial carcinoma with involvement of muscle proper": [
+    "what is the final pathology report"
+   ],
+   "invasive urothelial carcinoma with involvement of subepithelial connective tissue": [
+    "what is the final pathology report"
+   ],
+   "invasive urothelial carcinoma with squamous differentiation": [
+    "what is the final pathology report"
+   ],
+   "no tumor present": [
+    "what is the final pathology report"
+   ],
+   "non-invasive papillary urothelial carcinoma, high grade": [
+    "what is the final pathology report"
+   ],
+   "non-invasive papillary urothelial carcinoma, high grade, with squamous differentiation": [
+    "what is the final pathology report"
+   ],
+   "non-invasive papillary urothelial carcinoma, low grade": [
+    "what is the final pathology report"
+   ],
+   "urothelial carcinoma in situ": [
+    "what is the final pathology report"
+   ]
+  },
+  "what is the #2 diagnosis": {
+   "chronic granulomatous inflammation with foreign body reaction": [
+    "what is the final pathology report"
+   ],
+   "urothelial carcinoma in situ": [
+    "what is the final pathology report"
+   ]
+  },
+  "what is the #3 diagnosis": {
+   "chronic granulomatous inflammation with foreign body reaction": [
+    "what is the final pathology report"
+   ]
+  },
+  "what is the behavior of neoplasm": {
+   "malignant": [
+    "is there any invasion present"
+   ]
+  },
+  "what is the extent of invasion": {
+   "invades muscularis propria": [
+    "is there any additional finding present"
+   ],
+   "invades subepithelial connective tissue": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the final pathology report": {
+   "urinary bladder, transurethral resection;\\n 1. invasive urothelial carcinoma, with\\n 1) involvement of muscle proper\\n 2) squamous differentiation\\n 2. urothelial carcinoma in situ\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. invasive urothelial carcinoma, with\\n 1) involvement of subepithelial connective tissue\\n 2) squamous differentiation\\n 2. chronic granulomatous inflammation with foreign body reaction\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. invasive urothelial carcinoma, with\\n 1). involvement of subepithelial connective tissue\\n 2) squamous differentiation\\n 2. urothelial carcinoma in situ\\n 3. chronic granulomatous inflammation with foreign body reaction\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. invasive urothelial carcinoma,\\n with involvement of muscle proper\\n 2. chronic granulomatous inflammation with foreign body reaction\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. invasive urothelial carcinoma,\\n with involvement of muscle proper\\n 2. urothelial carcinoma in situ\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. invasive urothelial carcinoma,\\n with involvement of subepithelial connective tissue\\n 2. chronic granulomatous inflammation with foreign body reaction\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. invasive urothelial carcinoma,\\n with involvement of subepithelial connective tissue\\n 2. urothelial carcinoma in situ\\n 3. chronic granulomatous inflammation with foreign body reaction\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. invasive urothelial carcinoma,\\n with involvement of subepithelial connective tissue\\n 2. urothelial carcinoma in situ\\n\\nnote) the specimen does not include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. invasive urothelial carcinoma,\\n with involvement of subepithelial connective tissue\\n 2. urothelial carcinoma in situ\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. no tumor present\\n 2. chronic granulomatous inflammation with foreign body reaction\\nnote) the specimen does not include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. no tumor present\\n 2. chronic granulomatous inflammation with foreign body reaction\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. non-invasive papillary urothelial carcinoma, high grade, with squamous differentiation\\n 2. urothelial carcinoma in situ\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. non-invasive papillary urothelial carcinoma, high grade\\n 2. chronic granulomatous inflammation with foreign body reaction\\n\\nnote) the specimen does not include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. non-invasive papillary urothelial carcinoma, high grade\\n 2. chronic granulomatous inflammation with foreign body reaction\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. non-invasive papillary urothelial carcinoma, high grade\\n 2. urothelial carcinoma in situ\\n 3. chronic granulomatous inflammation with foreign body reaction\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. non-invasive papillary urothelial carcinoma, high grade\\n 2. urothelial carcinoma in situ\\n\\nnote) the specimen does not include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. non-invasive papillary urothelial carcinoma, high grade\\n 2. urothelial carcinoma in situ\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. non-invasive papillary urothelial carcinoma, low grade\\n 2. chronic granulomatous inflammation with foreign body reaction\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. non-invasive papillary urothelial carcinoma, low grade\\n 2. urothelial carcinoma in situ\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. urothelial carcinoma in situ\\n 2. chronic granulomatous inflammation with foreign body reaction\\n\\nnote) the specimen does not include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n 1. urothelial carcinoma in situ\\n 2. chronic granulomatous inflammation with foreign body reaction\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n invasive urothelial carcinoma,\\n with 1) involvement of muscle proper\\n 2) glandular differentiation\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n invasive urothelial carcinoma,\\n with 1) involvement of muscle proper\\n 2) squamous differentiation\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n invasive urothelial carcinoma,\\n with 1) involvement of subepithelial connective tissue\\n 2) squamous differentiation\\n\\nnote) the specimen does not include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n invasive urothelial carcinoma,\\n with 1) involvement of subepithelial connective tissue\\n 2) squamous differentiation\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n invasive urothelial carcinoma,\\n with involvement of muscle proper\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n invasive urothelial carcinoma,\\n with involvement of subepithelial connective tissue\\n\\nnote) the specimen does not include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n invasive urothelial carcinoma,\\n with involvement of subepithelial connective tissue\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n no tumor present\\n\\nnote) the specimen does not include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n no tumor present\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n non-invasive papillary urothelial carcinoma, high grade, with squamous differentiation\\n\\nnote) the specimen does not include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n non-invasive papillary urothelial carcinoma, high grade, with squamous differentiation\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n non-invasive papillary urothelial carcinoma, high grade\\n\\nnote) the specimen does not include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n non-invasive papillary urothelial carcinoma, high grade\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n non-invasive papillary urothelial carcinoma, low grade\\n\\nnote) the specimen does not include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n non-invasive papillary urothelial carcinoma, low grade\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n urothelial carcinoma in situ\\n\\nnote) the specimen does not include muscle proper": [
+    "__END__"
+   ],
+   "urinary bladder, transurethral resection;\\n urothelial carcinoma in situ\\n\\nnote) the specimen include muscle proper": [
+    "__END__"
+   ]
+  },
+  "what is the grade of dysplasia": {
+   "high grade": [
+    "what is the histologic type of neoplasm"
+   ],
+   "low grade": [
+    "what is the histologic type of neoplasm"
+   ]
+  },
+  "what is the grading system of dysplasia": {
+   "2-tier grading system": [
+    "what is the grade of dysplasia"
+   ]
+  },
+  "what is the histologic subtype of neoplasm": {
+   "conventional urothelial carcinoma": [
+    "is there any additional finding present"
+   ],
+   "urothelial carcinoma with glandular differentiation": [
+    "is there any additional finding present"
+   ],
+   "urothelial carcinoma with squamous differentiation": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the histologic type of inflammation": {
+   "chronic granulomatous inflammation with foreign body reaction": [
+    "what is the number of diagnoses to include"
+   ]
+  },
+  "what is the histologic type of neoplasm": {
+   "invasive urothelial carcinoma": [
+    "what is the histologic subtype of neoplasm"
+   ],
+   "non-invasive papillary urothelial carcinoma": [
+    "is there any additional finding present"
+   ],
+   "non-invasive papillary urothelial carcinoma with squamous differentiation": [
+    "is there any additional finding present"
+   ],
+   "urothelial carcinoma in situ": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the number of diagnoses to include": {
+   "1": [
+    "what is the #1 diagnosis"
+   ],
+   "2": [
+    "what is the #1 diagnosis"
+   ],
+   "3": [
+    "what is the #1 diagnosis"
+   ]
+  },
+  "what is the organ": {
+   "urinary bladder": [
+    "is there any abnormality present",
+    "is there any muscularis propria present"
+   ]
+  },
+  "what is the primary of neoplasm": {
+   "urothelial": [
+    "is there any invasion present"
+   ]
+  },
+  "what is the procedure": {
+   "transurethral resection": [
+    "is there any abnormality present",
+    "is there any muscularis propria present"
+   ]
+  }
+ },
+ "breast": {
+  "is there any abnormality present": {
+   "no, there is no abnormality": [
+    "what is the number of diagnoses to include"
+   ],
+   "yes, there is an abnormality": [
+    "is there any microcalcification present",
+    "is there any proliferative lesion present"
+   ]
+  },
+  "is there any additional finding present": {
+   "no, there is no additional finding": [
+    "what is the number of diagnoses to include"
+   ],
+   "yes, there is an additional finding": [
+    "is there any proliferative lesion present"
+   ]
+  },
+  "is there any focus measuring more than 2 mm in contiguous extent present": {
+   "no, there is no focus measuring more than 2 mm in contiguous extent": [
+    "what is the histologic type of lesion"
+   ],
+   "yes, there is a focus measuring more than 2 mm in contiguous extent": [
+    "what is the histologic type of lesion"
+   ]
+  },
+  "is there any focus measuring more than 3 mm in contiguous extent present": {
+   "no, there is no focus measuring more than 3 mm in contiguous extent": [
+    "what is the histologic type of lesion"
+   ],
+   "yes, there is a focus measuring more than 3 mm in contiguous extent": [
+    "what is the histologic type of lesion"
+   ]
+  },
+  "is there any inflammation present": {
+   "no, there is no inflammation": [
+    "what is histologic type of lesion"
+   ],
+   "yes, there is an inflammation": [
+    "what is histologic type of lesion"
+   ]
+  },
+  "is there any invasion present": {
+   "no, there is no invasion": [
+    "what is the histologic group of lesion"
+   ],
+   "yes, there is an invasion": [
+    "what is the primary of neoplasm"
+   ]
+  },
+  "is there any metaplasia present": {
+   "no, there is no metaplasia": [
+    "what is histologic type of lesion"
+   ],
+   "yes, there is a metaplasia": [
+    "what is histologic type of lesion"
+   ]
+  },
+  "is there any microcalcification present": {
+   "no, there is no microcalcification": [
+    "what is the number of diagnoses to include"
+   ],
+   "yes, there is a microcalcification": [
+    "what is the number of diagnoses to include"
+   ]
+  },
+  "is there any monotonous cell population present": {
+   "no, there is no monotonous cell population": [
+    "what is the histologic type of lesion"
+   ],
+   "yes, there is a monotonous cell population": [
+    "is there any focus measuring more than 2 mm in contiguous extent present"
+   ]
+  },
+  "is there any myoepithelial cell in fibrovascular core present": {
+   "yes, there is a myoepithelial cell in fibrovascular core": [
+    "is there any focus measuring more than 3 mm in contiguous extent present"
+   ]
+  },
+  "is there any necrosis present": {
+   "no, there is no necrosis": [
+    "is there any additional finding present"
+   ],
+   "yes, there is a necrosis": [
+    "what is the type of necrosis"
+   ]
+  },
+  "is there any proliferative lesion present": {
+   "no, there is no proliferative lesion": [
+    "is there any inflammation present",
+    "is there any metaplasia present",
+    "is there any stromal change present"
+   ],
+   "yes, there is a proliferative lesion": [
+    "is there any invasion present"
+   ]
+  },
+  "is there any stromal change present": {
+   "no, there is no stromal change": [
+    "what is histologic type of lesion"
+   ],
+   "yes, there is a stromal change": [
+    "what is histologic type of lesion"
+   ]
+  },
+  "is there any tdlu involving more than half of acini present": {
+   "no, there is no tdlu involving more than half of acini": [
+    "what is the histologic type of lesion"
+   ],
+   "yes, there is a tdlu involving more than half of acini": [
+    "what is the histologic type of lesion"
+   ]
+  },
+  "what is histologic type of lesion": {
+   "apocrine metaplasia": [
+    "is there any additional finding present"
+   ],
+   "duct ectasia": [
+    "is there any additional finding present"
+   ],
+   "fat necrosis": [
+    "is there any additional finding present"
+   ],
+   "fibrocystic change": [
+    "is there any additional finding present"
+   ],
+   "foreign body reaction": [
+    "is there any additional finding present"
+   ],
+   "granulomatous lobular mastitis": [
+    "is there any additional finding present"
+   ],
+   "mucocele-like lesion": [
+    "is there any additional finding present"
+   ],
+   "no evidence of tumor": [
+    "is there any additional finding present"
+   ],
+   "pseudoangiomatous stromal hyperplasia": [
+    "is there any additional finding present"
+   ],
+   "radiation-related atypia": [
+    "is there any additional finding present"
+   ],
+   "usual ductal hyperplasia": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the #1 diagnosis": {
+   "3": [
+    "what is the #1 diagnosis"
+   ],
+   "apocrine adenosis": [
+    "what is the final pathology report"
+   ],
+   "apocrine metaplasia": [
+    "what is the final pathology report"
+   ],
+   "atypical ductal hyperplasia": [
+    "what is the final pathology report"
+   ],
+   "carcinoma with apocrine differentiation": [
+    "what is the final pathology report"
+   ],
+   "columnar cell change": [
+    "what is the #2 diagnosis"
+   ],
+   "columnar cell hyperplasia": [
+    "what is the final pathology report"
+   ],
+   "columnar cell lesion": [
+    "what is the final pathology report"
+   ],
+   "desmoid fibromatosis": [
+    "what is the final pathology report"
+   ],
+   "duct ectasia": [
+    "what is the final pathology report"
+   ],
+   "ductal carcinoma in situ": [
+    "what is the final pathology report"
+   ],
+   "ductal carcinoma in situ in intraductal papilloma": [
+    "what is the #2 diagnosis"
+   ],
+   "fat necrosis": [
+    "what is the final pathology report"
+   ],
+   "fibroadenoma": [
+    "what is the final pathology report"
+   ],
+   "fibroadenomatoid change": [
+    "what is the final pathology report"
+   ],
+   "fibrocystic change": [
+    "what is the final pathology report"
+   ],
+   "fibroepithelial tumor": [
+    "what is the final pathology report"
+   ],
+   "fibroepithelial tumor, favor fibroadenoma": [
+    "what is the final pathology report"
+   ],
+   "fibroepithelial tumor, favor phyllodes tumor": [
+    "what is the final pathology report"
+   ],
+   "flat epithelial atypia": [
+    "what is the final pathology report"
+   ],
+   "foreign body reaction": [
+    "what is the final pathology report"
+   ],
+   "granulomatous lobular mastitis": [
+    "what is the final pathology report"
+   ],
+   "intraductal papilloma": [
+    "what is the final pathology report"
+   ],
+   "intraductal papilloma with apocrine metaplasia": [
+    "what is the final pathology report"
+   ],
+   "intraductal papilloma with atypical ductal hyperplasia": [
+    "what is the final pathology report"
+   ],
+   "intraductal papilloma with usual ductal hyperplasia": [
+    "what is the final pathology report"
+   ],
+   "invasive carcinoma of no special type, grade i": [
+    "what is the final pathology report"
+   ],
+   "invasive carcinoma of no special type, grade ii": [
+    "what is the final pathology report"
+   ],
+   "invasive carcinoma of no special type, grade iii": [
+    "what is the final pathology report"
+   ],
+   "invasive carcinoma with features of mucinous carcinoma": [
+    "what is the final pathology report"
+   ],
+   "invasive carcinoma with mixed ductal and lobular features": [
+    "what is the final pathology report"
+   ],
+   "invasive cribriform carcinoma": [
+    "what is the #2 diagnosis"
+   ],
+   "invasive lobular carcinoma": [
+    "what is the final pathology report"
+   ],
+   "invasive lobular carcinoma, pleomorphic type": [
+    "what is the final pathology report"
+   ],
+   "invasive micropapillary carcinoma": [
+    "what is the final pathology report"
+   ],
+   "lobular carcinoma in situ": [
+    "what is the final pathology report"
+   ],
+   "malignant lymphoma": [
+    "what is the final pathology report"
+   ],
+   "metaplastic carcinoma": [
+    "what is the final pathology report"
+   ],
+   "micro-invasive carcinoma": [
+    "what is the #2 diagnosis"
+   ],
+   "mucinous carcinoma": [
+    "what is the final pathology report"
+   ],
+   "no evidence of tumor": [
+    "what is the final pathology report"
+   ],
+   "papillary neoplasm": [
+    "what is the final pathology report"
+   ],
+   "papillary neoplasm with apocrine metaplasia": [
+    "what is the final pathology report"
+   ],
+   "papillary neoplasm with atypical ductal hyperplasia": [
+    "what is the final pathology report"
+   ],
+   "papillary neoplasm with usual ductal hyperplasia": [
+    "what is the final pathology report"
+   ],
+   "phyllodes tumor": [
+    "what is the final pathology report"
+   ],
+   "pseudoangiomatous stromal hyperplasia": [
+    "what is the final pathology report"
+   ],
+   "sclerosing adenosis": [
+    "what is the final pathology report"
+   ],
+   "solid papillary carcinoma": [
+    "what is the final pathology report"
+   ],
+   "solid papillary carcinoma in situ": [
+    "what is the final pathology report"
+   ],
+   "tubular carcinoma": [
+    "what is the final pathology report"
+   ],
+   "usual ductal hyperplasia": [
+    "what is the final pathology report"
+   ]
+  },
+  "what is the #2 diagnosis": {
+   "apocrine metaplasia": [
+    "what is the final pathology report"
+   ],
+   "atypical ductal hyperplasia": [
+    "what is the final pathology report"
+   ],
+   "atypical lobular hyperplasia": [
+    "what is the final pathology report"
+   ],
+   "columnar cell change": [
+    "what is the #3 diagnosis"
+   ],
+   "columnar cell lesion": [
+    "what is the final pathology report"
+   ],
+   "duct ectasia": [
+    "what is the #3 diagnosis"
+   ],
+   "ductal carcinoma in situ": [
+    "what is the final pathology report"
+   ],
+   "fibroadenoma": [
+    "what is the #3 diagnosis"
+   ],
+   "fibroadenomatoid change": [
+    "what is the final pathology report"
+   ],
+   "fibroepithelial tumor, favor fibroadenoma": [
+    "what is the final pathology report"
+   ],
+   "flat epithelial atypia": [
+    "what is the final pathology report"
+   ],
+   "intraductal papilloma": [
+    "what is the final pathology report"
+   ],
+   "intraductal papilloma with usual ductal hyperplasia": [
+    "what is the final pathology report"
+   ],
+   "lobular carcinoma in situ": [
+    "what is the final pathology report"
+   ],
+   "microcalcification": [
+    "what is the final pathology report"
+   ],
+   "mucocele-like lesion": [
+    "what is the final pathology report"
+   ],
+   "radiation-related atypia": [
+    "what is the final pathology report"
+   ],
+   "sclerosing adenosis": [
+    "what is the #3 diagnosis"
+   ],
+   "usual ductal hyperplasia": [
+    "what is the final pathology report"
+   ]
+  },
+  "what is the #3 diagnosis": {
+   "apocrine metaplasia": [
+    "what is the final pathology report"
+   ],
+   "columnar cell lesion": [
+    "what is the final pathology report"
+   ],
+   "fibrocystic change": [
+    "what is the final pathology report"
+   ],
+   "microcalcification": [
+    "what is the final pathology report"
+   ],
+   "pseudoangiomatous stromal hyperplasia": [
+    "what is the final pathology report"
+   ],
+   "sclerosing adenosis": [
+    "what is the final pathology report"
+   ],
+   "usual ductal hyperplasia": [
+    "what is the final pathology report"
+   ]
+  },
+  "what is the #4 diagnosis": {
+   "apocrine metaplasia": [
+    "what is the final pathology report"
+   ],
+   "microcalcification": [
+    "what is the final pathology report"
+   ]
+  },
+  "what is the architectural pattern of lesion": {
+   "cribriform": [
+    "is there any additional finding present"
+   ],
+   "cribriform and micropapillary": [
+    "is there any additional finding present"
+   ],
+   "cribriform and papillary": [
+    "is there any additional finding present"
+   ],
+   "cribriform and solid": [
+    "is there any additional finding present"
+   ],
+   "flat": [
+    "is there any additional finding present"
+   ],
+   "micropapillary": [
+    "is there any additional finding present"
+   ],
+   "papillary": [
+    "is there any additional finding present"
+   ],
+   "solid": [
+    "is there any additional finding present"
+   ],
+   "solid and cribriform": [
+    "is there any additional finding present"
+   ],
+   "solid and micropapillary": [
+    "is there any additional finding present"
+   ],
+   "solid and papillary": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the final pathology report": {
+   "breast, aspiration biopsy;\\n ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: low\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. apocrine metaplasia\\n 2. usual ductal hyperplasia\\n 3. fibrocystic change": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. atypical ductal hyperplasia\\n 2. apocrine metaplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. atypical ductal hyperplasia\\n 2. columnar cell change": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. atypical ductal hyperplasia\\n 2. columnar cell lesion": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. atypical ductal hyperplasia\\n 2. flat epithelial atypia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. atypical ductal hyperplasia\\n 2. intraductal papilloma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. atypical ductal hyperplasia\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. atypical ductal hyperplasia\\n 2. mucocele-like lesion": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. atypical ductal hyperplasia\\n 2. sclerosing adenosis": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. columnar cell change\\n 2. sclerosing adeosis\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. columnar cell lesion\\n 2. apocrine metaplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. columnar cell lesion\\n 2. duct ectasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. columnar cell lesion\\n 2. intraductal papilloma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. columnar cell lesion\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. columnar cell lesion\\n 2. usual ductal hyperplasia\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. duct ectasia\\n 2. apocrine metaplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. duct ectasia\\n 2. columnar cell lesion\\n 3. pseudoangiomatous stromal hyperplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. duct ectasia\\n 2. columnar cell lesion\\n 3. pseudoangiomatous stromal hyperplasia\\n 4. apocrine metaplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. duct ectasia\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. ductal carcinoma in situ in intraductal papilloma\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. ductal carcinoma in situ\\n - type: cribriform and solid\\n - nuclear grade: intermediate\\n - necrosis: present (comedo-type)\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. ductal carcinoma in situ\\n - type: cribriform\\n - nuclear grade: intermediate\\n - necrosis: absent\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. ductal carcinoma in situ\\n - type: cribriform\\n - nuclear grade: intermediate\\n - necrosis: present (comedo-type)\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. ductal carcinoma in situ\\n - type: cribriform\\n - nuclear grade: intermediate\\n - necrosis: present (focal)\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. ductal carcinoma in situ\\n - type: cribriform\\n - nuclear grade: low\\n - necrosis: absent\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. ductal carcinoma in situ\\n - type: micropapillary\\n - nuclear grade: high\\n - necrosis: present (focal)\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. ductal carcinoma in situ\\n - type: solid and micropapillary\\n - nuclear grade: high\\n - necrosis: present (focal)\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: high\\n - necrosis: present (comedo-type)\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: high\\n - necrosis: present (focal)\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: intermediate\\n - necrosis: absent\\n 2. fibroadenoma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: intermediate\\n - necrosis: absent\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: intermediate\\n - necrosis: absent\\n 2. sclerosing adenosis\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: intermediate\\n - necrosis: present (comedo-type)\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: intermediate\\n - necrosis: present (focal)\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. fibroadenoma\\n 2. usual ductal hyperplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. fibroadenomatoid change\\n 2. intraductal papilloma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. fibrocystic change\\n 2. apocrine metaplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. fibrocystic change\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. fibroepithelial tumor\\n 2. usual ductal hyperplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. intraductal papilloma\\n 2. apocrine metaplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. intraductal papilloma\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade i (tubule formation: 1, nuclear grade: 2, mitoses: 1)\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade i (tubule formation: 1, nuclear grade: 2, mitoses: 1)\\n 2. ductal carcinoma in situ\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade i (tubule formation: 1, nuclear grade: 2, mitoses: 1)\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade i (tubule formation: 2, nuclear grade: 1, mitoses: 1)\\n 2. atypical lobular hyperplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade i (tubule formation: 2, nuclear grade: 1, mitoses: 1)\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade i (tubule formation: 2, nuclear grade: 1, mitoses: 1)\\n 2. ductal carcinoma in situ\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade i (tubule formation: 2, nuclear grade: 2, mitoses: 1)\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade i (tubule formation: 2, nuclear grade: 2, mitoses: 1)\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade i (tubule formation: 3, nuclear grade: 1, mitoses: 1)\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade i (tubule formation: 3, nuclear grade: 1, mitoses: 1)\\n 2. fibroadenoma\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade i (tubule formation: 3, nuclear grade: 1, mitoses: 1)\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 2, nuclear grade: 2, mitoses: 2)\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 2, nuclear grade: 3, mitoses: 1)\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 2, nuclear grade: 3, mitoses: 1)\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 2, nuclear grade: 3, mitoses: 2)\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 2, nuclear grade: 3, mitoses: 2)\\n 2. ductal carcinoma in situ\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 2, mitoses: 1)\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 2, mitoses: 1)\\n 2. ductal carcinoma in situ\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 2, mitoses: 1)\\n 2. fibroadenomatoid change\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 2, mitoses: 1)\\n 2. intraductal papilloma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 2, mitoses: 1)\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 2, mitoses: 2)\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 2, mitoses: 2)\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 3, mitoses: 1)\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 3, mitoses: 1)\\n 2. ductal carcinoma in situ\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 3, mitoses: 1)\\n 2. fibroadenomatoid change\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 3, mitoses: 1)\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade iii (tubule formation: 3, nuclear grade: 3, mitoses: 2)\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade iii (tubule formation: 3, nuclear grade: 3, mitoses: 3)\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma of no special type, grade iii (tubule formation: 3, nuclear grade: 3, mitoses: 3)\\n 2. ductal carcinoma in situ\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma with features of mucinous carcinoma\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive carcinoma with features of mucinous carcinoma\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive cribriform carcinoma\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive lobular carcinoma\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive lobular carcinoma\\n 2. lobular carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive lobular carcinoma\\n 2. lobular carcinoma in situ\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive lobular carcinoma\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive micropapillary carcinoma\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. invasive micropapillary carcinoma\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. microinvasive carcinoma\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. microinvasive carcinoma\\n 2. ductal carcinoma in situ\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. mucinous carcinoma\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. mucinous carcinoma\\n 2. ductal carcinoma in situ\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. no evidence of tumor\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. no evidence of tumor\\n 2. radiation-related atypia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. papillary neoplasm\\n 2. atypical ductal hyperplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. papillary neoplasm\\n 2. columnar cell lesion": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. papillary neoplasm\\n 2. fibroepithelial tumor, favor fibroadenoma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. papillary neoplasm\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. papillary neoplasm\\n 2. sclerosing adenosis": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. papillary neoplasm\\n 2. usual ductal hyperplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. papillary neoplasm\\n 2. usual ductal hyperplasia\\n 3. columnar cell lesion": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. papillary neoplasm\\n 2. usual ductal hyperplasia\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. sclerosing adenosis\\n 2. columnar cell change\\n 3. apocrine metaplasia\\n 4. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. sclerosing adenosis\\n 2. columnar cell lesion": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. sclerosing adenosis\\n 2. fibroadenoma\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. sclerosing adenosis\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. sclerosing adenosis\\n 2. microcalcification\\n 3. apocrine metaplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. sclerosing adenosis\\n 2. usual ductal hyperplasia\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. usual ductal hyperplasia\\n 2. apocrine metaplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. usual ductal hyperplasia\\n 2. apocrine metaplasia\\n 3. sclerosing adenosis": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. usual ductal hyperplasia\\n 2. duct ectasia\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. usual ductal hyperplasia\\n 2. fibroadenomatoid change": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n 1. usual ductal hyperplasia\\n 2. microcalcification\\n 3. apocrine metaplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n apocrine adenosis": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n apocrine metaplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n atypical ductal hyperplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n carcinoma with apocrine differentiation": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n columnar cell hyperplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n columnar cell lesion": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n desmoid fibromatosis": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n duct ectasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ in intraductal papilloma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: cribriform and micropapillary\\n - nuclear grade: high\\n - necrosis: present (comedo-type)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: cribriform and micropapillary\\n - nuclear grade: intermediate\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: cribriform and papillary\\n - nuclear grade: intermediate\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: cribriform and papillary\\n - nuclear grade: intermediate\\n - necrosis: present (comedo-type)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: cribriform and papillary\\n - nuclear grade: low\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: cribriform and solid\\n - nuclear grade: intermediate\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: cribriform and solid\\n - nuclear grade: intermediate\\n - necrosis: present (comedo-type)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: cribriform and solid\\n - nuclear grade: low\\n - necrosis: present (comedo-type)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: cribriform\\n - nuclear grade: high\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: cribriform\\n - nuclear grade: high\\n - necrosis: present (comedo-type)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: cribriform\\n - nuclear grade: high\\n - necrosis: present (focal)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: cribriform\\n - nuclear grade: intermediate\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: cribriform\\n - nuclear grade: intermediate\\n - necrosis: present (comedo-type)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: cribriform\\n - nuclear grade: intermediate\\n - necrosis: present (focal)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: cribriform\\n - nuclear grade: low\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: cribriform\\n - nuclear grade: low\\n - necrosis: present": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: cribriform\\n - nuclear grade: low\\n - necrosis: present (comedo-type)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: flat\\n - nuclear grade: high\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: micropapillary\\n - nuclear grade: high\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: micropapillary\\n - nuclear grade: high\\n - necrosis: present (comedo-type)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: micropapillary\\n - nuclear grade: high\\n - necrosis: present (focal)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: micropapillary\\n - nuclear grade: intermediate\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: micropapillary\\n - nuclear grade: intermediate\\n - necrosis: present (comedo-type)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: micropapillary\\n - nuclear grade: intermediate\\n - necrosis: present (focal)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: micropapillary\\n - nuclear grade: low\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: papillary\\n - nuclear grade: intermediate\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: papillary\\n - nuclear grade: low\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: solid and cribriform\\n - nuclear grade: high\\n - necrosis: present (comedo-type)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: solid and cribriform\\n - nuclear grade: high\\n - necrosis: present (focal)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: solid and cribriform\\n - nuclear grade: intermediate\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: solid and cribriform\\n - nuclear grade: intermediate\\n - necrosis: present (comedo-type)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: solid and cribriform\\n - nuclear grade: intermediate\\n - necrosis: present (focal)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: solid and micropapillary\\n - nuclear grade: high\\n - necrosis: present (comedo-type)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: solid and micropapillary\\n - nuclear grade: high\\n - necrosis: present (focal)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: solid and papillary\\n - nuclear grade: intermediate\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: high\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: high\\n - necrosis: present (comedo-type)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: high\\n - necrosis: present (focal)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: intermediate\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: intermediate\\n - necrosis: present": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: intermediate\\n - necrosis: present (comedo-type)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: intermediate\\n - necrosis: present (focal)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: low\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n fat necrosis": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n fibroadenoma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n fibroadenomatoid change": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n fibrocystic change": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n fibroepithelial tumor": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n fibroepithelial tumor, favor fibroadenoma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n fibroepithelial tumor, favor phyllodes tumor": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n flat epithelial atypia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n foreign body reaction": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n granulomatous lobular mastitis": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n intraductal papilloma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n intraductal papilloma with apocrine metaplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n intraductal papilloma with atypical ductal hyperplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n intraductal papilloma with usual ductal hyperplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma of no special type, grade i (tubule formation: 1, nuclear grade: 1, mitoses: 1)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma of no special type, grade i (tubule formation: 1, nuclear grade: 2, mitoses: 1)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma of no special type, grade i (tubule formation: 1, nuclear grade: 2, mitoses: 2)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma of no special type, grade i (tubule formation: 2, nuclear grade: 1, mitoses: 1)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma of no special type, grade i (tubule formation: 2, nuclear grade: 2, mitoses: 1)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma of no special type, grade i (tubule formation: 3, nuclear grade: 1, mitoses: 1)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma of no special type, grade ii (tubule formation: 2, nuclear grade: 2, mitoses: 2)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma of no special type, grade ii (tubule formation: 2, nuclear grade: 3, mitoses: 1)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma of no special type, grade ii (tubule formation: 2, nuclear grade: 3, mitoses: 2)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 2, mitoses: 1)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 2, mitoses: 2)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 3, mitoses: 1)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma of no special type, grade iii (tubule formation: 3, nuclear grade: 2, mitoses: 3)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma of no special type, grade iii (tubule formation: 3, nuclear grade: 3, mitoses: 2)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma of no special type, grade iii (tubule formation: 3, nuclear grade: 3, mitoses: 2)\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma of no special type, grade iii (tubule formation: 3, nuclear grade: 3, mitoses: 3)": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma with features of mucinous carcinoma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive carcinoma with mixed ductal and lobular features": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive cribriform carcinoma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive lobular carcinoma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive lobular carcinoma, pleomorphic type": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n invasive micropapillary carcinoma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n lobular carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n malignant lymphoma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n metaplastic carcinoma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n mucinous carcinoma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n no evidence of tumor": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n papillary neoplasm": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n papillary neoplasm with apocrine metaplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n papillary neoplasm with atypical ductal hyperplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n papillary neoplasm with usual ductal hyperplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n phyllodes tumor": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n pseudoangiomatous stromal hyperplasia": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n sclerosing adenosis": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n solid papillary carcinoma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n solid papillary carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n tubular carcinoma": [
+    "__END__"
+   ],
+   "breast, core needle biopsy;\\n usual ductal hyperplasia": [
+    "__END__"
+   ],
+   "breast, mammotome biopsy;\\n 1. ductal carcinoma in situ\\n - type: cribriform\\n - nuclear grade: intermediate\\n - necrosis: absent\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, mammotome biopsy;\\n 1. ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: intermediate\\n - necrosis: absent\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, mammotome biopsy;\\n 1. fibrocystic change\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, mammotome biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 2, mitoses: 1)\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, mammotome biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 2, mitoses: 2)\\n 2. ductal carcinoma in situ\\n 3. microcalcification": [
+    "__END__"
+   ],
+   "breast, mammotome biopsy;\\n 1. invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 3, mitoses: 1)\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, mammotome biopsy;\\n 1. invasive carcinoma of no special type, grade iii (tubule formation: 3, nuclear grade: 3, mitoses: 2)\\n 2. ductal carcinoma in situ": [
+    "__END__"
+   ],
+   "breast, mammotome biopsy;\\n 1. lobular carcinoma in situ\\n 2. intraductal papilloma with usual ductal hyperplasia": [
+    "__END__"
+   ],
+   "breast, mammotome biopsy;\\n 1. usual ductal hyperplasia\\n 2. fibroadenomatoid change": [
+    "__END__"
+   ],
+   "breast, mammotome biopsy;\\n ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: high\\n - necrosis: present (comedo-type)": [
+    "__END__"
+   ],
+   "breast, mammotome biopsy;\\n ductal carcinoma in situ\\n - type: solid\\n - nuclear grade: intermediate\\n - necrosis: absent": [
+    "__END__"
+   ],
+   "breast, mammotome biopsy;\\n fibrocystic change": [
+    "__END__"
+   ],
+   "breast, mammotome biopsy;\\n intraductal papilloma with usual ductal hyperplasia": [
+    "__END__"
+   ],
+   "breast, mammotome biopsy;\\n invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 2, mitoses: 1)": [
+    "__END__"
+   ],
+   "breast, mammotome biopsy;\\n invasive carcinoma of no special type, grade ii (tubule formation: 3, nuclear grade: 3, mitoses: 1)": [
+    "__END__"
+   ],
+   "breast, mammotome biopsy;\\n invasive carcinoma of no special type, grade iii (tubule formation: 3, nuclear grade: 3, mitoses: 2)": [
+    "__END__"
+   ],
+   "breast, stereotactic biopsy;\\n 1. columnar cell lesion\\n 2. apocrine metaplasia\\n 3. usual ductal hyperplasia": [
+    "__END__"
+   ],
+   "breast, stereotactic biopsy;\\n 1. columnar cell lesion\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, stereotactic biopsy;\\n 1. sclerosing adenosis\\n 2. microcalcification": [
+    "__END__"
+   ],
+   "breast, stereotactic biopsy;\\n columnar cell lesion": [
+    "__END__"
+   ],
+   "breast, stereotactic biopsy;\\n no evidence of tumor": [
+    "__END__"
+   ],
+   "nipple, punch biopsy;\\n 1. papillary neoplasm\\n 2. microcalcification": [
+    "__END__"
+   ]
+  },
+  "what is the grade of neoplasm": {
+   "grade i": [
+    "is there any additional finding present"
+   ],
+   "grade ii": [
+    "is there any additional finding present"
+   ],
+   "grade iii": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the grading system": {
+   "nottingham combined histologic grade": [
+    "what is the score for mitotic rate",
+    "what is the score for nuclear pleomorphism",
+    "what is the score for tubular differentiation"
+   ]
+  },
+  "what is the histologic group of lesion": {
+   "adenosis": [
+    "what is the histologic type of lesion"
+   ],
+   "fibroepithelial tumor": [
+    "what is the histologic type of lesion"
+   ],
+   "intraductal proliferative lesion": [
+    "is there any monotonous cell population present"
+   ],
+   "mesenchymal tumor": [
+    "what is the histologic type of lesion"
+   ],
+   "non-invasive lobular neoplasia": [
+    "is there any tdlu involving more than half of acini present"
+   ],
+   "papillary neoplasm": [
+    "is there any monotonous cell population present"
+   ]
+  },
+  "what is the histologic type of lesion": {
+   "apocrine adenosis": [
+    "is there any additional finding present"
+   ],
+   "atypical ductal hyperplasia": [
+    "is there any additional finding present"
+   ],
+   "atypical lobular hyperplasia": [
+    "is there any additional finding present"
+   ],
+   "columnar cell change": [
+    "is there any additional finding present"
+   ],
+   "columnar cell hyperplasia": [
+    "is there any additional finding present"
+   ],
+   "columnar cell lesion": [
+    "is there any additional finding present"
+   ],
+   "desmoid fibromatosis": [
+    "is there any additional finding present"
+   ],
+   "ductal carcinoma in situ": [
+    "is there any necrosis present",
+    "what is the architectural pattern of lesion",
+    "what is the nuclear grade of lesion"
+   ],
+   "ductal carcinoma in situ in intraductal papilloma": [
+    "is there any additional finding present"
+   ],
+   "fibroadenoma": [
+    "is there any additional finding present"
+   ],
+   "fibroadenomatoid change": [
+    "is there any additional finding present"
+   ],
+   "fibroepithelial tumor": [
+    "is there any additional finding present"
+   ],
+   "fibroepithelial tumor, favor fibroadenoma": [
+    "is there any additional finding present"
+   ],
+   "fibroepithelial tumor, favor phyllodes tumor": [
+    "is there any additional finding present"
+   ],
+   "flat cell atypia": [
+    "is there any additional finding present"
+   ],
+   "flat epithelial atypia": [
+    "is there any additional finding present"
+   ],
+   "intraductal papilloma": [
+    "is there any additional finding present"
+   ],
+   "intraductal papilloma with apocrine metaplasia": [
+    "is there any additional finding present"
+   ],
+   "intraductal papilloma with atypical ductal hyperplasia": [
+    "is there any additional finding present"
+   ],
+   "intraductal papilloma with usual ductal hyperplasia": [
+    "is there any additional finding present"
+   ],
+   "lobular carcinoma in situ": [
+    "is there any additional finding present"
+   ],
+   "papillary ductal carcinoma in situ": [
+    "is there any necrosis present",
+    "what is the architectural pattern of lesion",
+    "what is the nuclear grade of lesion"
+   ],
+   "papillary neoplasm": [
+    "is there any additional finding present"
+   ],
+   "papillary neoplasm with apocrine metaplasia": [
+    "is there any additional finding present"
+   ],
+   "papillary neoplasm with atypical ductal hyperplasia": [
+    "is there any additional finding present"
+   ],
+   "papillary neoplasm with usual ductal hyperplasia": [
+    "is there any additional finding present"
+   ],
+   "phyllodes tumor": [
+    "is there any additional finding present"
+   ],
+   "sclerosing adenosis": [
+    "is there any additional finding present"
+   ],
+   "solid papillary carcinoma in situ": [
+    "is there any additional finding present"
+   ],
+   "usual ductal hyperplasia": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the histologic type of neoplasm": {
+   "carcinoma with apocrine differentiation": [
+    "is there any additional finding present"
+   ],
+   "invasive breast carcinoma of no special type": [
+    "what is the grading system"
+   ],
+   "invasive carcinoma with features of mucinous carcinoma": [
+    "is there any additional finding present"
+   ],
+   "invasive carcinoma with mixed ductal and lobular features": [
+    "is there any additional finding present"
+   ],
+   "invasive cribriform carcinoma": [
+    "is there any additional finding present"
+   ],
+   "invasive lobular carcinoma": [
+    "is there any additional finding present"
+   ],
+   "invasive micropapillary carcinoma": [
+    "is there any additional finding present"
+   ],
+   "malignant lymphoma": [
+    "is there any additional finding present"
+   ],
+   "metaplastic carcinoma": [
+    "is there any additional finding present"
+   ],
+   "micro-invasive carcinoma": [
+    "is there any additional finding present"
+   ],
+   "mucinous carcinoma": [
+    "is there any additional finding present"
+   ],
+   "pleomorphic lobular carcinoma": [
+    "is there any additional finding present"
+   ],
+   "solid papillary carcinoma": [
+    "is there any additional finding present"
+   ],
+   "tubular carcinoma": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the nuclear grade of lesion": {
+   "high": [
+    "is there any additional finding present"
+   ],
+   "intermediate": [
+    "is there any additional finding present"
+   ],
+   "low": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the number of diagnoses to include": {
+   "1": [
+    "what is the #1 diagnosis"
+   ],
+   "2": [
+    "what is the #1 diagnosis"
+   ],
+   "3": [
+    "what is the #1 diagnosis"
+   ],
+   "4": [
+    "what is the #1 diagnosis"
+   ],
+   "papillary neoplasm": [
+    "what is the #2 diagnosis"
+   ]
+  },
+  "what is the organ": {
+   "breast": [
+    "is there any abnormality present"
+   ],
+   "nipple": [
+    "is there any abnormality present"
+   ]
+  },
+  "what is the overall score": {
+   "3": [
+    "what is the grade of neoplasm"
+   ],
+   "4": [
+    "what is the grade of neoplasm"
+   ],
+   "5": [
+    "what is the grade of neoplasm"
+   ],
+   "6": [
+    "what is the grade of neoplasm"
+   ],
+   "7": [
+    "what is the grade of neoplasm"
+   ],
+   "8": [
+    "what is the grade of neoplasm"
+   ],
+   "9": [
+    "what is the grade of neoplasm"
+   ]
+  },
+  "what is the primary of neoplasm": {
+   "hematolymphoid": [
+    "what is the histologic type of neoplasm"
+   ],
+   "mammary": [
+    "what is the histologic type of neoplasm"
+   ]
+  },
+  "what is the procedure": {
+   "aspiration biopsy": [
+    "is there any abnormality present"
+   ],
+   "core needle biopsy": [
+    "is there any abnormality present"
+   ],
+   "mammotome biopsy": [
+    "is there any abnormality present"
+   ],
+   "punch biopsy": [
+    "is there any abnormality present"
+   ],
+   "stereotactic biopsy": [
+    "is there any abnormality present"
+   ]
+  },
+  "what is the score for mitotic rate": {
+   "1": [
+    "what is the overall score"
+   ],
+   "2": [
+    "what is the overall score"
+   ],
+   "3": [
+    "what is the overall score"
+   ]
+  },
+  "what is the score for nuclear pleomorphism": {
+   "1": [
+    "what is the overall score"
+   ],
+   "2": [
+    "what is the overall score"
+   ],
+   "3": [
+    "what is the overall score"
+   ]
+  },
+  "what is the score for tubular differentiation": {
+   "1": [
+    "what is the overall score"
+   ],
+   "2": [
+    "what is the overall score"
+   ],
+   "3": [
+    "what is the overall score"
+   ]
+  },
+  "what is the type of necrosis": {
+   "comedo-type necrosis": [
+    "is there any additional finding present"
+   ],
+   "focal necrosis": [
+    "is there any additional finding present"
+   ],
+   "necrosis": [
+    "is there any additional finding present"
+   ]
+  }
+ },
+ "cervix": {
+  "is there any abnormality present": {
+   "no, there is no abnormality": [
+    "what is the number of diagnoses to include"
+   ],
+   "yes, there is an abnormality": [
+    "is there any neoplasm present"
+   ]
+  },
+  "is there any active inflammation present": {
+   "no, there is no active inflammation": [
+    "is there any additional finding present"
+   ],
+   "yes, there is an active inflammation": [
+    "is there any additional finding present"
+   ]
+  },
+  "is there any additional finding present": {
+   "no, there is no additional finding": [
+    "what is the number of diagnoses to include"
+   ],
+   "yes, there is an additional finding": [
+    "is there any neoplasm present"
+   ]
+  },
+  "is there any benign epithelial lesion present": {
+   "no, there is no benign epithelial lesion": [
+    "is there any inflammation present"
+   ],
+   "yes, there is a benign epithelial lesion": [
+    "what is the histologic type of benign epithelial lesion"
+   ]
+  },
+  "is there any glandular involvement present": {
+   "no, there is no glandular involvement": [
+    "is there any additional finding present"
+   ],
+   "yes, there is a glandular involvement": [
+    "is there any additional finding present"
+   ]
+  },
+  "is there any inflammation present": {
+   "yes, there is an inflammation": [
+    "is there any active inflammation present",
+    "is there any squamous metaplasia present"
+   ]
+  },
+  "is there any neoplasm present": {
+   "no, there is no neoplasm": [
+    "is there any benign epithelial lesion present"
+   ],
+   "yes, there is a neoplasm": [
+    "what is the behavior of neoplasm",
+    "what is the primary of neoplasm"
+   ]
+  },
+  "is there any squamous metaplasia present": {
+   "no, there is no squamous metaplasia": [
+    "is there any additional finding present"
+   ],
+   "yes, there is a squamous metaplasia": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the #1 diagnosis": {
+   "adenocarcinoma, favor colorectal primary": [
+    "what is the final pathology report"
+   ],
+   "chronic active cervicitis": [
+    "what is the final pathology report"
+   ],
+   "chronic nonspecific cervicitis": [
+    "what is the final pathology report"
+   ],
+   "chronic nonspecific cervicitis with squamous metaplasia": [
+    "what is the final pathology report"
+   ],
+   "endocervical adenocarcinoma in situ (ais), hpv-associated": [
+    "what is the final pathology report"
+   ],
+   "endocervical adenocarcinoma, hpv-associated, usual type": [
+    "what is the final pathology report"
+   ],
+   "endocervical adenocarcinoma, hpv-independent, clear cell type": [
+    "what is the final pathology report"
+   ],
+   "endocervical adenocarcinoma, hpv-independent, gastric type": [
+    "what is the final pathology report"
+   ],
+   "endocervical polyp": [
+    "what is the final pathology report"
+   ],
+   "endocervical polyp with radiation change": [
+    "what is the final pathology report"
+   ],
+   "endometrioid carcinoma": [
+    "what is the final pathology report"
+   ],
+   "high-grade serous carcinoma": [
+    "what is the final pathology report"
+   ],
+   "high-grade squamous intraepithelial lesion (hsil; cin 2)": [
+    "what is the final pathology report"
+   ],
+   "high-grade squamous intraepithelial lesion (hsil; cin 2) with glandular involvement": [
+    "what is the final pathology report"
+   ],
+   "high-grade squamous intraepithelial lesion (hsil; cin 3)": [
+    "what is the final pathology report"
+   ],
+   "high-grade squamous intraepithelial lesion (hsil; cin 3) with glandular involvement": [
+    "what is the final pathology report"
+   ],
+   "invasive squamous cell carcinoma": [
+    "what is the final pathology report"
+   ],
+   "low-grade squamous intraepithelial lesion (lsil; cin 1)": [
+    "what is the final pathology report"
+   ],
+   "microglandular hyperplasia": [
+    "what is the final pathology report"
+   ],
+   "serous carcinoma": [
+    "what is the final pathology report"
+   ]
+  },
+  "what is the #2 diagnosis": {
+   "endocervical adenocarcinoma in situ (ais), hpv-associated": [
+    "what is the final pathology report"
+   ],
+   "high-grade squamous intraepithelial lesion (hsil; cin 2)": [
+    "what is the final pathology report"
+   ]
+  },
+  "what is the behavior of neoplasm": {
+   "benign": [
+    "what is the histologic type of neoplasm"
+   ],
+   "in situ": [
+    "what is the histologic type of neoplasm"
+   ],
+   "malignant": [
+    "what is the histologic type of neoplasm"
+   ]
+  },
+  "what is the final pathology report": {
+   "uterine cervix, colposcopic biopsy;\\n adenocarcinoma, favor colorectal primary": [
+    "__END__"
+   ],
+   "uterine cervix, colposcopic biopsy;\\n chronic active cervicitis": [
+    "__END__"
+   ],
+   "uterine cervix, colposcopic biopsy;\\n chronic nonspecific cervicitis": [
+    "__END__"
+   ],
+   "uterine cervix, colposcopic biopsy;\\n chronic nonspecific cervicitis with squamous metaplasia": [
+    "__END__"
+   ],
+   "uterine cervix, colposcopic biopsy;\\n endocervical adenocarcinoma in situ (ais), hpv-associated": [
+    "__END__"
+   ],
+   "uterine cervix, colposcopic biopsy;\\n endocervical adenocarcinoma, hpv-associated, usual type": [
+    "__END__"
+   ],
+   "uterine cervix, colposcopic biopsy;\\n endocervical adenocarcinoma, hpv-independent, clear cell type": [
+    "__END__"
+   ],
+   "uterine cervix, colposcopic biopsy;\\n endocervical adenocarcinoma, hpv-independent, gastric type": [
+    "__END__"
+   ],
+   "uterine cervix, colposcopic biopsy;\\n endometrioid carcinoma": [
+    "__END__"
+   ],
+   "uterine cervix, colposcopic biopsy;\\n high-grade squamous intraepithelial lesion (hsil; cin 2)": [
+    "__END__"
+   ],
+   "uterine cervix, colposcopic biopsy;\\n high-grade squamous intraepithelial lesion (hsil; cin 2)\\n with glandular involvement": [
+    "__END__"
+   ],
+   "uterine cervix, colposcopic biopsy;\\n high-grade squamous intraepithelial lesion (hsil; cin 3)": [
+    "__END__"
+   ],
+   "uterine cervix, colposcopic biopsy;\\n high-grade squamous intraepithelial lesion (hsil; cin 3)\\n with glandular involvement": [
+    "__END__"
+   ],
+   "uterine cervix, colposcopic biopsy;\\n invasive squamous cell carcinoma": [
+    "__END__"
+   ],
+   "uterine cervix, colposcopic biopsy;\\n low-grade squamous intraepithelial lesion (lsil; cin 1)": [
+    "__END__"
+   ],
+   "uterine cervix, colposcopic biopsy;\\n metastatic high-grade serous carcinoma": [
+    "__END__"
+   ],
+   "uterine cervix, colposcopic biopsy;\\n serous carcinoma": [
+    "__END__"
+   ],
+   "uterine cervix, curette biopsy;\\n endocervical adenocarcinoma in situ (ais), hpv-associated": [
+    "__END__"
+   ],
+   "uterine cervix, frozen biopsy;\\n invasive squamous cell carcinoma": [
+    "__END__"
+   ],
+   "uterine cervix, loop electrosurgical excision procedure;\\n 1. endocervical adenocarcinoma in situ (ais), hpv-associated\\n 2. high-grade squamous intraepithelial lesion (hsil; cin 2)": [
+    "__END__"
+   ],
+   "uterine cervix, loop electrosurgical excision procedure;\\n high-grade squamous intraepithelial lesion (hsil; cin 3)": [
+    "__END__"
+   ],
+   "uterine cervix, polypectomy;\\n high-grade squamous intraepithelial lesion (hsil; cin 3)": [
+    "__END__"
+   ],
+   "uterine cervix, polypectomy;\\n low-grade squamous intraepithelial lesion (lsil; cin 1)": [
+    "__END__"
+   ],
+   "uterine cervix, punch biopsy;\\n 1. high-grade squamous intraepithelial lesion (hsil; cin 3) with glandular involvement\\n 2. endocervical adenocarcinoma in situ (ais), hpv-associated": [
+    "__END__"
+   ],
+   "uterine cervix, punch biopsy;\\n 1. high-grade squamous intraepithelial lesion (hsil; cin 3)\\n 2. endocervical adenocarcinoma in situ (ais), hpv-associated": [
+    "__END__"
+   ],
+   "uterine cervix, punch biopsy;\\n chronic nonspecific cervicitis": [
+    "__END__"
+   ],
+   "uterine cervix, punch biopsy;\\n endocervical adenocarcinoma in situ (ais), hpv-associated": [
+    "__END__"
+   ],
+   "uterine cervix, punch biopsy;\\n endocervical adenocarcinoma, hpv-associated, usual type": [
+    "__END__"
+   ],
+   "uterine cervix, punch biopsy;\\n endocervical adenocarcinoma, hpv-independent, gastric type": [
+    "__END__"
+   ],
+   "uterine cervix, punch biopsy;\\n endocervical polyp": [
+    "__END__"
+   ],
+   "uterine cervix, punch biopsy;\\n endocervical polyp with radiation change": [
+    "__END__"
+   ],
+   "uterine cervix, punch biopsy;\\n high-grade squamous intraepithelial lesion (hsil; cin 2)": [
+    "__END__"
+   ],
+   "uterine cervix, punch biopsy;\\n high-grade squamous intraepithelial lesion (hsil; cin 2)\\n with glandular involvement": [
+    "__END__"
+   ],
+   "uterine cervix, punch biopsy;\\n high-grade squamous intraepithelial lesion (hsil; cin 3)": [
+    "__END__"
+   ],
+   "uterine cervix, punch biopsy;\\n high-grade squamous intraepithelial lesion (hsil; cin 3)\\n with glandular involvement": [
+    "__END__"
+   ],
+   "uterine cervix, punch biopsy;\\n invasive squamous cell carcinoma": [
+    "__END__"
+   ],
+   "uterine cervix, punch biopsy;\\n low-grade squamous intraepithelial lesion (lsil; cin 1)": [
+    "__END__"
+   ],
+   "uterine cervix, punch biopsy;\\n microglandular hyperplasia": [
+    "__END__"
+   ]
+  },
+  "what is the grade of atypia": {
+   "grade 1": [
+    "is there any additional finding present"
+   ],
+   "grade 2": [
+    "is there any additional finding present"
+   ],
+   "grade 3": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the grading system of atypia": {
+   "3-tier grading system": [
+    "what is the grade of atypia"
+   ]
+  },
+  "what is the histologic subtype of neoplasm": {
+   "endocervical adenocarcinoma in situ, hpv-associated": [
+    "is there any additional finding present"
+   ],
+   "endocervical adenocarcinoma, hpv-associated, usual type": [
+    "is there any additional finding present"
+   ],
+   "endocervical adenocarcinoma, hpv-independent, clear cell type": [
+    "is there any additional finding present"
+   ],
+   "endocervical adenocarcinoma, hpv-independent, gastric type": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the histologic type of benign epithelial lesion": {
+   "endocervical polyp": [
+    "is there any additional finding present"
+   ],
+   "endocervical polyp with radiation change": [
+    "is there any additional finding present"
+   ],
+   "microglandular hyperplasia": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the histologic type of neoplasm": {
+   "adenocarcinoma, favor colorectal primary": [
+    "is there any additional finding present"
+   ],
+   "endocervical adenocarcinoma": [
+    "what is the histologic subtype of neoplasm"
+   ],
+   "endocervical adenocarcinoma in situ": [
+    "what is the histologic subtype of neoplasm"
+   ],
+   "endometrioid carcinoma": [
+    "is there any additional finding present"
+   ],
+   "high-grade serous carcinoma": [
+    "is there any additional finding present"
+   ],
+   "serous carcinoma": [
+    "is there any additional finding present"
+   ],
+   "squamous cell carcinoma": [
+    "is there any additional finding present"
+   ],
+   "squamous intraepithelial lesion": [
+    "is there any glandular involvement present",
+    "what is the grading system of atypia"
+   ]
+  },
+  "what is the number of diagnoses to include": {
+   "1": [
+    "what is the #1 diagnosis"
+   ],
+   "2": [
+    "what is the #1 diagnosis"
+   ]
+  },
+  "what is the organ": {
+   "uterine cervix": [
+    "is there any abnormality present"
+   ]
+  },
+  "what is the primary of neoplasm": {
+   "cervical": [
+    "what is the histologic type of neoplasm"
+   ],
+   "colorectal": [
+    "what is the histologic type of neoplasm"
+   ],
+   "endometrial": [
+    "what is the histologic type of neoplasm"
+   ],
+   "tubo-ovarian": [
+    "what is the histologic type of neoplasm"
+   ]
+  },
+  "what is the procedure": {
+   "colposcopic biopsy": [
+    "is there any abnormality present"
+   ],
+   "curette biopsy": [
+    "is there any abnormality present"
+   ],
+   "frozen biopsy": [
+    "is there any abnormality present"
+   ],
+   "loop electrosurgical excision procedure": [
+    "is there any abnormality present"
+   ],
+   "polypectomy": [
+    "is there any abnormality present"
+   ],
+   "punch biopsy": [
+    "is there any abnormality present"
+   ]
+  }
+ },
+ "colon": {
+  "is there any abnormality present": {
+   "no, there is no abnormality": [
+    "what is the number of diagnoses to include"
+   ],
+   "yes, there is an abnormality": [
+    "is there any neoplasm present"
+   ]
+  },
+  "is there any active inflammation present": {
+   "yes, there is active inflammation": [
+    "what is the histologic type"
+   ]
+  },
+  "is there any dysplasia present": {
+   "no, there is no dysplasia": [
+    "what is the number of diagnoses to include"
+   ],
+   "yes, there is a dysplasia": [
+    "what is the grading system of dysplasia"
+   ]
+  },
+  "is there any inflammation present": {
+   "yes, there is inflammation": [
+    "is there any active inflammation present"
+   ]
+  },
+  "is there any neoplasm present": {
+   "no, there is no neoplasm": [
+    "is there any inflammation present",
+    "is there any polyp present"
+   ],
+   "yes, there is a neoplasm": [
+    "what is the behavior of neoplasm",
+    "what is the primary of neoplasm"
+   ]
+  },
+  "is there any polyp present": {
+   "no, there is no polyp": [
+    "what is the histologic type"
+   ],
+   "yes, there is a polyp": [
+    "what is the histologic type"
+   ]
+  },
+  "is there any serration present": {
+   "no, there is no serration": [
+    "is there any villous component present"
+   ],
+   "yes, there is a serration": [
+    "what is the histologic type of neoplasm"
+   ]
+  },
+  "is there any villous component present": {
+   "no, there no villous component": [
+    "what is the histologic type of neoplasm"
+   ],
+   "yes, there is a villous component": [
+    "what is the proportion of villous component"
+   ]
+  },
+  "what is the #1 diagnosis": {
+   "adenocarcinoma, moderately differentiated": [
+    "what is the final pathology report"
+   ],
+   "adenocarcinoma, moderately differentiated with mucinous component": [
+    "what is the final pathology report"
+   ],
+   "adenocarcinoma, poorly differentiated": [
+    "what is the final pathology report"
+   ],
+   "adenocarcinoma, poorly differentiated with mucinous component": [
+    "what is the final pathology report"
+   ],
+   "adenocarcinoma, well differentiated": [
+    "what is the final pathology report"
+   ],
+   "adenocarcinoma, well differentiated with mucinous component": [
+    "what is the final pathology report"
+   ],
+   "chronic active colitis": [
+    "what is the final pathology report"
+   ],
+   "chronic nonspecific inflammation": [
+    "what is the final pathology report"
+   ],
+   "extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue (malt lymphoma)": [
+    "what is the final pathology report"
+   ],
+   "gastrointestinal stromal tumor": [
+    "what is the final pathology report"
+   ],
+   "hyperplastic polyp": [
+    "what is the final pathology report"
+   ],
+   "inflammatory polyp": [
+    "what is the final pathology report"
+   ],
+   "malignant lymphoma": [
+    "what is the final pathology report"
+   ],
+   "mucinous adenocarcinoma": [
+    "what is the final pathology report"
+   ],
+   "neuroendocrine tumor, grade 1": [
+    "what is the final pathology report"
+   ],
+   "sessile serrated lesion": [
+    "what is the final pathology report"
+   ],
+   "sessile serrated lesion with low grade dysplasia": [
+    "what is the final pathology report"
+   ],
+   "signet-ring cell carcinoma": [
+    "what is the final pathology report"
+   ],
+   "small cell carcinoma": [
+    "what is the final pathology report"
+   ],
+   "squamous cell carcinoma": [
+    "what is the final pathology report"
+   ],
+   "traditional serrated adenoma": [
+    "what is the final pathology report"
+   ],
+   "traditional serrated adenoma with low grade dysplasia": [
+    "what is the final pathology report"
+   ],
+   "tubular adenoma": [
+    "what is the final pathology report"
+   ],
+   "tubulovillous adenoma": [
+    "what is the final pathology report"
+   ]
+  },
+  "what is the behavior of neoplasm": {
+   "benign": [
+    "is there any serration present"
+   ],
+   "malignant": [
+    "what is the histologic type of neoplasm"
+   ]
+  },
+  "what is the final pathology report": {
+   "anus, incisional biopsy;\\n adenocarcinoma, moderately differentiated": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n adenocarcinoma, moderately differentiated": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n adenocarcinoma, moderately differentiated with mucinous component": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n adenocarcinoma, poorly differentiated": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n adenocarcinoma, poorly differentiated with mucinous component": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n adenocarcinoma, well differentiated": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n adenocarcinoma, well differentiated with mucinous component": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n adenocarcinoma, well differentiated, arising from tubulovillous adenoma with high grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n chronic active colitis": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n chronic nonspecific inflammation": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n extranodal marginal zone lymphoma\\n of mucosa-associated lymphoid tissue (malt lymphoma)": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n gastrointestinal stromal tumor": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n hyperplastic polyp": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n inflammatory polyp": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n malignant lymphoma": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n mucinous adenocarcinoma": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n neuroendocrine tumor, grade 1": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n sessile serrated lesion": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n sessile serrated lesion with low grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n signet-ring cell carcinoma": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n small cell carcinoma": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n traditional serrated adenoma": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n tubular adenoma with high grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n tubular adenoma with low grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n tubulovillous adenoma with high grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic biopsy;\\n tubulovillous adenoma with low grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic mucosal resection;\\n adenocarcinoma, moderately differentiated": [
+    "__END__"
+   ],
+   "colon, colonoscopic mucosal resection;\\n adenocarcinoma, well differentiated": [
+    "__END__"
+   ],
+   "colon, colonoscopic mucosal resection;\\n hyperplastic polyp": [
+    "__END__"
+   ],
+   "colon, colonoscopic mucosal resection;\\n sessile serrated lesion": [
+    "__END__"
+   ],
+   "colon, colonoscopic mucosal resection;\\n sessile serrated lesion with low grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic mucosal resection;\\n signet-ring cell carcinoma": [
+    "__END__"
+   ],
+   "colon, colonoscopic mucosal resection;\\n tubular adenoma with high grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic mucosal resection;\\n tubular adenoma with low grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic mucosal resection;\\n tubulovillous adenoma with high grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic mucosal resection;\\n tubulovillous adenoma with low grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic polypectomy;\\n adenocarcinoma, moderately differentiated": [
+    "__END__"
+   ],
+   "colon, colonoscopic polypectomy;\\n adenocarcinoma, poorly differentiated": [
+    "__END__"
+   ],
+   "colon, colonoscopic polypectomy;\\n adenocarcinoma, well differentiated": [
+    "__END__"
+   ],
+   "colon, colonoscopic polypectomy;\\n hyperplastic polyp": [
+    "__END__"
+   ],
+   "colon, colonoscopic polypectomy;\\n sessile serrated lesion": [
+    "__END__"
+   ],
+   "colon, colonoscopic polypectomy;\\n tubular adenoma with high grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic polypectomy;\\n tubular adenoma with low grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic polypectomy;\\n tubulovillous adenoma with high grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic polypectomy;\\n tubulovillous adenoma with low grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic submucosal dissection;\\n adenocarcinoma, moderately differentiated": [
+    "__END__"
+   ],
+   "colon, colonoscopic submucosal dissection;\\n adenocarcinoma, well differentiated": [
+    "__END__"
+   ],
+   "colon, colonoscopic submucosal dissection;\\n adenocarcinoma, well differentiated with mucinous component": [
+    "__END__"
+   ],
+   "colon, colonoscopic submucosal dissection;\\n hyperplastic polyp": [
+    "__END__"
+   ],
+   "colon, colonoscopic submucosal dissection;\\n neuroendocrine tumor, grade 1": [
+    "__END__"
+   ],
+   "colon, colonoscopic submucosal dissection;\\n tubular adenoma with high grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic submucosal dissection;\\n tubular adenoma with low grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic submucosal dissection;\\n tubulovillous adenoma with high grade dysplasia": [
+    "__END__"
+   ],
+   "colon, colonoscopic submucosal dissection;\\n tubulovillous adenoma with low grade dysplasia": [
+    "__END__"
+   ],
+   "rectum, colonoscopic biopsy;\\n adenocarcinoma, moderately differentiated": [
+    "__END__"
+   ],
+   "rectum, colonoscopic biopsy;\\n adenocarcinoma, poorly differentiated": [
+    "__END__"
+   ],
+   "rectum, colonoscopic biopsy;\\n adenocarcinoma, well differentiated": [
+    "__END__"
+   ],
+   "rectum, colonoscopic biopsy;\\n chronic nonspecific inflammation": [
+    "__END__"
+   ],
+   "rectum, colonoscopic biopsy;\\n extranodal marginal zone lymphoma\\n of mucosa-associated lymphoid tissue (malt lymphoma)": [
+    "__END__"
+   ],
+   "rectum, colonoscopic biopsy;\\n gastrointestinal stromal tumor": [
+    "__END__"
+   ],
+   "rectum, colonoscopic biopsy;\\n hyperplastic polyp": [
+    "__END__"
+   ],
+   "rectum, colonoscopic biopsy;\\n malignant lymphoma": [
+    "__END__"
+   ],
+   "rectum, colonoscopic biopsy;\\n neuroendocrine tumor, grade 1": [
+    "__END__"
+   ],
+   "rectum, colonoscopic biopsy;\\n signet-ring cell carcinoma": [
+    "__END__"
+   ],
+   "rectum, colonoscopic biopsy;\\n squamous cell carcinoma": [
+    "__END__"
+   ],
+   "rectum, colonoscopic biopsy;\\n traditional serrated adenoma": [
+    "__END__"
+   ],
+   "rectum, colonoscopic biopsy;\\n traditional serrated adenoma with low grade dysplasia": [
+    "__END__"
+   ],
+   "rectum, colonoscopic biopsy;\\n tubular adenoma with high grade dysplasia": [
+    "__END__"
+   ],
+   "rectum, colonoscopic biopsy;\\n tubular adenoma with low grade dysplasia": [
+    "__END__"
+   ],
+   "rectum, colonoscopic biopsy;\\n tubulovillous adenoma with high grade dysplasia": [
+    "__END__"
+   ],
+   "rectum, colonoscopic mucosal resection;\\n sessile serrated lesion with low grade dysplasia": [
+    "__END__"
+   ],
+   "rectum, colonoscopic mucosal resection;\\n tubular adenoma with high grade dysplasia": [
+    "__END__"
+   ],
+   "rectum, colonoscopic mucosal resection;\\n tubulovillous adenoma with high grade dysplasia": [
+    "__END__"
+   ],
+   "rectum, colonoscopic polypectomy;\\n adenocarcinoma, moderately differentiated": [
+    "__END__"
+   ],
+   "rectum, colonoscopic polypectomy;\\n adenocarcinoma, well differentiated": [
+    "__END__"
+   ],
+   "rectum, colonoscopic polypectomy;\\n sessile serrated lesion": [
+    "__END__"
+   ],
+   "rectum, colonoscopic polypectomy;\\n tubular adenoma with high grade dysplasia": [
+    "__END__"
+   ],
+   "rectum, colonoscopic polypectomy;\\n tubular adenoma with low grade dysplasia": [
+    "__END__"
+   ],
+   "rectum, colonoscopic polypectomy;\\n tubulovillous adenoma with high grade dysplasia": [
+    "__END__"
+   ],
+   "rectum, colonoscopic submucosal dissection;\\n adenocarcinoma, moderately differentiated": [
+    "__END__"
+   ],
+   "rectum, colonoscopic submucosal dissection;\\n neuroendocrine tumor, grade 1": [
+    "__END__"
+   ]
+  },
+  "what is the grade of dysplasia": {
+   "high grade": [
+    "what is the number of diagnoses to include"
+   ],
+   "low grade": [
+    "what is the number of diagnoses to include"
+   ]
+  },
+  "what is the grade of neoplasm": {
+   "grade 1": [
+    "what is the number of diagnoses to include"
+   ],
+   "moderately differentiated": [
+    "what is the number of diagnoses to include"
+   ],
+   "poorly differentiated": [
+    "what is the number of diagnoses to include"
+   ],
+   "well differentiated": [
+    "what is the number of diagnoses to include"
+   ]
+  },
+  "what is the grading system": {
+   "2-tier grading system": [
+    "what is the grade of dysplasia"
+   ],
+   "3-tier grading system": [
+    "what is the grade of neoplasm"
+   ]
+  },
+  "what is the grading system of dysplasia": {
+   "2-tier grading system": [
+    "what is the grade of dysplasia"
+   ]
+  },
+  "what is the grading system of neoplasm": {
+   "3-tier grading system": [
+    "what is the grade of neoplasm"
+   ],
+   "who grading system of neuroendocrine neoplasms": [
+    "what is the grade of neoplasm"
+   ]
+  },
+  "what is the histologic subtype of neoplasm": {
+   "adenocarcinoma with mucinous component": [
+    "what is the grading system of neoplasm"
+   ],
+   "adenocarcinoma, not otherwise specified": [
+    "what is the grading system of neoplasm"
+   ],
+   "mucinous adenocarcinoma": [
+    "what is the number of diagnoses to include"
+   ],
+   "signet-ring cell carcinoma": [
+    "what is the number of diagnoses to include"
+   ]
+  },
+  "what is the histologic type": {
+   "chronic active colitis": [
+    "what is the number of diagnoses to include"
+   ],
+   "inflammatory polyp": [
+    "what is the number of diagnoses to include"
+   ]
+  },
+  "what is the histologic type of neoplasm": {
+   "adenocarcinoma": [
+    "what is the histologic subtype of neoplasm"
+   ],
+   "extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue (malt lymphoma)": [
+    "what is the number of diagnoses to include"
+   ],
+   "gastrointestinal stromal tumor": [
+    "what is the number of diagnoses to include"
+   ],
+   "hyperplastic polyp": [
+    "what is the number of diagnoses to include"
+   ],
+   "malignant lymphoma": [
+    "what is the number of diagnoses to include"
+   ],
+   "neuroendocrine tumor": [
+    "what is the grading system of neoplasm"
+   ],
+   "sessile serrated lesion": [
+    "is there any dysplasia present"
+   ],
+   "small cell carcinoma": [
+    "what is the number of diagnoses to include"
+   ],
+   "squamous cell carcinoma": [
+    "what is the number of diagnoses to include"
+   ],
+   "traditional serrated adenoma": [
+    "is there any dysplasia present"
+   ],
+   "tubular adenoma": [
+    "is there any dysplasia present"
+   ],
+   "tubulovillous adenoma": [
+    "is there any dysplasia present"
+   ]
+  },
+  "what is the number of diagnoses to include": {
+   "1": [
+    "what is the #1 diagnosis"
+   ]
+  },
+  "what is the organ": {
+   "anus": [
+    "is there any abnormality present"
+   ],
+   "colon": [
+    "is there any abnormality present"
+   ],
+   "rectum": [
+    "is there any abnormality present"
+   ]
+  },
+  "what is the primary of neoplasm": {
+   "anal": [
+    "what is the histologic type of neoplasm"
+   ],
+   "colorectal": [
+    "is there any serration present"
+   ],
+   "hematolymphoid": [
+    "what is the histologic type of neoplasm"
+   ],
+   "mesenchymal": [
+    "what is the histologic type of neoplasm"
+   ],
+   "neuroendocrine": [
+    "what is the histologic type of neoplasm"
+   ]
+  },
+  "what is the procedure": {
+   "colonoscopic biopsy": [
+    "is there any abnormality present"
+   ],
+   "colonoscopic mucosal resection": [
+    "is there any abnormality present"
+   ],
+   "colonoscopic polypectomy": [
+    "is there any abnormality present"
+   ],
+   "colonoscopic submucosal dissection": [
+    "is there any abnormality present"
+   ],
+   "incisional biopsy": [
+    "is there any abnormality present"
+   ]
+  },
+  "what is the proportion of villous component": {
+   "25% to 75%": [
+    "what is the histologic type of neoplasm"
+   ]
+  }
+ },
+ "lung": {
+  "is there any abnormality present": {
+   "no, there is no abnormality": [
+    "what is the number of diagnoses to include"
+   ],
+   "yes, there is an abnormality": [
+    "is there any neoplasm present"
+   ]
+  },
+  "is there any additional finding present": {
+   "no, there is no additional finding": [
+    "what is the number of diagnoses to include"
+   ],
+   "yes, there is an additional finding": [
+    "is there any inflammation present"
+   ]
+  },
+  "is there any fungal organism present": {
+   "no, there is no fungal organism": [
+    "is there any inflammation present"
+   ],
+   "yes, there is a fungal organism": [
+    "what is the morphologically consistent species"
+   ]
+  },
+  "is there any granuloma present": {
+   "no, there is no granuloma": [
+    "is there any organizing fibrosis present",
+    "is there any type ii pneumocyte hyperplasia present"
+   ],
+   "yes, there is a granuloma": [
+    "is there any necrosis present"
+   ]
+  },
+  "is there any inflammation present": {
+   "yes, there is an inflammation": [
+    "is there any granuloma present"
+   ]
+  },
+  "is there any morphological adenocarcinoma pattern present": {
+   "no, there is no morphological adenocarcinoma pattern": [
+    "what is the histologic type of neoplasm"
+   ],
+   "yes, there is a morphological adenocarcinoma pattern": [
+    "is there any mucinous feature present"
+   ]
+  },
+  "is there any morphological squamous cell pattern present": {
+   "no, there is no morphological squamous cell pattern": [
+    "what is the histologic type of neoplasm"
+   ],
+   "yes, there is a morphological squamous cell pattern": [
+    "what is the histologic type of neoplasm"
+   ]
+  },
+  "is there any mucinous feature present": {
+   "no, there is no mucinous feature": [
+    "what is the histologic type of neoplasm"
+   ],
+   "yes, there is a mucinous feature": [
+    "what is the histologic type of neoplasm"
+   ]
+  },
+  "is there any necrosis present": {
+   "no, there is no necrosis": [
+    "is there any additional finding present"
+   ],
+   "yes, there is a necrosis": [
+    "is there any additional finding present"
+   ]
+  },
+  "is there any neoplasm present": {
+   "no, there is no neoplasm": [
+    "is there any fungal organism present"
+   ],
+   "yes, there is a neoplasm": [
+    "what is the behavior of neoplasm",
+    "what is the primary of neoplasm"
+   ]
+  },
+  "is there any neuroendocrine morphology present": {
+   "no, there is no neuroendocrine morphology": [
+    "is there any morphological adenocarcinoma pattern present",
+    "is there any morphological squamous cell pattern present"
+   ],
+   "yes, there is a neuroendocrine morphology": [
+    "what is the histologic type of neoplasm"
+   ]
+  },
+  "is there any organizing fibrosis present": {
+   "no, there is no organizing fibrosis": [
+    "is there any additional finding present"
+   ],
+   "yes, there is an organizing fibrosis": [
+    "is there any additional finding present"
+   ]
+  },
+  "is there any type ii pneumocyte hyperplasia present": {
+   "no, there is no type ii pneumocyte hyperplasia": [
+    "is there any additional finding present"
+   ],
+   "yes, there is a type ii pneumocyte hyperplasia": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the #1 diagnosis": {
+   "adenocarcinoma": [
+    "what is the final pathology report"
+   ],
+   "carcinoid/neuroendocrine tumor, nos": [
+    "what is the final pathology report"
+   ],
+   "chronic granulomatous inflammation with necrosis": [
+    "what is the final pathology report"
+   ],
+   "chronic granulomatous inflammation without necrosis": [
+    "what is the final pathology report"
+   ],
+   "fungal ball, morphologically consistent with aspergillus spp": [
+    "what is the final pathology report"
+   ],
+   "fungal infection, morphologically consistent with cryptococcus spp": [
+    "what is the final pathology report"
+   ],
+   "invasive mucinous adenocarcinoma": [
+    "what is the final pathology report"
+   ],
+   "large cell neuroendocrine carcinoma": [
+    "what is the final pathology report"
+   ],
+   "metastatic adenocarcinoma, from colorectal primary": [
+    "what is the final pathology report"
+   ],
+   "no evidence of malignancy or granuloma": [
+    "what is the final pathology report"
+   ],
+   "non-small cell carcinoma, favor adenocarcinoma": [
+    "what is the final pathology report"
+   ],
+   "non-small cell carcinoma, favor squamous cell carcinoma": [
+    "what is the final pathology report"
+   ],
+   "non-small cell carcinoma, not otherwise specified": [
+    "what is the final pathology report"
+   ],
+   "sclerosing pneumocytoma": [
+    "what is the final pathology report"
+   ],
+   "small cell carcinoma": [
+    "what is the final pathology report"
+   ],
+   "squamous cell carcinoma": [
+    "what is the final pathology report"
+   ]
+  },
+  "what is the #2 diagnosis": {
+   "chronic inflammation with organizing fibrosis": [
+    "what is the final pathology report"
+   ],
+   "chronic inflammation with type ii pneumocyte hyperplasia": [
+    "what is the final pathology report"
+   ],
+   "fungal ball, morphologically consistent with aspergillus spp": [
+    "what is the final pathology report"
+   ],
+   "fungal infection, morphologically consistent with cryptococcus spp": [
+    "what is the final pathology report"
+   ]
+  },
+  "what is the behavior of neoplasm": {
+   "benign": [
+    "what is the histologic type of neoplasm"
+   ],
+   "malignant": [
+    "is there any neuroendocrine morphology present"
+   ]
+  },
+  "what is the final pathology report": {
+   "lung, biopsy;\\n 1. chronic granulomatous inflammation without necrosis\\n 2. fungal infection, morphologically consistent with cryptococcus spp": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n 1. no evidence of malignancy or granuloma\\n 2. chronic inflammation with organizing fibrosis": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n 1. no evidence of malignancy or granuloma\\n 2. chronic inflammation with type ii pneumocyte hyperplasia": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n 1. small cell carcinoma\\n 2. fungal ball, morphologically consistent with aspergillus spp": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n adenocarcinoma": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n carcinoid/neuroendocrine tumor, nos": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n chronic granulomatous inflammation with necrosis": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n chronic granulomatous inflammation without necrosis": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n fungal ball, morphologically consistent with aspergillus spp": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n fungal infection, morphologically consistent with cryptococcus spp": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n invasive mucinous adenocarcinoma": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n large cell neuroendocrine carcinoma": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n metastatic adenocarcinoma, from colorectal primary": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n no evidence of malignancy or granuloma": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n non-small cell carcinoma, favor adenocarcinoma": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n non-small cell carcinoma, favor squamous cell carcinoma": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n non-small cell carcinoma, not otherwise specified": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n sclerosing pneumocytoma": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n small cell carcinoma": [
+    "__END__"
+   ],
+   "lung, biopsy;\\n squamous cell carcinoma": [
+    "__END__"
+   ]
+  },
+  "what is the histologic type of neoplasm": {
+   "adenocarcinoma": [
+    "is there any additional finding present"
+   ],
+   "carcinoid/neuroendocrine tumor, nos": [
+    "is there any additional finding present"
+   ],
+   "invasive mucinous adenocarcinoma": [
+    "is there any additional finding present"
+   ],
+   "large cell neuroendocrine carcinoma": [
+    "is there any additional finding present"
+   ],
+   "metastatic adenocarcinoma, from colorectal primary": [
+    "is there any additional finding present"
+   ],
+   "non-small cell carcinoma": [
+    "what is the histologic subtype of neoplasm"
+   ],
+   "sclerosing pneumocytoma": [
+    "is there any additional finding present"
+   ],
+   "small cell carcinoma": [
+    "is there any additional finding present"
+   ],
+   "squamous cell carcinoma": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the morphologically consistent species": {
+   "aspergillus spp": [
+    "is there any additional finding present"
+   ],
+   "cryptococcus spp": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the number of diagnoses to include": {
+   "1": [
+    "what is the #1 diagnosis"
+   ],
+   "2": [
+    "what is the #1 diagnosis"
+   ]
+  },
+  "what is the organ": {
+   "lung": [
+    "is there any abnormality present"
+   ]
+  },
+  "what is the primary of neoplasm": {
+   "colorectal": [
+    "what is the histologic type of neoplasm"
+   ],
+   "neuroendocrine": [
+    "is there any neuroendocrine morphology present"
+   ],
+   "pulmonary": [
+    "is there any neuroendocrine morphology present"
+   ]
+  },
+  "what is the procedure": {
+   "biopsy": [
+    "is there any abnormality present"
+   ]
+  }
+ },
+ "prostate": {
+  "is there any abnormality present": {
+   "no, there is no abnormality": [
+    "what is the number of diagnoses to include"
+   ],
+   "yes, there is an abnormality": [
+    "is there any neoplasm present"
+   ]
+  },
+  "is there any acute inflammation present": {
+   "no, there is no acute inflammation": [
+    "is there any granuloma present"
+   ],
+   "yes, there is an acute inflammation": [
+    "what is the histologic type of inflammation"
+   ]
+  },
+  "is there any additional finding present": {
+   "no, there is no additional finding": [
+    "what is the number of diagnoses to include"
+   ],
+   "yes, there is an additional finding": [
+    "is there any inflammation present"
+   ]
+  },
+  "is there any gleason pattern 3 present": {
+   "no, there is no gleason pattern 3": [
+    "what is the predominant pattern"
+   ],
+   "yes, there is gleason pattern 3": [
+    "what is the predominant pattern"
+   ]
+  },
+  "is there any gleason pattern 4 present": {
+   "no, there is no gleason pattern 4": [
+    "what is the predominant pattern"
+   ],
+   "yes, there is gleason pattern 4": [
+    "what is the predominant pattern"
+   ]
+  },
+  "is there any gleason pattern 5 present": {
+   "no, there is no gleason pattern 5": [
+    "what is the predominant pattern"
+   ],
+   "yes, there is gleason pattern 5": [
+    "what is the predominant pattern"
+   ]
+  },
+  "is there any granuloma present": {
+   "yes, there is granuloma": [
+    "is there any necrosis present"
+   ]
+  },
+  "is there any inflammation present": {
+   "yes, there is inflammation": [
+    "is there any acute inflammation present"
+   ]
+  },
+  "is there any necrosis present": {
+   "no, there is no necrosis": [
+    "what is the histologic type of inflammation"
+   ],
+   "yes, there is a necrosis": [
+    "what is the histologic type of inflammation"
+   ]
+  },
+  "is there any neoplasm present": {
+   "no, there is no neoplasm": [
+    "is there any inflammation present"
+   ],
+   "yes, there is a neoplasm": [
+    "what is the behavior of neoplasm",
+    "what is the primary of neoplasm"
+   ]
+  },
+  "what is the #1 diagnosis": {
+   "acinar adenocarcinoma": [
+    "what is the final pathology report"
+   ],
+   "malignant lymphoma": [
+    "what is the final pathology report"
+   ],
+   "no tumor present": [
+    "what is the final pathology report"
+   ],
+   "small cell carcinoma": [
+    "what is the final pathology report"
+   ]
+  },
+  "what is the #2 diagnosis": {
+   "acute prostatitis": [
+    "what is the final pathology report"
+   ],
+   "chronic granulomatous inflammation with necrosis": [
+    "what is the final pathology report"
+   ],
+   "chronic granulomatous inflammation without necrosis": [
+    "what is the final pathology report"
+   ]
+  },
+  "what is the behavior of neoplasm": {
+   "malignant": [
+    "what is the histologic type of neoplasm"
+   ]
+  },
+  "what is the final pathology report": {
+   "prostate, biopsy;\\n 1. acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 20%\\n 2. chronic granulomatous inflammation without necrosis": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n 1. acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 25%\\n 2. chronic granulomatous inflammation without necrosis": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n 1. acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 30%\\n 2. chronic granulomatous inflammation without necrosis": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n 1. no tumor present\\n 2. acute prostatitis": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n 1. no tumor present\\n 2. chronic granulomatous inflammation with necrosis": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n 1. no tumor present\\n 2. chronic granulomatous inflammation without necrosis": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 10 (5+5), grade group 5, tumor volume: 10%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 10 (5+5), grade group 5, tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 10 (5+5), grade group 5, tumor volume: 20%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 10 (5+5), grade group 5, tumor volume: 30%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 10 (5+5), grade group 5, tumor volume: 50%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 10 (5+5), grade group 5, tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 10 (5+5), grade group 5, tumor volume: 80%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 10 (5+5), grade group 5, tumor volume: 95%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 1%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 10%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 14%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 15%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 20%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 22%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 25%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 3%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 30%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 33%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 35%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 40%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 45%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 5%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 50%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 55%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 57%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 60%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 62%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 65%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 66%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 7%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 75%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 80%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 83%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 85%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 88%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 6 (3+3), grade group 1, tumor volume: 95%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 10%), tumor volume: 10%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 10%), tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 10%), tumor volume: 15%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 10%), tumor volume: 20%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 10%), tumor volume: 25%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 10%), tumor volume: 30%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 10%), tumor volume: 40%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 10%), tumor volume: 50%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 10%), tumor volume: 55%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 10%), tumor volume: 60%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 10%), tumor volume: 65%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 10%), tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 10%), tumor volume: 80%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 10%), tumor volume: 85%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 10%), tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 10%), tumor volume: 95%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 15%), tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 15%), tumor volume: 33%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 15%), tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 20%), tumor volume: 10%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 20%), tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 20%), tumor volume: 15%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 20%), tumor volume: 20%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 20%), tumor volume: 30%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 20%), tumor volume: 35%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 20%), tumor volume: 40%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 20%), tumor volume: 5%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 20%), tumor volume: 50%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 20%), tumor volume: 60%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 20%), tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 20%), tumor volume: 75%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 20%), tumor volume: 80%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 20%), tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 25%), tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 25%), tumor volume: 80%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 3%), tumor volume: 95%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 30%), tumor volume: 10%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 30%), tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 30%), tumor volume: 15%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 30%), tumor volume: 20%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 30%), tumor volume: 25%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 30%), tumor volume: 30%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 30%), tumor volume: 40%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 30%), tumor volume: 50%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 30%), tumor volume: 60%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 30%), tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 30%), tumor volume: 80%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 30%), tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 35%), tumor volume: 20%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 40%), tumor volume: 10%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 40%), tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 40%), tumor volume: 20%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 40%), tumor volume: 30%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 40%), tumor volume: 40%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 40%), tumor volume: 5%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 40%), tumor volume: 50%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 40%), tumor volume: 60%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 40%), tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 40%), tumor volume: 78%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 40%), tumor volume: 80%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 40%), tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 40%), tumor volume: 95%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 45%), tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 5%), tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 5%), tumor volume: 20%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 5%), tumor volume: 50%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 5%), tumor volume: 65%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 5%), tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 5%), tumor volume: 75%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 5%), tumor volume: 80%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 5%), tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 5%), tumor volume: 95%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 50%), tumor volume: 30%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (3+4), grade group 2 (gleason pattern 4: 50%), tumor volume: 5%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 55%), tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 55%), tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 60%), tumor volume: 10%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 60%), tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 60%), tumor volume: 20%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 60%), tumor volume: 25%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 60%), tumor volume: 30%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 60%), tumor volume: 40%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 60%), tumor volume: 50%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 60%), tumor volume: 60%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 60%), tumor volume: 65%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 60%), tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 60%), tumor volume: 75%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 60%), tumor volume: 80%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 60%), tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 60%), tumor volume: 96%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 65%), tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 65%), tumor volume: 80%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 70%), tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 70%), tumor volume: 20%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 70%), tumor volume: 25%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 70%), tumor volume: 30%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 70%), tumor volume: 40%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 70%), tumor volume: 50%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 70%), tumor volume: 60%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 70%), tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 70%), tumor volume: 80%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 70%), tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 70%), tumor volume: 95%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 75%), tumor volume: 10%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 75%), tumor volume: 30%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 75%), tumor volume: 50%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 75%), tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 80%), tumor volume: 10%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 80%), tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 80%), tumor volume: 15%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 80%), tumor volume: 20%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 80%), tumor volume: 25%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 80%), tumor volume: 30%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 80%), tumor volume: 40%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 80%), tumor volume: 50%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 80%), tumor volume: 60%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 80%), tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 80%), tumor volume: 80%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 80%), tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 80%), tumor volume: 95%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 85%), tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 85%), tumor volume: 50%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 85%), tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 85%), tumor volume: 80%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 85%), tumor volume: 95%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 90%), tumor volume: 10%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 90%), tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 90%), tumor volume: 20%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 90%), tumor volume: 30%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 90%), tumor volume: 40%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 90%), tumor volume: 50%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 90%), tumor volume: 60%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 90%), tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 90%), tumor volume: 75%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 90%), tumor volume: 80%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 90%), tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 90%), tumor volume: 95%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 95%), tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 95%), tumor volume: 30%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 95%), tumor volume: 85%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 7 (4+3), grade group 3 (gleason pattern 4: 95%), tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (3+5), grade group 4, tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (3+5), grade group 4, tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 10%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 15%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 20%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 25%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 30%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 35%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 40%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 45%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 5%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 50%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 55%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 60%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 65%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 66%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 7%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 75%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 80%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 85%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (4+4), grade group 4, tumor volume: 95%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 8 (5+3), grade group 4, tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (4+5), grade group 5, tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (4+5), grade group 5, tumor volume: 20%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (4+5), grade group 5, tumor volume: 30%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (4+5), grade group 5, tumor volume: 40%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (4+5), grade group 5, tumor volume: 5%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (4+5), grade group 5, tumor volume: 50%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (4+5), grade group 5, tumor volume: 60%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (4+5), grade group 5, tumor volume: 66%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (4+5), grade group 5, tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (4+5), grade group 5, tumor volume: 75%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (4+5), grade group 5, tumor volume: 80%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (4+5), grade group 5, tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (4+5), grade group 5, tumor volume: 95%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (5+4), grade group 5, tumor volume: 100%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (5+4), grade group 5, tumor volume: 50%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (5+4), grade group 5, tumor volume: 65%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (5+4), grade group 5, tumor volume: 70%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (5+4), grade group 5, tumor volume: 80%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (5+4), grade group 5, tumor volume: 90%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n acinar adenocarcinoma, gleason's score 9 (5+4), grade group 5, tumor volume: 95%": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n malignant lymphoma": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n no tumor present": [
+    "__END__"
+   ],
+   "prostate, biopsy;\\n small cell carcinoma": [
+    "__END__"
+   ]
+  },
+  "what is the gleason score": {
+   "10 (5+5)": [
+    "what is the grade group"
+   ],
+   "6 (3+3)": [
+    "what is the grade group"
+   ],
+   "7 (3+4)": [
+    "what is the grade group",
+    "what is the percentage of gleason pattern 4"
+   ],
+   "7 (4+3)": [
+    "what is the grade group",
+    "what is the percentage of gleason pattern 4"
+   ],
+   "8 (3+5)": [
+    "what is the grade group"
+   ],
+   "8 (4+4)": [
+    "what is the grade group"
+   ],
+   "8 (5+3)": [
+    "what is the grade group"
+   ],
+   "9 (4+5)": [
+    "what is the grade group"
+   ],
+   "9 (5+4)": [
+    "what is the grade group"
+   ]
+  },
+  "what is the grade group": {
+   "grade group 1": [
+    "is there any additional finding present"
+   ],
+   "grade group 2": [
+    "is there any additional finding present"
+   ],
+   "grade group 3": [
+    "is there any additional finding present"
+   ],
+   "grade group 4": [
+    "is there any additional finding present"
+   ],
+   "grade group 5": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the grading system": {
+   "gleason grading system": [
+    "is there any gleason pattern 3 present",
+    "is there any gleason pattern 4 present",
+    "is there any gleason pattern 5 present"
+   ]
+  },
+  "what is the histologic type of inflammation": {
+   "acute prostatitis": [
+    "what is the number of diagnoses to include"
+   ],
+   "chronic granulomatous inflammation with necrosis": [
+    "what is the number of diagnoses to include"
+   ],
+   "chronic granulomatous inflammation without necrosis": [
+    "what is the number of diagnoses to include"
+   ]
+  },
+  "what is the histologic type of neoplasm": {
+   "acinar adenocarcinoma": [
+    "what is the grading system",
+    "what is the tumor volume"
+   ],
+   "malignant lymphoma": [
+    "is there any additional finding present"
+   ],
+   "small cell carcinoma": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the number of diagnoses to include": {
+   "1": [
+    "what is the #1 diagnosis"
+   ],
+   "2": [
+    "what is the #1 diagnosis"
+   ]
+  },
+  "what is the organ": {
+   "prostate": [
+    "is there any abnormality present"
+   ]
+  },
+  "what is the percentage of gleason pattern 4": {
+   "10%": [
+    "is there any additional finding present"
+   ],
+   "15%": [
+    "is there any additional finding present"
+   ],
+   "20%": [
+    "is there any additional finding present"
+   ],
+   "25%": [
+    "is there any additional finding present"
+   ],
+   "3%": [
+    "is there any additional finding present"
+   ],
+   "30%": [
+    "is there any additional finding present"
+   ],
+   "35%": [
+    "is there any additional finding present"
+   ],
+   "40%": [
+    "is there any additional finding present"
+   ],
+   "45%": [
+    "is there any additional finding present"
+   ],
+   "5%": [
+    "is there any additional finding present"
+   ],
+   "50%": [
+    "is there any additional finding present"
+   ],
+   "55%": [
+    "is there any additional finding present"
+   ],
+   "60%": [
+    "is there any additional finding present"
+   ],
+   "65%": [
+    "is there any additional finding present"
+   ],
+   "70%": [
+    "is there any additional finding present"
+   ],
+   "75%": [
+    "is there any additional finding present"
+   ],
+   "80%": [
+    "is there any additional finding present"
+   ],
+   "85%": [
+    "is there any additional finding present"
+   ],
+   "90%": [
+    "is there any additional finding present"
+   ],
+   "95%": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the predominant pattern": {
+   "gleason pattern 3": [
+    "what is the secondary pattern constituting more than 5% of tumor"
+   ],
+   "gleason pattern 4": [
+    "what is the secondary pattern constituting more than 5% of tumor"
+   ],
+   "gleason pattern 5": [
+    "what is the secondary pattern constituting more than 5% of tumor"
+   ]
+  },
+  "what is the primary of neoplasm": {
+   "hematolymphoid": [
+    "what is the histologic type of neoplasm"
+   ],
+   "neuroendocrine": [
+    "what is the histologic type of neoplasm"
+   ],
+   "prostate": [
+    "what is the histologic type of neoplasm"
+   ]
+  },
+  "what is the procedure": {
+   "biopsy": [
+    "is there any abnormality present"
+   ]
+  },
+  "what is the secondary pattern constituting more than 5% of tumor": {
+   "gleason pattern 3": [
+    "what is the worst grade pattern"
+   ],
+   "gleason pattern 4": [
+    "what is the worst grade pattern"
+   ],
+   "gleason pattern 5": [
+    "what is the worst grade pattern"
+   ],
+   "not identified": [
+    "what is the worst grade pattern"
+   ]
+  },
+  "what is the tumor volume": {
+   "1%": [
+    "is there any additional finding present"
+   ],
+   "10%": [
+    "is there any additional finding present"
+   ],
+   "100%": [
+    "is there any additional finding present"
+   ],
+   "14%": [
+    "is there any additional finding present"
+   ],
+   "15%": [
+    "is there any additional finding present"
+   ],
+   "20%": [
+    "is there any additional finding present"
+   ],
+   "22%": [
+    "is there any additional finding present"
+   ],
+   "25%": [
+    "is there any additional finding present"
+   ],
+   "3%": [
+    "is there any additional finding present"
+   ],
+   "30%": [
+    "is there any additional finding present"
+   ],
+   "33%": [
+    "is there any additional finding present"
+   ],
+   "35%": [
+    "is there any additional finding present"
+   ],
+   "4%": [
+    "is there any additional finding present"
+   ],
+   "40%": [
+    "is there any additional finding present"
+   ],
+   "45%": [
+    "is there any additional finding present"
+   ],
+   "5%": [
+    "is there any additional finding present"
+   ],
+   "50%": [
+    "is there any additional finding present"
+   ],
+   "55%": [
+    "is there any additional finding present"
+   ],
+   "57%": [
+    "is there any additional finding present"
+   ],
+   "60%": [
+    "is there any additional finding present"
+   ],
+   "62%": [
+    "is there any additional finding present"
+   ],
+   "65%": [
+    "is there any additional finding present"
+   ],
+   "66%": [
+    "is there any additional finding present"
+   ],
+   "7%": [
+    "is there any additional finding present"
+   ],
+   "70%": [
+    "is there any additional finding present"
+   ],
+   "75%": [
+    "is there any additional finding present"
+   ],
+   "78%": [
+    "is there any additional finding present"
+   ],
+   "80%": [
+    "is there any additional finding present"
+   ],
+   "83%": [
+    "is there any additional finding present"
+   ],
+   "85%": [
+    "is there any additional finding present"
+   ],
+   "88%": [
+    "is there any additional finding present"
+   ],
+   "90%": [
+    "is there any additional finding present"
+   ],
+   "95%": [
+    "is there any additional finding present"
+   ],
+   "96%": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the worst grade pattern": {
+   "gleason pattern 3": [
+    "what is the gleason score"
+   ],
+   "gleason pattern 4": [
+    "what is the gleason score"
+   ],
+   "gleason pattern 5": [
+    "what is the gleason score"
+   ]
+  }
+ },
+ "stomach": {
+  "is there any abnormality present": {
+   "no, there is no abnormality": [
+    "what is the number of diagnoses to include"
+   ],
+   "yes, there is an abnormality": [
+    "is there any neoplasm present"
+   ]
+  },
+  "is there any active inflammation present": {
+   "no, there is no active inflammation": [
+    "is there any foveolar epithelial hyperplasia present",
+    "is there any intestinal metaplasia present",
+    "is there any lymphoid aggregate present",
+    "is there any ulceration present"
+   ],
+   "yes, there is an active inflammation": [
+    "is there any foveolar epithelial hyperplasia present",
+    "is there any intestinal metaplasia present",
+    "is there any lymphoid aggregate present",
+    "is there any ulceration present"
+   ]
+  },
+  "is there any additional finding present": {
+   "no, there is no additional finding": [
+    "what is the number of diagnoses to include"
+   ],
+   "yes, there is an additional finding": [
+    "what is the additional finding"
+   ]
+  },
+  "is there any dysplasia present": {
+   "no, there is no dysplasia": [
+    "what is the number of diagnoses to include"
+   ],
+   "yes, there is a dysplasia": [
+    "what is the grading system of dysplasia"
+   ]
+  },
+  "is there any foveolar epithelial hyperplasia present": {
+   "no, there is no foveolar epithelial hyperplasia": [
+    "is there any additional finding present"
+   ],
+   "yes, there is a foveolar epithelial hyperplasia": [
+    "is there any additional finding present"
+   ]
+  },
+  "is there any intestinal metaplasia present": {
+   "no, there is no intestinal metaplasia": [
+    "is there any additional finding present"
+   ],
+   "yes, there is an intestinal metaplasia": [
+    "is there any additional finding present"
+   ]
+  },
+  "is there any lymphoid aggregate present": {
+   "no, there is no lymphoid aggregate": [
+    "is there any additional finding present"
+   ],
+   "yes, there is a lymphoid aggregate": [
+    "is there any lymphoid follicle present"
+   ]
+  },
+  "is there any lymphoid follicle present": {
+   "no, there is no lymphoid follicle": [
+    "is there any additional finding present"
+   ],
+   "yes, there is a lymphoid follicle": [
+    "is there any additional finding present"
+   ]
+  },
+  "is there any neoplasm present": {
+   "no, there is no neoplasm": [
+    "is there any polyp present"
+   ],
+   "yes, there is a neoplasm": [
+    "what is the behavior of neoplasm",
+    "what is the primary of neoplasm"
+   ]
+  },
+  "is there any polyp present": {
+   "no, there is no polyp": [
+    "is there any active inflammation present"
+   ],
+   "yes, there is a polyp": [
+    "what is the histologic type of polyp"
+   ]
+  },
+  "is there any ulceration present": {
+   "no, there is no ulceration": [
+    "is there any additional finding present"
+   ],
+   "yes, there is an ulceration": [
+    "what is the depth of ulceration"
+   ]
+  },
+  "what is the #1 diagnosis": {
+   "adenocarcinoma, moderately differentiated": [
+    "what is the final pathology report"
+   ],
+   "adenocarcinoma, moderately differentiated with mucinous component": [
+    "what is the final pathology report"
+   ],
+   "adenocarcinoma, moderately differentiated with poorly cohesive carcinoma component": [
+    "what is the final pathology report"
+   ],
+   "adenocarcinoma, moderately differentiated with signet-ring cell component": [
+    "what is the final pathology report"
+   ],
+   "adenocarcinoma, moderately differentiated with signet-ring cell component and mucinous component": [
+    "what is the final pathology report"
+   ],
+   "adenocarcinoma, poorly differentiated": [
+    "what is the final pathology report"
+   ],
+   "adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component": [
+    "what is the final pathology report"
+   ],
+   "adenocarcinoma, poorly differentiated with signet-ring cell component": [
+    "what is the final pathology report"
+   ],
+   "adenocarcinoma, well differentiated": [
+    "what is the final pathology report"
+   ],
+   "amyloidosis": [
+    "what is the final pathology report"
+   ],
+   "chronic active gastritis": [
+    "what is the final pathology report"
+   ],
+   "chronic gastritis": [
+    "what is the final pathology report"
+   ],
+   "extranodal marginal zone b cell lymphoma of malt type": [
+    "what is the final pathology report"
+   ],
+   "foveolar-type adenoma": [
+    "what is the final pathology report"
+   ],
+   "fundic gland polyp": [
+    "what is the final pathology report"
+   ],
+   "gastrointestinal stromal tumor": [
+    "what is the final pathology report"
+   ],
+   "malignant lymphoma": [
+    "what is the final pathology report"
+   ],
+   "malignant melanoma": [
+    "what is the final pathology report"
+   ],
+   "mucinous adenocarcinoma": [
+    "what is the final pathology report"
+   ],
+   "neuroendocrine tumor, grade 1": [
+    "what is the final pathology report"
+   ],
+   "poorly cohesive carcinoma, not otherwise specified": [
+    "what is the final pathology report"
+   ],
+   "poorly cohesive carcinoma, signet-ring cell type": [
+    "what is the final pathology report"
+   ],
+   "small cell carcinoma": [
+    "what is the final pathology report"
+   ],
+   "squamous cell carcinoma": [
+    "what is the final pathology report"
+   ],
+   "tubular adenoma": [
+    "what is the final pathology report"
+   ]
+  },
+  "what is the additional finding": {
+   "amyloid deposit": [
+    "what is the number of diagnoses to include"
+   ],
+   "cmv-infected cells": [
+    "what is the number of diagnoses to include"
+   ],
+   "reactive atypia": [
+    "what is the number of diagnoses to include"
+   ]
+  },
+  "what is the behavior of neoplasm": {
+   "benign": [
+    "is there any serration present"
+   ],
+   "malignant": [
+    "what is the histologic type of neoplasm"
+   ]
+  },
+  "what is the depth of ulceration": {
+   "confined to the mucosa": [
+    "is there any additional finding present"
+   ],
+   "extend through the muscularis mucosae": [
+    "is there any additional finding present"
+   ]
+  },
+  "what is the final pathology report": {
+   "stomach, endoscopic biopsy;\\n adenocarcinoma, moderately differentiated": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n adenocarcinoma, moderately differentiated with mucinous component": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n adenocarcinoma, moderately differentiated with poorly cohesive carcinoma component": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n adenocarcinoma, moderately differentiated with signet-ring cell component": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n adenocarcinoma, moderately differentiated with signet-ring cell component and mucinous component": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n adenocarcinoma, poorly differentiated": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n adenocarcinoma, poorly differentiated with signet-ring cell component": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n adenocarcinoma, well differentiated": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n amyloidosis": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic active gastritis": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic active gastritis with erosion": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic active gastritis with foveolar epithelial hyperplasia": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic active gastritis with intestinal metaplasia": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic active gastritis with lymphoid aggregate": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic active gastritis with lymphoid follicle": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic active gastritis with ulcer": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic active gastritis\\n 1) erosion\\n 2) intestinal metaplasia\\n 3) lymphoid aggregate": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic active gastritis\\n 1) erosion\\n 2) intestinal metaplasia\\n 3) lymphoid aggregate\\n 4) cmv-infected cells": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic active gastritis\\n 1) erosion\\n 2) lymphoid aggregate": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic active gastritis\\n 1) ulcer\\n 2) intestinal metaplasia\\n 3) lymphoid aggregate": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic active gastritis\\n with 1) erosion\\n 2) intestinal metaplasia": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic active gastritis\\n with 1) erosion\\n 2) intestinal metaplasia\\n 3) reactive atypia": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic active gastritis\\n with 1) intestinal metaplasia\\n 2) foveolar epithelial hyperplasia": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic active gastritis\\n with 1) intestinal metaplasia\\n 2) lymphoid aggregate": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic active gastritis\\n with 1) ulcer\\n 2) intestinal metaplasia": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic gastritis": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic gastritis with erosion": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic gastritis with foveolar epithelial hyperplasia": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic gastritis with intestinal metaplasia": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic gastritis with lymphoid aggregate": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic gastritis with ulcer": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic gastritis\\n with 1) erosion\\n 2) intestinal metaplasia": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic gastritis\\n with 1) intestinal metaplasia\\n 2) foveolar epithelial hyperplasia": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic gastritis\\n with 1) intestinal metaplasia\\n 2) lymphoid aggregate": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n chronic gastritis\\n with 1) ulcer\\n 2) intestinal metaplasia": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n extranodal marginal zone b cell lymphoma of malt type": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n foveolar-type adenoma": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n fundic gland polyp": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n gastrointestinal stromal tumor": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n hyperplastic polyp": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n malignant lymphoma": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n malignant melanoma": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n mucinous adenocarcinoma": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n neuroendocrine tumor, grade 1": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n poorly cohesive carcinoma, not otherwise specified": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n poorly cohesive carcinoma, signet-ring cell type": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n small cell carcinoma": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n squamous cell carcinoma": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n tubular adenoma with high grade dysplasia": [
+    "__END__"
+   ],
+   "stomach, endoscopic biopsy;\\n tubular adenoma with low grade dysplasia": [
+    "__END__"
+   ],
+   "stomach, endoscopic mucosal resection;\\n gastrointestinal stromal tumor": [
+    "__END__"
+   ],
+   "stomach, endoscopic polypectomy;\\n foveolar-type adenoma with high grade dysplasia": [
+    "__END__"
+   ],
+   "stomach, endoscopic submucosal dissection;\\n adenocarcinoma, moderately differentiated": [
+    "__END__"
+   ],
+   "stomach, endoscopic submucosal dissection;\\n adenocarcinoma, well differentiated": [
+    "__END__"
+   ],
+   "stomach, endoscopic submucosal dissection;\\n tubular adenoma with low grade dysplasia": [
+    "__END__"
+   ]
+  },
+  "what is the grade of dysplasia": {
+   "high grade": [
+    "what is the number of diagnoses to include"
+   ],
+   "low grade": [
+    "what is the number of diagnoses to include"
+   ]
+  },
+  "what is the grade of neoplasm": {
+   "grade 1": [
+    "what is the number of diagnoses to include"
+   ],
+   "moderately differentiated": [
+    "what is the number of diagnoses to include"
+   ],
+   "poorly differentiated": [
+    "what is the number of diagnoses to include"
+   ],
+   "well differentiated": [
+    "what is the number of diagnoses to include"
+   ]
+  },
+  "what is the grading system of dysplasia": {
+   "2-tier grading system": [
+    "what is the grade of dysplasia"
+   ]
+  },
+  "what is the grading system of neoplasm": {
+   "3-tier grading system": [
+    "what is the grade of neoplasm"
+   ],
+   "who grading system of neuroendocrine neoplasms": [
+    "what is the grade of neoplasm"
+   ]
+  },
+  "what is the histologic subtype of neoplasm": {
+   "mixed adenocarcinoma": [
+    "what is the number of distinct histological components"
+   ],
+   "mucinous adenocarcinoma": [
+    "what is the number of diagnoses to include"
+   ],
+   "poorly cohesive carcinoma, not otherwise specified": [
+    "what is the number of diagnoses to include"
+   ],
+   "poorly cohesive carcinoma, signet-ring cell type": [
+    "what is the number of diagnoses to include"
+   ],
+   "tubular adenocarcinoma": [
+    "what is the grading system of neoplasm"
+   ]
+  },
+  "what is the histologic type of neoplasm": {
+   "adenocarcinoma": [
+    "what is the histologic subtype of neoplasm"
+   ],
+   "extranodal marginal zone b cell lymphoma of malt type": [
+    "what is the number of diagnoses to include"
+   ],
+   "foveolar-type adenoma": [
+    "is there any dysplasia present"
+   ],
+   "gastrointestinal stromal tumor": [
+    "what is the number of diagnoses to include"
+   ],
+   "malignant lymphoma": [
+    "what is the number of diagnoses to include"
+   ],
+   "malignant melanoma": [
+    "what is the number of diagnoses to include"
+   ],
+   "neuroendocrine tumor": [
+    "what is the grading system of neoplasm"
+   ],
+   "small cell carcinoma": [
+    "what is the number of diagnoses to include"
+   ],
+   "squamous cell carcinoma": [
+    "what is the number of diagnoses to include"
+   ],
+   "tubular adenoma": [
+    "is there any dysplasia present"
+   ]
+  },
+  "what is the histologic type of polyp": {
+   "fundic gland polyp": [
+    "what is the number of diagnoses to include"
+   ],
+   "hyperplastic polyp": [
+    "what is the number of diagnoses to include"
+   ]
+  },
+  "what is the histological subtype of #1 component": {
+   "tubular adenocarcinoma": [
+    "what is the grading system of neoplasm"
+   ]
+  },
+  "what is the histological subtype of #2 component": {
+   "mucinous adenocarcinoma": [
+    "what is the number of diagnoses to include"
+   ],
+   "poorly cohesive carcinoma, not otherwise specified": [
+    "what is the number of diagnoses to include"
+   ],
+   "poorly cohesive carcinoma, signet-ring cell type": [
+    "what is the number of diagnoses to include"
+   ]
+  },
+  "what is the histological subtype of #3 component": {
+   "mucinous adenocarcinoma": [
+    "what is the number of diagnoses to include"
+   ]
+  },
+  "what is the number of diagnoses to include": {
+   "1": [
+    "what is the #1 diagnosis"
+   ]
+  },
+  "what is the number of distinct histological components": {
+   "2": [
+    "what is the histological subtype of #1 component"
+   ],
+   "3": [
+    "what is the histological subtype of #1 component"
+   ]
+  },
+  "what is the organ": {
+   "stomach": [
+    "is there any abnormality present"
+   ]
+  },
+  "what is the primary of neoplasm": {
+   "gastric": [
+    "what is the histologic type of neoplasm"
+   ],
+   "hematolymphoid": [
+    "what is the histologic type of neoplasm"
+   ],
+   "melanocytic": [
+    "what is the histologic type of neoplasm"
+   ],
+   "mesenchymal": [
+    "what is the histologic type of neoplasm"
+   ],
+   "neuroendocrine": [
+    "what is the histologic type of neoplasm"
+   ]
+  },
+  "what is the procedure": {
+   "endoscopic biopsy": [
+    "is there any abnormality present"
+   ],
+   "endoscopic mucosal resection": [
+    "is there any abnormality present"
+   ],
+   "endoscopic polypectomy": [
+    "is there any abnormality present"
+   ],
+   "endoscopic submucosal dissection": [
+    "is there any abnormality present"
+   ]
+  }
+ }
+}

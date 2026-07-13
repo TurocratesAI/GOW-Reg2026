@@ -1,0 +1,13 @@
+Pillow
+numpy
+tifffile
+imagecodecs
+# --- GOW pipeline deps ---
+timm==1.0.26
+segmentation-models-pytorch==0.5.0
+openslide-python==1.4.3
+opencv-python-headless==4.13.0.92
+safetensors==0.7.0
+einops==0.8.2
+# CONCH (mahmoodlab) - pathology vision-language model for interf0 gate + text embeddings
+git+https://github.com/mahmoodlab/CONCH.git

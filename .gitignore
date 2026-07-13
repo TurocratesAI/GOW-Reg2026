@@ -1,0 +1,75 @@
+# --- Whole-slide images & pathology data (never commit; live on S3) ---
+*.tif
+*.tiff
+*.svs
+*.mrxs
+*.ndpi
+*.dcm
+*.jp2
+
+# --- Model weights / large artifacts ---
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+*.ckpt
+model.tar.gz
+*.tar.gz
+*.zip
+
+# --- Precomputed features / embeddings / indexes ---
+embeddings/
+features/
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.faiss
+*.index
+
+# --- Credentials & secrets ---
+*.pem
+*.key
+.env
+.env.*
+credentials
+aws_transfer_config
+**/.aws/
+
+# --- Logs & scratch ---
+*.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.claude/settings.local.json
+
+# --- OS ---
+.DS_Store
+
+# --- Generated data / downloads (regenerate via the pipeline; never commit) ---
+data/
+gow/artifacts/eval_*.json
+
+# --- Container staging (weights are mounted via model.tar.gz; source is bundled by stage.sh) ---
+gow/container/model/
+gow/container/gowsrc/
+gow/container/test/output/
+gow/container/reg2026_algorithm_*.tar.gz
+gow/container/model.tar.gz
+
+# --- LaTeX build artifacts (keep .tex/.pdf/.bib/.cls/.bst/figures/tables) ---
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.blg
+paper/*.bbl
+
+# --- Scratch eval results ---
+gow/eval/*_result.json
+
+# --- Vendored copy of the organizers' scoring code (Haasha/REG2026) - reference only ---
+# (kept locally for eval; see README. Comment the next line out to include it.)
+gow/scorer/
